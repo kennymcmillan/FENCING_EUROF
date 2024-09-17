@@ -26,7 +26,7 @@ from datetime import datetime
 import HISTORICAL_Eurofencing_XML_scrape_individuals
 import HISTORICAL_Eurofencing_XML_scrape_teams
 import HISTORICAL_EuroF_all_competitions
-import HISTORICAL_all_fencers
+import HISTORICAL_EuroF_all_fencers
 
 # Silence warnings
 warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
@@ -221,4 +221,4 @@ HISTORICAL_Eurofencing_XML_scrape_individuals.process_files()
 HISTORICAL_Eurofencing_XML_scrape_teams.process_files()
 
 HISTORICAL_EuroF_all_competitions.process_files()
-HISTORICAL_all_fencers.process_files()
+HISTORICAL_EuroF_all_fencers.process_files()

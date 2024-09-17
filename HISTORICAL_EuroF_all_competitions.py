@@ -5,7 +5,7 @@ import pandas as pd
 # Path to the folder containing the XML files
 folder_path = 'xml_links'
 csv_file_path = 'HISTORICAL_Eurofencing_competitions.csv'
-log_file_path = 'parse_errors.log'
+log_file_path = 'parse_errors1.log'
 
 # If the CSV file already exists, delete it
 if os.path.exists(csv_file_path):

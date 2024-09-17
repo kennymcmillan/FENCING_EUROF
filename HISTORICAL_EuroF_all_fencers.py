@@ -59,7 +59,7 @@ def extract_fencer_info(xml_text, xml_file):
             lateralite = re.search(r'Lateralite="([^"]+)"', tireur)
             classement = re.search(r'Classement="([^"]+)"', tireur)
 
-            # Store the fencer data in a dictionary
+            # Create a dictionary with the fencer's data
             fencer_info = {
                 'FencerID': fencer_id_value,
                 'Nom': nom.group(1) if nom else None,
@@ -68,28 +68,44 @@ def extract_fencer_info(xml_text, xml_file):
                 'Sexe': sexe.group(1) if sexe else None,
                 'Nation': nation.group(1) if nation else None,
                 'Licence': licence.group(1) if licence else None,
-                'Lateralite': lateralite.group(1) if lateralite else None,
-                'Classement': classement.group(1) if classement else None,
-                'FileName': xml_file  # For reference to the XML file the fencer was found in
+                'Lateralite': lateralite.group(1) if lateralite else None
             }
 
-            # Append the fencer info to the list
-            fencer_data.append(fencer_info)
+            # Only append the row if there is meaningful data (i.e., not all fields are empty)
+            if any(value is not None and value != "" for value in fencer_info.values()):
+                fencer_data.append(fencer_info)
 
     except Exception as e:
         log_error(xml_file, str(e))
 
 # Function to save data and reset the batch
 def save_and_reset(batch_data):
-    # Append new data to the existing CSV
+    # Convert batch to DataFrame
     df_batch = pd.DataFrame(batch_data)
-    if os.path.exists(csv_file_path):
-        df_batch.to_csv(csv_file_path, mode='a', header=False, index=False)
-    else:
-        df_batch.to_csv(csv_file_path, mode='w', header=True, index=False)
 
+    # Remove rows where all values are empty (i.e., only empty strings or None)
+    df_batch.dropna(how='all', inplace=True)
+
+    # Append new data to the existing CSV
+    if not df_batch.empty:
+        if os.path.exists(csv_file_path):
+            df_batch.to_csv(csv_file_path, mode='a', header=False, index=False)
+        else:
+            df_batch.to_csv(csv_file_path, mode='w', header=True, index=False)
+        
     # Clear batch data from memory after saving
     batch_data.clear()
+    
+def sort_final_csv():
+    # Read the full CSV
+    df_final = pd.read_csv(csv_file_path)
+
+    # Sort by FencerID in ascending order
+    df_final.sort_values(by='FencerID', inplace=True)
+
+    # Save the sorted CSV back to the file
+    df_final.to_csv(csv_file_path, index=False)
+    print(f"Final CSV sorted by FencerID and saved.")
 
 # Main function to process XML files
 def process_files():
@@ -126,9 +142,13 @@ def process_files():
     # Save any remaining data after the loop completes
     if fencer_data:
         save_and_reset(fencer_data)
+        
+     # Sort the final CSV after all batches are processed
+    sort_final_csv()
 
     print(f"Fencer database saved to {csv_file_path}")
     print(f"Check {log_file_path} for any errors.")
+    
 
 # Entry point
 if __name__ == "__main__":

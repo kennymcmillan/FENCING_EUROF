@@ -1,2 +1,4 @@
 .env
 xml_links
+HISTORICAL_EuroF_individual_match_data.csv
+HISTORICAL_EuroF_team_match_data.csv
