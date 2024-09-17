@@ -1,0 +1,2310 @@
+CompetitionID,Arme,Sexe,Domaine,Federation,Categorie,Date,TitreCourt,TitreLong,CompetitionType,FileName
+95,E,M,,SVK,C,13.02.2010,Bratislava FMC,Bratislava FMC,Individual,1.xml
+741,F,M,I,GER,S,16.07.2010,,Championnats d'Europe,Individual,10.xml
+182,S,M,I,BEL,S,23.10.2010,FO-2010-SH,Tournoi satellite sabre masculin,Individual,100.xml
+42,S,F,,HUN,C,04.10.2014,SFC-eq,Cadet Circuit - Women's Saber Team,Team,1001.xml
+40,S,F,I,HUN,C,04.10.2014,SFC-in,Cadet Circuit,Individual,1002.xml
+43,S,M,,HUN,C,04.10.2014,SMC-eq,Cadet Circuit - Men's Saber Team,Team,1003.xml
+2054,E,M,N,HUN,S,05.10.2014,EMS_05-in,Iron Trade Kupa Felnott Ferfi Parbajtor Valogato es U23 Korverseny,Individual,1004.xml
+2056,E,F,N,HUN,S,05.10.2014,EFS-in,Iron Trade Kupa Felnott Noi Parbajtor Valogato es U23 Korverseny,Individual,1005.xml
+14,F,M,I,,C,04.10.2014,,Manchester Cadet,Individual,1006.xml
+23,E,F,,SUI,C,11.10.2014,EFC-LoL,Cadet Circuit,Individual,1007.xml
+36,F,F,,SVK,C,18.10.2014,Coupe de Samaria 2014,Coupe de Samaria 2014,Individual,1008.xml
+2,F,F,I,slovak,B,19.10.2014,Coupe de Samaria 2014-teams,Coupe de Samaria 2014 - teams,Team,1009.xml
+391,F,M,I,GBR,S,05.12.2010,Leon Paul Cup,Leon Paul Cup,Individual,101.xml
+48,F,M,,GRE,C,18.10.2014,FMC-in,Florina Cadet Circuit 2014,Individual,1011.xml
+208,S,F,I,FFE,C,18.10.2014,Eurosabre 2014 SD,,Individual,1012.xml
+124,S,M,I,FFE,C,18.10.2014,Eurosabre 2014 SH,,Individual,1013.xml
+21,S,M,I,FFE,C,19.10.2014,Eurosabre 2014 SH Equipe,,Team,1018.xml
+72,F,F,,FRA,C,11.12.2010,FDC_Ind,European Cadet Circuit,Individual,102.xml
+495,E,F,,AUT,C,25.10.2014,EFC-in,Cadet Circuit Women Epee,Individual,1020.xml
+494,E,M,,AUT,C,25.10.2014,EMC-in,Cadet Circuit Men Epee,Individual,1021.xml
+2,E,F,I,AUT,C,25.10.2014,Klagenfurt EFC_Eq,Women Epee Cadet Team,Team,1022.xml
+35,E,M,I,AUT,C,25.10.2014,Klagenfurt EMC_Eq,Men Epee Cadet Team,Team,1024.xml
+234,E,M,I,FFE,S,02.11.2014,u-23-ehs,u-23-ehs,Individual,1026.xml
+231,E,F,I,FFE,S,02.11.2014,u23-eds,u23-eds,Individual,1027.xml
+76,S,F,Z,GER,C,11.12.2010,European Cadet Circuit,European Cadet Circuit,Individual,103.xml
+63,S,M,,BUL,C,08.11.2014,SMC-in,Cadet Circuit,Individual,1033.xml
+538,F,M,,AUT,C,08.11.2014,FMC-in,ECC 2014 men's foil,Individual,1039.xml
+539,F,F,,AUT,C,09.11.2014,FFC-in,ECC 2014 women's foil,Individual,1044.xml
+3,S,F,I,FFE,C,19.10.2014,EUROSABRE 2014 SD Equipe,,Team,1046.xml
+62,S,F,,BUL,C,08.11.2014,SFC-in,Cadet Circuit,Individual,1047.xml
+65,S,M,,BUL,C,08.11.2014,SMC-eq,Cadet Circuit,Team,1048.xml
+77,S,M,Z,GER,C,11.12.2010,European Cadet Circuit,European Cadet Circuit,Individual,105.xml
+64,S,F,,BUL,C,08.11.2014,SFC-eq,Cadet Circuit,Team,1052.xml
+34,E,M,I,GER,C,15.11.2014,Cadet Circuit,Cadet Circuit,Individual,1053.xml
+32,E,F,Z,GER,C,15.11.2014,Cadet Circuit,Cadet Circuit,Individual,1054.xml
+54,E,F,,FRA,C,22.11.2014,EFC-in,Cadet Circuit,Individual,1055.xml
+73,F,M,,FRA,C,12.12.2010,FHC,European Cadet Circuit,Individual,106.xml
+55,E,F,,FRA,C,22.11.2014,EFC-eq,Cadet Circuit,Team,1063.xml
+66,S,F,,RUS,C,22.11.2014,SFC-in,Cadet Circuit,Individual,1064.xml
+67,S,M,,RUS,C,22.11.2014,SMC-in,Cadet Circuit,Individual,1065.xml
+217,E,M,I,FFE,C,29.11.2014,141129_ce_ehc,8 eme Coupe Europeenne Epee Homme Cadet,Individual,1066.xml
+503,S,F,,POL,B,29.11.2014,U23 European Circuit,U23 European Circuit,Individual,1069.xml
+502,S,M,,POL,B,29.11.2014,U23 European Circuit,U23 European Circuit,Individual,1070.xml
+35,E,M,,GER,C,16.11.2014,Tank und Rast 2014,Tank und Rast 2014,Team,1071.xml
+38,F,M,Z,GER,C,29.11.2014,Cadet Circuit,Cadet Circuit,Individual,1072.xml
+46,F,F,,GER,C,29.11.2014,spc2014,Sparkassen-Cup 2014,Individual,1073.xml
+80,E,F,,ITA,C,14.01.2011,EFC-in,Spf,Individual,108.xml
+536,F,M,Z,GER,C,24.11.2013,Cadet Circuit,Cadet Circuit,Team,1080.xml
+507,E,M,,AUT,S,06.12.2014,EMU-in,U23 EC EM,Individual,1081.xml
+532,F,F,,AUT,S,06.12.2014,FFU-in,U23 EC WF,Individual,1082.xml
+185,F,M,I,FFE,C,04.12.2014,FHC_12CM,FLEURET HOMMES CADETS_12CM,Individual,1083.xml
+86,F,F,I,FFE,C,04.12.2014,FDC_12CM,FLEURET DAMES CADETTES_12CM,Individual,1084.xml
+508,E,F,,AUT,S,06.12.2014,EFU-in,U23 EC WE,Individual,1085.xml
+531,F,M,,AUT,S,07.12.2014,FMU-in,U23 EC MF,Individual,1086.xml
+11,F,F,I,FFE,C,04.12.2014,FDC_12CM_EQUIP,FLEURET DAMES CADETTES EQUIPE_12CM,Team,1087.xml
+14,F,M,I,FFE,C,04.12.2014,FHC_12CM_EQUIP,FLEURET HOMMES CADETS EQUIPE_12CM,Team,1088.xml
+76,S,F,Z,GER,C,13.12.2014,Cadet Circuit,Cadet Circuit,Individual,1089.xml
+81,E,M,,ITA,C,14.01.2011,EMC-in,SPM,Individual,109.xml
+79,S,M,Z,GER,C,13.12.2014,Cadet Circuit,Cadet Circuit,Team,1090.xml
+521,E,M,Z,DEN,C,13.12.2014,Cadet Circuit,Cadet Circuit,Individual,1091.xml
+522,E,F,Z,DEN,C,13.12.2014,Cadet Circuit,Cadet Circuit,Individual,1092.xml
+533,E,F,Z,GER,U,13.12.2014,U23 European Circuit,U23 European Circuit,Individual,1093.xml
+77,S,M,Z,GER,C,13.12.2014,Cadet Circuit,Cadet Circuit,Individual,1094.xml
+554,F,M,,ESP,B,13.12.2014,FMU-in,U2 European Terrassa FMU-in,Individual,1095.xml
+78,S,F,Z,GER,C,13.12.2014,Cadet Circuit,Cadet Circuit,Team,1096.xml
+562,E,F,I,HUN,S,20.12.2014,EFS-in,EG Baku Qualification Tournament Women Epee,Individual,1097.xml
+561,S,M,,HUN,S,20.12.2014,SMS-in,EG Baku Qualification Tournament Men's Sabre individual,Individual,1099.xml
+738,E,F,I,GER,S,16.07.2010,,Championnats d'Europe,Individual,11.xml
+82,F,F,,ITA,C,14.01.2011,FFC-in,FF,Individual,110.xml
+560,F,M,,HUN,S,20.12.2014,FMS-in,EG Baku Qualification Tournament Men's Foil individual,Individual,1100.xml
+559,E,M,,HUN,S,20.12.2014,EMS-in,EG Baku Qualification Tournament Men's Epee individual,Individual,1101.xml
+563,F,F,I,HUN,S,20.12.2014,FFS-in,EG Baku Qualification Tournament Women Foil,Individual,1102.xml
+564,S,F,I,HUN,S,20.12.2014,SFS-in,EG Baku Qualification Tournament Women Sabre,Individual,1103.xml
+542,F,M,,ITA,C,03.01.2015,FMC-in,Cadet Circuit,Individual,1104.xml
+543,F,F,,ITA,C,03.01.2015,FFC-in,Cadet Circuit,Individual,1105.xml
+505,F,F,,POL,,03.01.2015,FFU-in,U23 European Circuit,Individual,1106.xml
+504,F,M,,POL,A,03.01.2015,FMU-in,U23 European Circuit,Individual,1108.xml
+523,E,M,,POL,C,10.01.2015,Cadet Circuit,Cadet Circuit,Individual,1109.xml
+83,F,M,,ITA,C,14.01.2011,FMC-in,FM,Individual,111.xml
+524,E,F,,POL,C,11.01.2015,Cadet Circuit,Cadet Circuit,Individual,1110.xml
+461,E,M,Z,GER,U23,10.01.2015,U23 European Circuit Weisser Baer,U23 European Circuit Weisser Baer,Individual,1113.xml
+541,S,F,,AUT,C,17.01.2015,SFC-in,ECC SF 2015,Individual,1114.xml
+540,S,M,,AUT,C,17.01.2015,SMC-in,ECC SM,Individual,1115.xml
+86,S,F,,ISL,C,15.01.2011,European Cadet Circuit WS,European Cadet Circuit,Individual,112.xml
+457,S,F,L,HUN,S,17.01.2015,SFU-in,U23 European Circuit - Women's Sabre - Vasas SC - Budapest,Individual,1120.xml
+456,S,M,L,HUN,S,17.01.2015,SMU-in,U23 European Circuit Men's Sabre Budapest,Individual,1121.xml
+496,F,F,,POL,C,24.01.2015,Cadet Circuit,Cadet Circuit,Individual,1122.xml
+565,F,M,Z,GER,U,24.01.2015,U23 European Circuit,U23 European Circuit,Individual,1123.xml
+94,E,F,,SVK,C,24.01.2015,EFC-in,Cadet Circuit EFC-in,Individual,1125.xml
+491,F,M,,SVK,C,24.01.2015,FMC-in,Cadet Circuit FMC-in,Individual,1126.xml
+514,F,F,,POL,C,25.01.2015,Cadet Circuit,Cadet Circuit,Team,1127.xml
+95,E,M,,SVK,C,24.01.2015,EMC-in,Cadet Circuit EMC-in,Individual,1128.xml
+548,F,M,I,SVK,C,24.01.2015,FMC-eq,Cadet Circuit FMC-eq,Team,1129.xml
+87,S,M,I,ISL,C,15.01.2011,European Cadet Circuit MS,European Cadet Circuit,Individual,113.xml
+551,F,M,I,HUN,S,31.01.2015,150131-FFT,U23 European Circuit Foil Men,Individual,1131.xml
+71,E,M,I,FIN,C,31.01.2015,EMC-in,"Cadet Circuit, Men's Epee",Individual,1132.xml
+70,E,F,I,FIN,C,31.01.2015,EFC-in,"Cadet Circuit, Women's Epee",Individual,1133.xml
+90,S,F,,GBR,C,31.01.2015,WS,Women's Cadet Sabre,Individual,1134.xml
+91,S,M,,GBR,C,31.01.2015,MS,Men's Cadet Sabre,Individual,1135.xml
+558,E,F,I,FIN,C,31.01.2015,EFC-eq,"Cadet Circuit, Women's Team Epee",Team,1136.xml
+1,S,F,I,GBR,C,13:15,WTS,Women's Cadet Team Sabre,Team,1141.xml
+1,S,M,I,GBR,C,,MTS,Men's Cadet Team Sabre,Team,1142.xml
+557,E,M,I,FIN,C,31.01.2015,EMC-eq,"Cadet Circuit, Men's Team Epee",Team,1143.xml
+100,F,M,I,POL,C,07.02.2015,2015-02-07,Cadet Circuit,Individual,1144.xml
+98,F,F,,ROU,C,07.02.2015,FFC-in,Cadet Circuit,Individual,1145.xml
+101,F,M,I,POL,C,08.02.2015,2015-02-08-T,Cadet Circuit - VI GOLDEN TEAM CUP,Team,1146.xml
+553,S,F,,FRA,,07.02.2015,SFU-in,U23 European Circuit,Individual,1147.xml
+552,S,M,,FRA,,07.02.2015,SMU-in,U23 European Circuit,Individual,1148.xml
+545,S,F,I,GEO,C,08.02.2015,SFC-in,Cadet Circuit SFC,Individual,1150.xml
+1181,E,M,I,ITA,S,31.01.2015,EMS-in,Tournoi satellite,Individual,1151.xml
+510,E,F,,ITA,,31.01.2015,EFU-in,U23 European Circuit,Individual,1154.xml
+544,S,M,I,GEO,C,07.02.2015,SMC-in,Cadet Circuit SMC,Individual,1155.xml
+550,S,F,I,GEO,C,07.02.2015,SFC-eq,Cadet Circuit SFC-eq,Team,1156.xml
+549,S,M,I,GEO,C,08.02.2015,SMC-eq,Cadet Circuit SMC-eq,Team,1157.xml
+99,F,F,,ROU,C,07.02.2015,FFC-eq,Cadet Circuit,Team,1158.xml
+1,F,M,I,,S,14.02.2015,Sokol Cup 2015,muzi,Individual,1159.xml
+460,F,F,,CZE,S,14.02.2015,U23 European Circuit FF,U23 European Circuit FF,Individual,1160.xml
+135,F,M,I,SLO,C,24.02.2015,,2015 European Junior/Cadet Championships,Individual,1161.xml
+136,S,F,I,SLO,C,24.02.2015,,2015 European Junior/Cadet Championships,Individual,1162.xml
+133,E,M,I,SLO,C,25.02.2015,,2015 European Junior/Cadet Championships,Individual,1163.xml
+134,F,F,I,SLO,C,25.02.2015,,2015 European Junior/Cadet Championships,Individual,1165.xml
+132,E,F,I,SLO,C,26.02.2015,,2015 European Junior/Cadet Championships,Individual,1166.xml
+137,S,M,I,SLO,C,26.02.2015,,2015 European Junior/Cadet Championships,Individual,1167.xml
+139,E,M,I,SLO,C,27.02.2015,,2015 European Junior/Cadet Championships,Team,1168.xml
+142,S,F,I,SLO,C,27.02.2015,,2015 European Junior/Cadet Championships,Team,1169.xml
+141,F,M,I,SLO,C,27.02.2015,,2015 European Junior/Cadet Championships,Team,1170.xml
+138,E,F,I,SLO,C,28.02.2015,,2015 European Junior/Cadet Championships,Team,1171.xml
+140,F,F,I,SLO,C,28.02.2015,,2015 European Junior/Cadet Championships,Team,1172.xml
+143,S,M,I,SLO,C,28.02.2015,,2015 European Junior/Cadet Championships,Team,1173.xml
+352,F,M,I,SLO,J,01.03.2015,,2015 European Junior/Cadet Championships,Individual,1174.xml
+353,S,F,I,SLO,J,01.03.2015,,2015 European Junior/Cadet Championships,Individual,1175.xml
+350,E,M,I,SLO,J,02.03.2015,,2015 European Junior/Cadet Championships,Individual,1176.xml
+351,F,F,I,SLO,J,02.03.2015,,2015 European Junior/Cadet Championships,Individual,1177.xml
+349,E,F,I,SLO,J,03.03.2015,,2015 European Junior/Cadet Championships,Individual,1178.xml
+354,S,M,I,SLO,J,03.03.2015,,2015 European Junior/Cadet Championships,Individual,1179.xml
+447,E,F,,ITA,,15.01.2011,European U23 Circuit,European U23 Circuit,Individual,118.xml
+356,E,M,I,SLO,J,04.03.2015,,2015 European Junior/Cadet Championships,Team,1180.xml
+358,F,M,I,SLO,J,04.03.2015,,2015 European Junior/Cadet Championships,Team,1181.xml
+359,S,F,I,SLO,J,04.03.2015,,2015 European Junior/Cadet Championships,Team,1182.xml
+357,F,F,I,SLO,J,05.03.2015,,2015 European Junior/Cadet Championships,Team,1183.xml
+355,E,F,I,SLO,J,05.03.2015,,2015 European Junior/Cadet Championships,Team,1184.xml
+360,S,M,I,SLO,J,05.03.2015,,2015 European Junior/Cadet Championships,Team,1185.xml
+439,F,F,,ITA,,21.03.2015,FFU-in,U23 European Circuit,Individual,1186.xml
+68,F,F,,,,21.03.2015,U23 European Circuit,,Individual,1187.xml
+518,S,M,,ITA,,21.03.2015,SMU-in,U23 European Circuit,Individual,1188.xml
+438,F,M,,ITA,,21.03.2015,FMU-in,U23 European Circuit,Individual,1189.xml
+446,E,M,,ITA,,16.01.2011,European U23 Circuit,European U23 Circuit,Individual,119.xml
+535,S,F,,AUT,S,21.03.2015,IM Wien 2015 U23 EC DS,IM Wien 2015 U23 European Circuit Damensabel,Individual,1190.xml
+534,S,M,,AUT,S,21.03.2015,IM Wien 2015 HS U23 EC,IM Wien 2015 Herrensabel U23 EC,Individual,1191.xml
+1226,S,F,I,ITA,S,22.03.2015,SFS-in,Tournoi satellite,Individual,1192.xml
+458,F,F,,HUN,S,28.03.2015,FFU-in,U23 European Circuit Women's foil competition,Individual,1194.xml
+513,E,F,I,POL,S,19.04.2015,2015-04-19,Puchar Polski IV / Puchar Europy U23    ,Individual,1195.xml
+499,E,M,,POL,J,18.04.2015,U23 European Circuit,U23 European Circuit,Individual,1196.xml
+116,F,F,,ITA,B,22.04.2015,FFU-in,U23 European Championships,Individual,1197.xml
+118,S,F,,ITA,B,22.04.2015,SFU-in,U23 European Championships,Individual,1198.xml
+490,S,F,,ITA,B,22.04.2015,SFU-eq,U23 European Championships Sabre,Team,1199.xml
+742,S,F,I,GER,S,19.07.2010,,Championnats d'Europe,Individual,12.xml
+91,S,M,,GBR,C,29.01.2011,Men's Cadet Sabre,Men's Cadet Sabre,Individual,120.xml
+115,E,M,,ITA,B,22.04.2015,EMU-in,U23 European Championships,Individual,1200.xml
+489,F,F,,ITA,B,22.04.2015,FFU-eq,U23 European Championships Foil,Team,1201.xml
+117,F,M,,ITA,B,22.04.2015,FMU-in,U23 European Championships - MEN'S FOIL,Individual,1202.xml
+484,E,M,,ITA,B,22.04.2015,EMU-eq,U23 European Championships epee m.,Team,1203.xml
+485,F,M,,ITA,B,22.04.2015,FMU-eq,U23 European Championships - men's foil eq,Team,1204.xml
+114,E,F,,ITA,B,22.04.2015,EFU-in,U23 European Championships - WOMAN'S EPEE,Individual,1205.xml
+119,S,M,,ITA,B,22.04.2015,SMU-in,U23 European Championships - MEN'S SABRE,Individual,1206.xml
+488,E,F,,ITA,B,22.04.2015,EFU-eq,U23 European Championships - WOMEN'S EPEE TEAM,Team,1207.xml
+486,S,M,,ITA,B,22.04.2015,SMU-eq,U23 European Championships - MEN' SABRE TEAM,Team,1208.xml
+738,E,F,I,SUI,S,06.06.2015,,Championnats d'Europe,Individual,1209.xml
+90,S,F,,GBR,C,29.01.2011,Women's Cadet Sabre,Women's Cadet Sabre,Individual,121.xml
+741,F,M,I,SUI,S,06.06.2015,,Championnats d'Europe,Individual,1211.xml
+739,E,M,I,SUI,S,06.06.2015,,Championnats d'Europe,Individual,1212.xml
+740,F,F,I,SUI,S,06.06.2015,,Championnats d'Europe,Individual,1213.xml
+742,S,F,I,SUI,S,06.06.2015,,Championnats d'Europe,Individual,1214.xml
+743,S,M,I,SUI,S,06.06.2015,,Championnats d'Europe,Individual,1215.xml
+744,E,F,E,SUI,S,06.06.2015,,Championnats d'Europe,Team,1217.xml
+747,F,M,E,SUI,S,06.06.2015,,Championnats d'Europe,Team,1218.xml
+745,E,M,E,SUI,S,06.06.2015,,Championnats d'Europe,Team,1219.xml
+70,E,F,,SWE,C,05.02.2011,EFC-in,European Cadet Circuit,Individual,122.xml
+1243,E,F,I,AZE,S,23.06.2015,,Jeux Europeens,Individual,1220.xml
+1244,E,M,I,AZE,S,24.06.2015,,Jeux Europeens,Individual,1222.xml
+1245,F,F,I,AZE,S,24.06.2015,,Jeux Europeens,Individual,1223.xml
+1248,S,M,I,AZE,S,23.06.2015,,Jeux Europeens,Individual,1224.xml
+1246,F,M,I,AZE,S,25.06.2015,,Jeux Europeens,Individual,1225.xml
+1247,S,F,I,AZE,S,25.06.2015,,Jeux Europeens,Individual,1226.xml
+29,F,M,I,HUN,C,12.09.2015,FMC-in,Cadet Circuit Men's Foil,Individual,1228.xml
+28,F,F,,HUN,C,12.09.2015,FFC-in,Cadet circuit womens foil,Individual,1229.xml
+17,S,F,,POL,C,11.09.2015,SFC-in,Cadet Circuit,Individual,1230.xml
+18,S,M,,POL,C,11.09.2015,SMC-in,Cadet Circuit,Individual,1233.xml
+27,E,M,,HUN,C,12.09.2015,EMC-in,Cadet Circuit Men's Epee,Individual,1234.xml
+19,S,F,,POL,C,11.09.2015,SFC-eq,Cadet Circuit,Team,1235.xml
+20,S,M,,POL,C,11.09.2015,SMC-eq,Cadet Circuit,Team,1236.xml
+0,F,MF,I,HUN,C,13.09.2015,,Budapest 2015,Team,1242.xml
+41,S,M,I,HUN,C,26.09.2015,SMC-in,European Cadet Circuit Men's Sabre,Individual,1244.xml
+21,E,F,,SRB,C,27.09.2015,Cadet Circuit,Cadet Circuit,Individual,1245.xml
+25,E,M,,TUR,C,26.09.2015,EMC-in,Cadet Circuit,Individual,1246.xml
+40,S,F,I,HUN,C,26.09.2015,SFC2-in,European Cadet Circuit Women's Sabre,Individual,1247.xml
+14,F,M,I,,C,03.10.2015,,Manchester Cadet,Individual,1248.xml
+15,F,F,I,,C,03.10.2015,,Manchester Cadet,Team,1249.xml
+13,F,F,I,,C,03.10.2015,,Manchester Cadet,Individual,1250.xml
+0,F,M,I,,C,03.10.2015,,Manchester Cadet,Team,1251.xml
+547,E,F,,HUN,,03.10.2015,EFU-in,Felnott Noi Parbajtor Valogato,Individual,1252.xml
+546,E,M,,HUN,,03.10.2015,EMU-in,Felnott Ferfi Parbajtor Valogato,Individual,1253.xml
+578,F,M,,FRA,S,03.10.2015,2016_antony_fh_u23,U23 European Circuit FHS,Individual,1257.xml
+579,F,F,I,FRA,B,03.10.2015,2016_Antony_fd_U23,2016_Antony_fd_U23,Individual,1258.xml
+314,E,F,,,,10.10.2015,Cadet Circuit,,Individual,1259.xml
+71,E,M,,SWE,C,06.02.2011,EMC-in,European Cadet Circuit,Individual,126.xml
+315,E,F,,,,11.10.2015,Cadet Circuit,,Team,1263.xml
+38,E,M,I,FFE,C,10.10.2015,151010_CE_EHC_indiv,9eme Coupe Europeenne Epee Homme Cadet,Individual,1264.xml
+57,E,M,I,FFE,C,10.10.2015,151011_EHC_EQUIP,Epee Homme Cadet par Equipe Chalons le 11/10/2015,Team,1268.xml
+50,S,F,,FRA,C,17.10.2015,SFC-in,Eurosabre 2015 Cadet Circuit Women,Individual,1269.xml
+441,S,F,,SWE,S,12.02.2011,European U23 Circuit,European U23 Circuit,Individual,127.xml
+51,S,M,,FRA,C,17.10.2015,SMC-in,Eurosabre 2015 Cadet Circuit Men,Individual,1270.xml
+0,S,X,I,,C,18.10.2015,,Eurosabre Equipe Mixte,Team,1272.xml
+48,F,M,I,GRE,C,17.10.2015,FMC-in 2015,European Cadet Circuit Men's Foil - Individual,Individual,1273.xml
+49,F,M,,GRE,C,18.10.2015,FMC-eq,European Cadet Circuit Men's Foil - Team,Team,1274.xml
+36,F,F,,SVK,C,17.10.2015,Coupe de Samaria 2015,Coupe de Samaria 2015,Individual,1275.xml
+98,F,F,,ROU,C,12.02.2011,European Cadet Circuit,European Cadet Circuit,Individual,128.xml
+495,E,F,,AUT,C,31.10.2015,EFC-in,Cadet Circuit Epee Feminin Cadets,Individual,1281.xml
+494,E,M,,AUT,C,31.10.2015,EMC-in,Cadet Circuit epee masculin,Individual,1282.xml
+99,E,F,I,FFE,S,24.10.2015,eds-U23,eds-U23,Individual,1288.xml
+1157,E,M,I,FFE,S,24.10.2015,ehs-U23,ehs-U23,Individual,1289.xml
+94,E,F,,SVK,C,12.02.2011,CD 2011 EFC,CD 2011 EFC,Individual,129.xml
+90,S,F,I,GBR,C,31.10.2015,WS,Women's Cadet Sabre,Individual,1290.xml
+91,S,M,I,GBR,C,31.10.2015,MS,Men's Cadet Sabre,Individual,1291.xml
+739,E,M,I,GER,S,19.07.2010,,Championnats d'Europe,Individual,13.xml
+62,S,F,,BUL,C,07.11.2015,SFC-in,Cadet Circuit,Individual,1300.xml
+63,S,M,,BUL,C,07.11.2015,SMC-in,Cadet Circuit,Individual,1301.xml
+539,F,F,,AUT,C,08.11.2015,FFC-in,ECC WF Ind.,Individual,1302.xml
+538,F,M,,AUT,C,07.11.2015,FMC-in,ECC MF Ind.,Individual,1303.xml
+584,F,F,I,AUT,C,07.11.2015,FFC-eq,Cadet Circuit Womens Foil Team,Team,1304.xml
+583,F,M,I,AUT,C,08.11.2015,FMC-eq,ECC MF Team,Team,1305.xml
+64,S,F,,BUL,C,07.11.2015,SFC-eq,Cadet Circuit,Team,1306.xml
+65,S,M,,BUL,C,07.11.2015,SMC-eq,Cadet Circuit,Team,1307.xml
+37,F,F,,SVK,C,17.10.2015,Coupe de Samaria 2015-teams,Cadet Circuit,Team,1310.xml
+34,E,M,I,GER,C,14.11.2015,Cadet Circuit,Cadet Circuit,Individual,1311.xml
+32,E,F,,GER,U,14.11.2015,Cadet Circuit Mc Donalds Cup,,Individual,1312.xml
+33,E,F,Z,GER,C,14.11.2015,Cadet Circuit Mc Donalds Cup,,Team,1317.xml
+15,E,M,I,,,15.11.2015,CC-Bonn Team,CC-Bonn Team 2015,Team,1320.xml
+54,E,F,I,FRA,C,21.11.2015,EFC-in,Cadet Circuit,Individual,1324.xml
+66,S,F,,RUS,C,21.11.2015,SFC-in 1370-2015,Cadet Circuit,Individual,1326.xml
+55,E,F,I,FRA,C,21.11.2015,EFC-eq,Cadet Circuit,Team,1327.xml
+46,F,F,I,GER,C,21.11.2015,spc2015,Pokal der Sparkasse Tauberfranken 2015,Individual,1328.xml
+38,F,M,Z,GER,C,21.11.2015,Cadet Circuit,Cadet Circuit,Individual,1329.xml
+67,S,M,,RUS,C,21.11.2015,SMC-in 1371-2015,Cadet Circuit,Individual,1330.xml
+442,S,M,Z,GER,S,28.11.2015,U23 European Circuit U23 Circuit,,Individual,1333.xml
+1396,S,F,Z,GER,S,28.11.2015,U23 European Circuit U23 Circuit,,Individual,1335.xml
+503,S,F,,POL,B,28.11.2015,szabla kobiet,U23 European Circuit Women Sabre,Individual,1336.xml
+502,S,M,,POL,B,28.11.2015,Szabla meczyzn,U23 European Circuit Men Sabre,Individual,1337.xml
+532,F,F,,AUT,S,05.12.2015,FFU-in,U23 EC Women's Foil,Individual,1339.xml
+95,E,M,,SVK,C,12.02.2011,CD 2011 EMC,CD 2011 EMC,Individual,134.xml
+507,E,M,,AUT,S,05.12.2015,EMU-in,U23 EC Mens Epee,Individual,1340.xml
+72,F,F,I,FRA,C,05.12.2015,FDC - Coupe Mondiale Fleuret 2015,FDC - Coupe Mondiale 2015,Individual,1341.xml
+73,F,M,,FRA,C,05.12.2015,Coupe Mondiale 2015,Coupe Mondiale Fleuret 2015,Individual,1342.xml
+75,F,M,I,FRA,C,05.12.2015,Coupe Mondiale Equipe,Cadet Circuit,Team,1344.xml
+9,F,F,I,FFE,C,05.12.2015,FDC - Coupe Mondiale Cabries 2015,FDC - Coupe Mondiale Cabries 2015,Team,1345.xml
+531,F,M,,AUT,S,06.12.2015,FMU-in,U23 EC Mens Foil,Individual,1346.xml
+508,E,F,,AUT,S,06.12.2015,EFU-in,U23 EC Womens Epee,Individual,1348.xml
+521,V,M,Z,DEN,C,12.12.2015,Cadet Circuit,,Individual,1349.xml
+522,V,F,Z,DEN,C,12.12.2015,Cadet Circuit,,Individual,1350.xml
+76,S,F,Z,GER,C,12.12.2015,Cadet Circuit,,Individual,1351.xml
+77,S,M,Z,GER,C,12.12.2015,Cadet Circuit,,Individual,1353.xml
+79,S,X,I,GER,C,13.12.2015,Cadet Circuit,,Team,1354.xml
+555,V,X,Z,DEN,C,13.12.2015,Cadet Circuit,,Team,1355.xml
+554,F,M,,ESP,B,13.12.2015,FMU-in,U23 European Circuit,Individual,1363.xml
+580,F,F,,ESP,,13.12.2015,FFU-in,U23 European Circuit,Individual,1364.xml
+533,E,F,N,GER,U,19.12.2015,U23 European Circuit,U23 European Circuit,Individual,1365.xml
+505,F,F,I,,S,20.12.2015,,Buzdygan,Individual,1366.xml
+504,F,M,I,,S,20.12.2015,,Buzdygan,Individual,1367.xml
+585,E,M,I,POL,C,08.01.2016,,Wawel Dragon Trophy,Individual,1368.xml
+586,E,F,I,POL,C,09.01.2016,,Wawel Dragon Trophy,Individual,1369.xml
+1671181,E,X,I,POL,C,10.01.2016,,Wawel Dragon Trophy,Team,1370.xml
+461,E,M,Z,GER,,09.01.2016,U23 European Circuit Weisser Baer,,Individual,1371.xml
+540,S,M,,AUT,C,16.01.2016,SMC-in,ECC MS 2016,Individual,1376.xml
+542,F,M,,ITA,C,16.01.2016,FMC-in,Cadet Circuit - Men's Foil,Individual,1377.xml
+456,S,M,,HUN,S,16.01.2016,SMU-in,U23 European Circuit,Individual,1380.xml
+543,F,F,,ITA,C,16.01.2016,FFC-in,Cadet Circuit - Women's Foil,Individual,1389.xml
+541,S,F,,AUT,C,17.01.2016,SFC-in,ECC WS 2016,Individual,1390.xml
+457,S,F,,HUN,S,16.01.2016,SFU-in,U23 European Circuit,Individual,1391.xml
+565,F,M,Z,GER,Vet,23.01.2016,U23 European Circuit Esslinger Burg Cup,,Individual,1392.xml
+983044,E,F,I,SVK,C,23.01.2016,,Coupe du Danube 2016,Individual,1393.xml
+983041,F,M,I,SVK,C,23.01.2016,,Coupe du Danube 2016,Individual,1394.xml
+465,F,M,,HUN,S,23.01.2016,FMU-in,U23 European Circuit,Individual,1396.xml
+78,,F,,,,,,Pisa FFC,Individual,14.xml
+983040,E,M,I,SVK,C,24.01.2016,,Coupe du Danube 2016,Individual,1400.xml
+496,F,F,I,,C,23.01.2016,,Adam Mickiewicz University - Cadet Women's Foil Cup 2016,Individual,1402.xml
+458,F,F,,HUN,S,24.01.2016,FFU-in,U23 European Circuit,Individual,1403.xml
+509,E,M,,ITA,B,30.01.2016,U23 European Circuit SPM,U23 European Circuit SPM,Individual,1404.xml
+458,E,M,I,GER,,24.01.2016,56. Coupe d'Europe Men s Epee Teams European Cup of Clubs Champions,,Team,1405.xml
+548,F,M,I,SVK,C,24.01.2016,,Coupe du Danube 2016,Team,1409.xml
+510,E,F,,ITA,B,30.01.2016,U23 European Circuit SPF,U23 European Circuit SPF,Individual,1410.xml
+71,E,M,I,FIN,C,06.02.2016,,Espoo Fencing Challenge 2016,Individual,1411.xml
+70,E,F,I,FIN,C,06.02.2016,,Espoo Fencing Challenge 2016,Individual,1412.xml
+100,F,M,I,POL,C,06.02.2016,,Woyda 2016,Individual,1413.xml
+557,E,X,I,FIN,C,07.02.2016,,Espoo Fencing Challenge 2016,Team,1420.xml
+98,F,F,,ROU,C,06.02.2016,FFC-in,Cadet Circuit,Individual,1424.xml
+99,F,F,I,ROU,C,06.02.2016,FFC-eq,Cadet Circuit,Team,1425.xml
+101,F,M,I,POL,C,07.02.2016,,Woyda 2016,Team,1427.xml
+553,S,F,,FRA,,06.02.2016,SFU-in,U23 European Circuit,Individual,1428.xml
+552,S,M,,FRA,,06.02.2016,SMU-in,U23 European Circuit,Individual,1429.xml
+100,F,M,,POL,C,12.02.2011,European Cadet Circuit,European Cadet Circuit,Individual,143.xml
+450,F,F,Z,GER,S,20.02.2016,U23 European Circuit,,Individual,1430.xml
+135,F,M,I,,C,29.02.2016,,European Championships for Cadets,Individual,1431.xml
+136,S,F,I,,C,29.02.2016,,European Championships for Cadets,Individual,1432.xml
+133,E,M,I,,C,01.03.2016,,European Championships for Cadets,Individual,1433.xml
+134,F,F,I,,C,01.03.2016,,European Championships for Cadets,Individual,1434.xml
+132,E,F,I,,C,02.03.2016,,European Championships for Cadets,Individual,1435.xml
+137,S,M,I,,C,02.03.2016,,European Championships for Cadets,Individual,1436.xml
+139,E,M,I,,C,03.03.2016,,European Championships for Cadets,Team,1437.xml
+142,S,F,I,,C,03.03.2016,,European Championships for Cadets,Team,1438.xml
+133,E,M,Z,AUT,C,28.02.2011,European Cadet Championships,European Cadet Championships,Individual,144.xml
+138,E,F,I,,C,04.03.2016,,European Championships for Cadets,Team,1440.xml
+143,S,M,I,,C,04.03.2016,,European Championships for Cadets,Team,1441.xml
+141,F,M,I,,C,03.03.2016,,European Championships for Cadets,Team,1442.xml
+140,F,F,I,,C,04.03.2016,,European Championships for Cadets,Team,1445.xml
+352,F,M,I,,J,05.03.2016,,European Championships for Juniors,Individual,1446.xml
+353,S,F,I,,J,05.03.2016,,European Championships for Juniors,Individual,1447.xml
+350,E,M,I,,J,06.03.2016,,European Championships for Juniors,Individual,1448.xml
+134,F,F,Z,AUT,C,28.02.2011,European Cadet Championships,European Cadet Championships,Individual,145.xml
+351,F,F,I,,J,06.03.2016,,European Championships for Juniors,Individual,1450.xml
+349,E,F,I,,J,07.03.2016,,European Championships for Juniors,Individual,1451.xml
+354,S,M,I,,J,07.03.2016,,European Championships for Juniors,Individual,1453.xml
+356,E,M,I,,J,08.03.2016,,European Championships for Juniors,Team,1454.xml
+359,S,F,I,,J,08.03.2016,,European Championships for Juniors,Team,1455.xml
+358,F,M,I,,J,08.03.2016,,European Championships for Juniors,Team,1456.xml
+360,S,M,I,,J,09.03.2016,,European Championships for Juniors,Team,1457.xml
+355,E,F,I,,J,09.03.2016,,European Championships for Juniors,Team,1458.xml
+357,F,F,I,,J,09.03.2016,,European Championships for Juniors,Team,1459.xml
+132,E,F,Z,AUT,C,28.02.2011,European Cadet Championships,European Cadet Championships,Individual,146.xml
+535,S,F,,AUT,,27.02.2016,IM Wien 2016 DS,U23 European Circuit Wien Women Sabre,Individual,1460.xml
+534,S,M,,AUT,,27.02.2016,IM Wien 2016 HS,U23 European Circuit Wien Men Sabre 2016,Individual,1461.xml
+3,F,M,I,,S,12.03.2016,U23MF2016,chlapi,Individual,1463.xml
+41,F,F,I,,S,13.03.2016,U23WF2016,holkx,Individual,1464.xml
+513,E,F,I,POL,S,12.03.2016,,V PUCHAR POLSKI SENIOREK W SZPADZIE KOBIET - Puchar Europy do lat 23,Individual,1465.xml
+499,E,M,,POL,,12.03.2016,EMU-in,U23 European Circuit,Individual,1466.xml
+438,F,M,,ITA,B,19.03.2016,FMU-in,U23 European Circuit,Individual,1467.xml
+439,F,F,,ITA,B,19.03.2016,FFU-in,U23 European Circuit,Individual,1468.xml
+518,S,M,,ITA,,19.03.2016,SMU-in,U23 European Circuit,Individual,1469.xml
+137,S,M,Z,AUT,C,28.02.2011,European Cadet Championships,European Cadet Championships,Individual,147.xml
+484,S,F,I,ITA,S,19.03.2016,SFS-in,Tournoi satellite - SABRE FEMININ Ind,Individual,1470.xml
+1077,E,F,I,CZE,S,17.04.2016,,European Olympic Games Qualification,Individual,1471.xml
+1078,E,M,I,CZE,S,16.04.2016,,European Olympic Games Qualification,Individual,1472.xml
+1079,F,F,I,CZE,S,16.04.2016,,European Olympic Games Qualification,Individual,1474.xml
+1081,S,F,I,CZE,S,17.04.2016,,European Olympic Games Qualification,Individual,1475.xml
+1082,S,M,I,CZE,S,16.04.2016,,European Olympic Games Qualification,Individual,1476.xml
+1080,F,M,I,CZE,S,17.04.2016,,European Olympic Games Qualification,Individual,1477.xml
+116,F,F,I,,B,01.05.2016,,European U23 Championships,Individual,1478.xml
+115,E,M,I,,B,01.05.2016,,European U23 Championships,Individual,1479.xml
+139,E,M,Z,AUT,C,28.02.2011,European Cadet Championships,European Cadet Championships,Team,148.xml
+119,S,M,I,,B,01.05.2016,,European U23 Championships,Individual,1480.xml
+114,E,F,I,,B,02.05.2016,,European U23 Championships,Individual,1481.xml
+117,F,M,I,,B,02.05.2016,,European U23 Championships,Individual,1482.xml
+118,S,F,I,,B,02.05.2016,,European U23 Championships,Individual,1483.xml
+484,E,M,I,,B,03.05.2016,,European U23 Championships,Team,1484.xml
+489,F,F,I,,B,03.05.2016,,European U23 Championships,Team,1485.xml
+486,S,M,I,,B,03.05.2016,,European U23 Championships,Team,1486.xml
+490,S,F,I,,B,04.05.2016,,European U23 Championships,Team,1487.xml
+488,E,F,I,,B,04.05.2016,,European U23 Championships,Team,1488.xml
+485,F,M,I,,B,04.05.2016,,European U23 Championships,Team,1489.xml
+135,F,M,Z,AUT,C,28.02.2011,European Cadet Championships,European Cadet Championships,Individual,149.xml
+1,,F,I,,,,CE FF 2016,,Team,1490.xml
+741,F,M,I,POL,S,20.06.2016,,European Fencing Championships 2016,Individual,1491.xml
+742,S,F,I,POL,S,20.06.2016,,European Fencing Championships 2016,Individual,1492.xml
+739,E,M,I,POL,S,21.06.2016,,European Fencing Championships 2016,Individual,1493.xml
+740,F,F,I,POL,S,21.06.2016,,European Fencing Championships 2016,Individual,1494.xml
+743,S,M,I,POL,S,22.06.2016,,European Fencing Championships 2016,Individual,1495.xml
+738,E,F,I,POL,S,22.06.2016,,European Fencing Championships 2016,Individual,1496.xml
+747,F,M,I,POL,S,23.06.2016,,European Fencing Championships 2016,Team,1497.xml
+748,S,F,I,POL,S,23.06.2016,,European Fencing Championships 2016,Team,1498.xml
+745,E,M,I,POL,S,24.06.2016,,European Fencing Championships 2016,Team,1499.xml
+77,,M,,,,,,Pisa FMC,Individual,15.xml
+136,S,F,Z,AUT,C,28.02.2011,European Cadet Championships,European Cadet Championships,Individual,150.xml
+746,F,F,I,POL,S,24.06.2016,,European Fencing Championships 2016,Team,1500.xml
+744,E,F,I,POL,S,25.06.2016,,European Fencing Championships 2016,Team,1501.xml
+749,S,M,I,POL,S,25.06.2016,,European Fencing Championships 2016,Team,1502.xml
+21,E,F,I,,C,17.09.2016,,CC Zrenjanin,Individual,1504.xml
+22,E,F,I,,C,17.09.2016,,CC Zrenjanin,Team,1505.xml
+6,E,M,I,TEF,C,17.09.2016,Y_E_E,MENS EPEE,Individual,1506.xml
+1,,M,I,,,09:00,Y_E_E_TAKIM,MENS EPEE TEAM,Team,1507.xml
+17,S,F,I,POL,C,24.09.2016,SC-in,Cadet Circuit szb kobiet pek 2016,Individual,1508.xml
+18,S,M,I,POL,C,24.09.2016,SC-in,Cadet Circuit szb MEZCZYZN pek 2016,Individual,1509.xml
+438,F,M,,ITA,S,12.03.2011,European U23 Circuit,European U23 Circuit,Individual,151.xml
+28,F,F,,HUN,C,01.10.2016,FC-in,Cadet Women's Foil Cadet Circuit Competition,Individual,1511.xml
+29,F,M,,HUN,C,01.10.2016,FC-in,Cadet Circuit Men's Foil Competition,Individual,1512.xml
+27,E,M,,HUN,C,01.10.2016,EMC-in,EMC,Individual,1513.xml
+579,F,F,,FRA,M23,01.10.2016,2017_antony_fdu23,U23 European Circuit Feminin,Individual,1514.xml
+578,F,M,,FRA,M23,01.10.2016,2017_antony_u23fh,U23 European Circuit Masculin,Individual,1515.xml
+41,S,M,,HUN,C,08.10.2016,SMCG-in,Cadet Circuit Godollo,Individual,1516.xml
+533,E,F,I,GER,U,08.10.2016,U23 European Circuit,U23 European Circuit,Individual,1518.xml
+40,S,F,,HUN,C,08.10.2016,SFC-in,Cadet Circuit Godollo,Individual,1523.xml
+1,S,M,I,,C,09.10.2016,cms-eq,Cadet Circuit Men's Sabre Team,Team,1529.xml
+439,F,F,,ITA,S,12.03.2011,European U23 Circuit,European U23 Circuit,Individual,153.xml
+537,E,F,,AUT,C,31.10.2015,Cadet Circuit,,Team,1534.xml
+42,S,F,I,HUN,C,08.10.2016,SC-eq,Cadet Circuit Women's Sabre Team Competition,Team,1535.xml
+90,S,F,I,FFE,C,15.10.2016,EuroSabre 2016 - SDI,EuroSabre 2016 - Meylan 15 Oct,Individual,1538.xml
+102,S,M,I,FFE,C,15.10.2016,EuroSabre 2016 - SHI,EuroSabre 2016 - Meylan 15 oct,Individual,1539.xml
+13,F,F,I,,C,15.10.2016,,Manchester Cadet 2016,Individual,1540.xml
+14,F,M,I,,C,15.10.2016,,Manchester Cadet 2016,Individual,1541.xml
+34,E,M,,GER,C,22.10.2016,EC-in,Cadet Circuit,Individual,1542.xml
+48,F,M,,GRE,C,22.10.2016,FC-in,EFC Cadet Circuit Panorama 2016,Individual,1543.xml
+36,F,F,,SVK,C,22.10.2016,FC-in,Cadet Circuit,Individual,1544.xml
+35,E,M,I,GER,C,22.10.2016,EC-eq,Cadet Circuit,Team,1545.xml
+771,E,F,I,FFE,M23,23.10.2016,eds-U23,eds-U23,Individual,1548.xml
+459,F,M,,CZE,S,16.04.2011,European U23 Circuit FM,European U23 Circuit FM,Individual,155.xml
+248,E,M,I,FFE,S,23.10.2016,ehs-U23,ehs-U23,Individual,1551.xml
+1,F,F,I,,B,23.10.2016,EFC team,Coupe de Samaria 2016,Team,1552.xml
+90,S,F,I,GBR,C,29.10.2016,SC-in,Women's Cadet Sabre,Individual,1553.xml
+91,S,M,I,GBR,C,29.10.2016,SC-in,Men's Cadet Sabre,Individual,1554.xml
+495,E,F,Z,AUT,C,29.10.2016,Cadet Circuit,,Individual,1555.xml
+494,E,M,Z,AUT,C,29.10.2016,Cadet Circuit,,Individual,1556.xml
+460,F,F,,CZE,S,17.04.2011,European U23 Circuit,European U23 Circuit,Individual,156.xml
+63,S,M,,BUL,C,05.11.2016,SC-in_men,Cadet Circuit,Individual,1567.xml
+450,F,F,Z,GER,S,30.04.2011,European U23 Circuit,European U23 Circuit,Individual,157.xml
+538,F,M,I,AUT,M17,05.11.2016,FC-in,ECCMFI2016,Individual,1571.xml
+539,F,F,I,AUT,M17,05.11.2016,FC-in,ECCWFI2016,Individual,1572.xml
+62,S,F,,BUL,C,05.11.2016,SC-in_women,Cadet Circuit,Individual,1573.xml
+583,F,M,I,AUT,M17,06.11.2016,FC-eq,ECCMFT2016,Team,1576.xml
+584,F,F,I,AUT,M17,06.11.2016,FC-eq,ECCWFT2016,Team,1578.xml
+115,E,M,,RUS,B,27.05.2011,EMU-in,European U23 Championships MEN'S EPEE,Individual,158.xml
+32,E,F,Z,GER,C,12.11.2016,Cadet Circuit Kneipp Cup,,Individual,1580.xml
+551,F,M,,HUN,,12.11.2016,FU-in,U23 European Circuit U23 Senior Man's Foil,Individual,1581.xml
+46,F,F,I,GER,C,12.11.2016,spcup2016,Pokal der Sparkasse Tauberfranken 2016,Individual,1582.xml
+593,F,F,,HUN,,13.11.2016,FU-in,U23 European Circuit Senior Women's Folil,Individual,1585.xml
+118,S,F,,RUS,B,27.05.2011,SFU-in,European U23 Championships WOMEN'S SABRE,Individual,159.xml
+66,S,F,,RUS,C,19.11.2016,SC-in,Cadet Circuit,Individual,1590.xml
+70,E,F,I,FIN,C,19.11.2016,,Espoo Fencing Challenge,Individual,1592.xml
+71,E,M,I,FIN,C,19.11.2016,,Espoo Fencing Challenge,Individual,1593.xml
+12612,F,M,Z,GER,S,19.11.2016,U23 European Circuit,,Individual,1596.xml
+52,S,F,I,,J,12.09.2009,,Konin SFC,Individual,16.xml
+116,F,F,,RUS,B,27.05.2011,FFU-in,European U23 Championships WOMEN'S FOIL,Individual,160.xml
+67,S,M,,RUS,C,19.11.2016,SC-in,Cadet Circuit,Individual,1604.xml
+558,E,F,I,FIN,C,20.11.2016,,Espoo Fencing Challenge,Team,1609.xml
+119,S,M,,RUS,B,27.05.2011,SMU-in,European U23 Championships MEN'S SABRE,Individual,161.xml
+594,E,M,I,FIN,C,20.11.2016,,Espoo Fencing Challenge,Team,1610.xml
+64,S,F,I,BUL,C,05.11.2016,SC-eq_women,Cadet Circuit,Team,1613.xml
+65,S,M,I,BUL,C,05.11.2016,SC-eq_men,Cadet Circuit,Team,1614.xml
+537,E,F,I,AUT,C,29.10.2016,Cadet Circuit,,Team,1618.xml
+536,E,M,I,AUT,C,29.10.2016,Cadet Circuit,,Team,1619.xml
+117,F,M,,RUS,B,27.05.2011,FMU-in,European U23 Championships MEN'S FOIL,Individual,162.xml
+33,E,F,I,GER,C,13.11.2016,Cadet Circuit Kneipp Cup,,Team,1620.xml
+588,E,M,,FRA,C,26.11.2016,EC-in,Cadet Circuit,Individual,1622.xml
+209,F,M,I,FFE,C,26.11.2016,CMFHC,COUPE MONDIALE FLEURET HOMME CADET,Individual,1624.xml
+88,F,F,I,FFE,C,26.11.2016,CM CABRIES FD 2016,COUPE MONDIALE FLEURET DAME CABRIES 2016,Individual,1627.xml
+114,E,F,,RUS,B,27.05.2011,EFU-in,European U23 Championships WOMEN'S EPEE,Individual,163.xml
+54,E,F,,FRA,C,26.11.2016,EC-in,Cadet Circuit,Individual,1630.xml
+595,E,M,I,FRA,C,26.11.2016,EC-eq,Cadet Circuit,Team,1631.xml
+9,F,F,I,FFE,M17,27.11.2016,CM CABRIES FD EQ 2016,,Team,1632.xml
+35,F,M,I,FFE,C,27.11.2016,Coupe Mondiale Cabries 2016 - Equipes,,Team,1633.xml
+65,S,M,Z,GER,S,26.11.2016,European U23 Circuit Muenchener Schwert / Nymphenburger Schloss,,Individual,1638.xml
+2886,S,F,Z,GER,S,26.11.2016,European U23 Circuit Muenchener Schwert / Nymphenburger Schloss,,Individual,1639.xml
+79,S,M,I,GER,C,03.12.2016,Cadet Circuit,,Team,1643.xml
+76,S,F,Z,GER,C,03.12.2016,Cadet Circuit,,Individual,1644.xml
+532,F,F,,AUT,S,03.12.2016,FU-in,U23 European Circuit Women's Foil,Individual,1645.xml
+507,E,M,,AUT,S,03.12.2016,EU-in,U23 European Circuit Men's Epee,Individual,1646.xml
+78,S,F,I,GER,C,04.12.2016,Cadet Circuit,,Team,1647.xml
+77,S,M,Z,GER,C,04.12.2016,Cadet Circuit,,Individual,1648.xml
+486,E,M,,RUS,B,27.05.2011,EMU-eq,European U23 Championships EMU-eq,Team,165.xml
+531,F,M,,AUT,S,04.12.2016,FU-in,U23 European Circuit Men's Foil,Individual,1650.xml
+508,E,F,,AUT,S,04.12.2016,EU-in,U23 European Circuit Women's Epee,Individual,1652.xml
+4,S,F,I,FFE,S,21.11.2016,coupe europe club,Coupe d'Europe des Clubs Champions,Team,1653.xml
+10,F,M,I,,S,05.12.2016,,COPPA EUROPA FIORETTO MASCHILE,Team,1654.xml
+521,E,M,Z,DEN,C,10.12.2016,Cadet Circuit,,Individual,1655.xml
+522,E,F,Z,DEN,C,10.12.2016,Cadet Circuit,,Individual,1656.xml
+38,F,M,Z,GER,C,10.12.2016,Cadet Circuit,,Individual,1657.xml
+39,F,M,Z,GER,C,10.12.2016,Cadet Circuit,,Team,1658.xml
+556,E,F,I,DEN,C,10.12.2016,Cadet Circuit,,Team,1659.xml
+555,E,M,I,DEN,C,10.12.2016,Cadet Circuit,,Team,1660.xml
+546,E,M,,HUN,U23,07.01.2017,EM2-in,U23 European Circuit,Individual,1661.xml
+547,E,F,,HUN,U23,07.01.2017,EF2-in,U23 European Circuit,Individual,1662.xml
+491,F,M,I,,C,13.01.2017,,Coupe du Danube 2017,Individual,1663.xml
+96,E,F,I,,C,13.01.2017,,Coupe du Danube 2017,Team,1664.xml
+95,E,M,I,,C,14.01.2017,,Coupe du Danube 2017,Individual,1666.xml
+548,F,M,I,,C,14.01.2017,,Coupe du Danube 2017,Team,1667.xml
+94,E,F,I,,C,15.01.2017,,Coupe du Danube 2017,Individual,1669.xml
+448,S,M,,ITA,S,10.04.2011,European U23 Circuit,European U23 Circuit,Individual,167.xml
+97,E,M,I,,C,15.01.2017,,Coupe du Danube 2017,Team,1670.xml
+496,F,F,I,,C,14.01.2017,,Poznan Cadet Circuit,Individual,1671.xml
+514,F,F,I,,C,14.01.2017,,Poznan Cadet Circuit,Team,1672.xml
+541,S,F,I,,C,15.01.2017,,European Cadet Circuit,Individual,1674.xml
+540,S,M,I,AUT,C,14.01.2017,,European Cadet Circuit,Individual,1675.xml
+543,F,F,,ITA,C,21.01.2017,FC-in - Women,Cadet Circuit - Pisa 2017 - Women's Foil,Individual,1677.xml
+592,E,F,I,LUX,C,22.01.2017,,ECC Les fers du Sud,Individual,1686.xml
+591,E,M,I,LUX,C,21.01.2017,,ECC Les fers du Sud,Individual,1687.xml
+597,E,F,I,LUX,C,21.01.2017,,ECC Les fers du Sud,Team,1688.xml
+596,E,M,I,LUX,C,22.01.2017,,ECC Les fers du Sud,Team,1689.xml
+55,E,M,Z,GER,S,21.01.2017,U23 European Circuit Weisser Baer,,Individual,1694.xml
+pl7046,S,F,I,POL,S,26.11.2016,SZBLKA,Puchar Polski II,Individual,1695.xml
+pl7047,S,M,I,POL,S,26.11.2016,SZBLMAB,Puchar Polski II,Individual,1696.xml
+589,S,M,,ROU,C,28.01.2017,SC-in,Cadet Circuit,Individual,1697.xml
+590,S,F,,ROU,C,28.01.2017,SC-in,Cadet Circuit,Individual,1698.xml
+51,S,M,I,,J,12.09.2009,,Konin SMC,Individual,17.xml
+25,E,M,,TUR,C,17.09.2011,Y_A_E_E,European Cadet Circuit,Individual,171.xml
+223,E,M,Z,GER,S,29.01.2017,Coupe Europe,,Team,1713.xml
+5,E,F,I,FIS,S,28.01.2017,Coppa Europa 2017,Coppa Europa 2017,Team,1715.xml
+15,S,M,I,FFE,M23,05.02.2017,U23 2017 SH,U23 SH,Individual,1716.xml
+10,,F,I,FFE,,05.02.2017,U23 2017 SD,U23 2017 SD,Individual,1717.xml
+4956,F,F,I,ESP,S,05.02.2017,,EFC U23,Individual,1718.xml
+4906,F,M,I,ESP,S,05.02.2017,,EFC U23 FM,Individual,1719.xml
+18,S,M,,POL,C,17.09.2011,European Cadet Circuit,European Cadet Circuit,Individual,172.xml
+4,S,M,I,Federazione Italiana Scherma,S,05.02.2017,Coppa Europa 2017,Coppa Europa 2017,Team,1720.xml
+98,F,F,,ROU,C,11.02.2017,FC-in,Cadet Circuit,Individual,1721.xml
+100,F,M,I,POL,C,11.02.2017,,X Witold Woyda's Foil Tournament,Individual,1722.xml
+17,S,F,,POL,C,17.09.2011,European Cadet Circuit,European Cadet Circuit,Individual,173.xml
+14,F,M,,GBR,C,18.09.2011,FMC-in,European Cadet Circuit Manchester Men's Foil,Individual,174.xml
+99,F,F,I,ROU,C,11.02.2017,FC-eq,Cadet Circuit,Team,1741.xml
+101,F,M,I,POL,C,12.02.2017,,X Witold Woyda's Foil Tournament,Team,1742.xml
+510,E,F,,ITA,U23,11.02.2017,EU-in,U23 European Circuit,Individual,1743.xml
+509,E,M,,ITA,U23,11.02.2017,EU-in,U23 European Circuit,Individual,1744.xml
+48,F,M,I,,S,18.02.2017,Sokol Cup,Sokol Cup - Tvaruzek 2017,Individual,1745.xml
+45,F,F,I,,S,19.02.2017,Sokol Cup - Moravanka,Sokol Cup - Moravanka 2017,Individual,1746.xml
+136,S,F,I,BUL,C,28.02.2017,,European Cadet CH,Individual,1747.xml
+135,F,M,I,BUL,C,28.02.2017,,European Cadet CH,Individual,1748.xml
+133,E,M,I,BUL,C,01.03.2017,,European Cadet CH,Individual,1749.xml
+13,F,F,,GBR,C,18.09.2011,FFC-in,European Cadet Circuit Manchester Women's Foil,Individual,175.xml
+134,F,F,I,BUL,C,01.03.2017,,European Cadet CH,Individual,1750.xml
+132,E,F,I,BUL,C,02.03.2017,,European Cadet CH,Individual,1751.xml
+137,S,M,I,BUL,C,02.03.2017,,European Cadet CH,Individual,1752.xml
+139,E,M,I,BUL,C,03.03.2017,,European Cadet CH,Team,1753.xml
+141,F,M,I,BUL,C,03.03.2017,,European Cadet CH,Team,1754.xml
+142,S,F,I,BUL,C,03.03.2017,,European Cadet CH,Team,1755.xml
+138,E,F,I,BUL,C,04.03.2017,,European Cadet CH,Team,1756.xml
+140,F,F,I,BUL,C,04.03.2017,,European Cadet CH,Team,1757.xml
+143,S,M,I,BUL,C,04.03.2017,,European Cadet CH,Team,1758.xml
+353,S,F,I,BUL,J,05.03.2017,,European Junior CH,Individual,1759.xml
+352,F,M,I,BUL,J,05.03.2017,,European Junior CH,Individual,1760.xml
+350,E,M,I,BUL,J,06.03.2017,,European Junior CH,Individual,1761.xml
+351,F,F,I,BUL,J,06.03.2017,,European Junior CH,Individual,1762.xml
+349,E,F,I,BUL,J,07.03.2017,,European Junior CH,Individual,1763.xml
+354,S,M,I,BUL,J,07.03.2017,,European Junior CH,Individual,1764.xml
+356,E,M,I,BUL,J,08.03.2017,,European Junior CH,Team,1765.xml
+358,F,M,I,BUL,J,08.03.2017,,European Junior CH,Team,1766.xml
+359,S,F,I,BUL,J,08.03.2017,,European Junior CH,Team,1768.xml
+355,E,F,I,BUL,J,09.03.2017,,European Junior CH,Team,1769.xml
+21,E,F,,SRB,C,24.09.2011,European Cadet Circuit,European Cadet Circuit,Individual,177.xml
+360,S,M,I,BUL,J,09.03.2017,,European Junior CH,Team,1770.xml
+357,F,F,I,BUL,J,09.03.2017,,European Junior CH,Team,1771.xml
+262144,E,F,I,POL,S,11.03.2017,,Puchar Polski IV - European U23 Circuit,Individual,1772.xml
+438,F,M,,ITA,U23,11.03.2017,FM_CON_RK,European U23 Circuit,Individual,1773.xml
+519,S,F,,ITA,U23,11.03.2017,SCF_,European U23 Circuit,Individual,1774.xml
+450,F,F,Z,GER,S,11.03.2017,European U23 Circuit,,Individual,1775.xml
+535,S,F,,AUT,U23,26.02.2017,OVC U23 EC 2017 WS,Open Viennese Championships U23 EC 2017 Women Sabre,Individual,1776.xml
+534,S,M,,AUT,U23,26.02.2017,OVC u23 EC 2017 MS,Open Viennese Championships 2017 U23 EC Men Sabre,Individual,1777.xml
+439,F,F,,ITA,U23,11.03.2017,FF_U23,European U23 Circuit,Individual,1778.xml
+518,S,M,,ITA,U23,11.03.2017,SCM_U23,European U23 Circuit,Individual,1779.xml
+499,E,M,,POL,U23,11.03.2017,EU-in,European U23 Circuit,Individual,1780.xml
+542,F,M,,ITA,C,21.01.2017,FC-in - Men,Cadet Circuit - Pisa 2017 - Men's Foil,Individual,1781.xml
+602,E,F,,ESP,U23,08.04.2017,EU-in,U23 European Circuit,Individual,1783.xml
+603,E,M,,ESP,U23,08.04.2017,EM,U23 European Circuit,Individual,1784.xml
+117,F,M,,BLR,U23,21.04.2017,FU-in 1596-2016,European Championships U23,Individual,1785.xml
+118,S,F,,BLR,,21.04.2017,SU-in,European Championships U23,Individual,1786.xml
+115,E,M,,BLR,B,21.04.2017,EU-in,European Championships U23,Individual,1787.xml
+116,F,F,,BLR,U23,21.04.2017,FU-in 1593-2016,European Championships U23,Individual,1788.xml
+114,E,F,,BLR,U23,21.04.2017,EU-in 1592-2016,European Championships U23,Individual,1789.xml
+119,S,M,,BLR,B,21.04.2017,SU-in,European Championships U23,Individual,1790.xml
+7,,M,I,FFE,B,23.04.2017,1599-2016,Epee men,Team,1792.xml
+1,S,M,I,BLR,B,22.04.2017,1598-2016,Sabre women,Team,1793.xml
+6,,M,I,FFE,B,21.04.2017,1600-2016,Men's foil teams,Team,1794.xml
+5,,M,I,FFE,B,24.04.2017,Minsk-1601-2016,Sabre men team,Team,1795.xml
+5,,M,I,FFE,B,23.04.2017,1603-2016,Women's epee,Team,1796.xml
+3,,M,I,FFE,B,23.04.2017,1602-2016,Women's foil,Team,1797.xml
+5,,F,I,FFE,,13.05.2017,CE FLF Ech,,Team,1798.xml
+738,E,F,I,GEO,S,15.06.2017,ES-in 2017-738,Championnats d'Europe Epee Women,Individual,1799.xml
+pl2690,S,M,,POL,C,11.09.2010,European Cadet Circuit,European Cadet Circuit,Individual,18.xml
+27,E,M,,HUN,C,30.09.2011,EMC-in,European Cadet Circuit Epee Masculin,Individual,180.xml
+739,E,M,I,GEO,S,13.06.2017,ES-in,Championnats d'Europe Epee men,Individual,1800.xml
+740,F,F,I,GEO,S,13.06.2017,FS-in 2017-740,Championnats d'Europe Foil Women,Individual,1801.xml
+741,F,M,I,GEO,S,12.06.2017,FS-in,Championnats d'Europe Foil men,Individual,1802.xml
+742,S,F,I,GEO,S,12.06.2017,SS-in 2017-742,Championnats d'Europe Women Sabre,Individual,1803.xml
+743,S,M,I,GEO,S,15.06.2017,SS-in,Championnats d'Europe Sabre men,Individual,1804.xml
+748,S,F,,GEO,S,14.06.2017,SS-eq,Championnats d'Europe Sabre women,Team,1805.xml
+744,E,F,,GEO,S,17.06.2017,ES-eq 2017-744,Championnats d'Europe Epee Women,Team,1806.xml
+745,E,M,,GEO,S,16.06.2017,ES-eq,Championnats d'Europe Epee men,Team,1807.xml
+746,F,F,,GEO,S,16.06.2017,FS-eq 2017-746,Championnats d'Europe Foil Women,Team,1809.xml
+497,E,F,,HUN,C,30.09.2011,European Cadet Circuit,European Cadet Circuit Epee Feminin,Individual,181.xml
+747,F,M,,GEO,S,14.06.2017,FS-eq 2017-747,Championnats d'Europe Foil Men,Team,1810.xml
+749,S,M,,GEO,S,17.06.2017,SS-eq,Championnats d'Europe Sabre men team,Team,1811.xml
+1281,F,F,I,DEN,S,28.05.2017,Trekanten International - Nordic Championships Foil 2017,,Individual,1812.xml
+1330,F,M,I,DEN,S,27.05.2017,Trekanten International - Nordic Championships Foil 2017,,Individual,1813.xml
+23,E,F,I,SUI,C,23.09.2017,Cadet Circuit,,Individual,1814.xml
+55,E,F,I,FRA,C,26.11.2016,EC-eq,Cadet Circuit,Team,1815.xml
+92,S,F,I,GBR,C,29.10.2016,SC-eq,Women's Team Sabre,Team,1816.xml
+93,S,M,I,GBR,C,29.10.2016,SC-eq,Men's Team Sabre,Team,1817.xml
+24,E,F,I,SUI,C,24.09.2017,Cadet Circuit,,Team,1818.xml
+17,S,F,I,POL,C,23.09.2017,,Cadet Circuit - X EUROPEAN,Individual,1819.xml
+18,S,M,I,POL,C,23.09.2017,,Cadet Circuit - X EUROPEAN,Individual,1820.xml
+41,S,M,I,HUN,C,30.09.2017,SC-in,Cadet Circuit,Individual,1821.xml
+40,S,F,I,HUN,C,30.09.2017,SFC-in,Cadet Circuit,Individual,1824.xml
+547,E,F,I,HUN,U23,30.09.2017,EFS-in,U23 - MK,Individual,1825.xml
+42,S,F,I,HUN,C,30.09.2017,SC-eq,Cadet Circuit Women's Sabre Team 30. 09. 2017,Team,1827.xml
+43,S,M,I,HUN,C,30.09.2017,SC-eq,Cadet Circuit Men's Sabre Team 01. 10. 2017,Team,1829.xml
+41,S,M,,HUN,C,01.10.2011,SMC-in,European Cadet Circuit,Individual,183.xml
+35089,F,F,N,FFE,S,30.09.2017,2018_fdu23_antony,Open d'Antony U23 Fleuret Dames U23,Individual,1832.xml
+1,F,M,N,Féd. Française d'Escrime,U23,30.09.2017,2018_fhu23_antony,ANTONY U23 HOMMES,Individual,1833.xml
+546,E,M,I,HUN,U23,30.09.2017,EMS-in,U23 Férfi MK,Individual,1834.xml
+21,E,F,I,AFG,C,07.10.2017,,8. European Cadet Cup,Individual,1835.xml
+22,E,F,I,AFG,C,08.10.2017,,8. European Cadet Cup,Team,1836.xml
+553,S,F,I,FRA,U23,14.10.2017,U23 Women,U23 European Circuit,Individual,1839.xml
+29,F,M,,HUN,C,30.09.2011,FMC-in,European Cadet Circuit Fleuret masculin,Individual,184.xml
+552,S,M,I,FRA,U23,14.10.2017,U23 Men,U23 European Circuit,Individual,1840.xml
+13,F,F,I,GBR,C,14.10.2017,,Manchester Cadet International 2017,Individual,1841.xml
+14,F,M,I,GBR,C,14.10.2017,,Manchester Cadet International 2017,Individual,1842.xml
+50,S,F,I,FRA,C,14.10.2017,Eurosabre Women,Cadet Circuit,Individual,1843.xml
+51,S,M,I,FRA,C,14.10.2017,Eurosabre Men,Cadet Circuit,Individual,1844.xml
+25,E,M,I,TUR,C,07.10.2017,Cadet Circuit,Cadet Circuit,Individual,1845.xml
+26,E,M,I,TUR,C,07.10.2017,Cadet Circuit,Cadet Circuit,Team,1846.xml
+29,F,M,I,HUN,C,21.10.2017,171020_FMC,Cadet Circuit Cup Budapest Men's Foil,Individual,1847.xml
+28,F,F,I,HUN,C,21.10.2017,FC-in,Cadet Circuit Women's Foil Individual 10.21.2017,Individual,1848.xml
+30,F,F,I,HUN,C,20.10.2017,FC-eq,Cadet Circuit Cup Budapest Women's Foil Team,Team,1849.xml
+28,F,F,,HUN,C,30.09.2011,FFC-in,European Cadet Circuit Fleuret Feminin,Individual,185.xml
+27,E,M,I,HUN,C,22.10.2017,EC-in,Cadet Circuit  Cup Budapest  Men's Epée Individual,Individual,1850.xml
+31,F,M,I,HUN,C,21.10.2017,FC-eq,Cadet Circuit Men's  Cup Budapest  Team Foil,Team,1851.xml
+604,E,M,I,HUN,C,23.10.2017,EC-eq,Cadet Circuit Cadet Circuit  Cup Budapest   10.23.2017,Team,1852.xml
+495,E,F,I,AUT,C,28.10.2017,Cadet Circuit,,Individual,1853.xml
+494,E,M,I,AUT,C,28.10.2017,Cadet Circuit,,Individual,1854.xml
+537,E,F,I,AUT,C,29.10.2017,Cadet Circuit,,Team,1855.xml
+536,E,M,I,AUT,C,29.10.2017,Cadet Circuit,,Team,1856.xml
+92,S,F,I,GBR,C,28.10.2017,SC-WTS,Cadet Women's Team Sabre,Team,1857.xml
+90,S,F,I,GBR,C,28.10.2017,SC-in,Cadet Women's Sabre,Individual,1859.xml
+91,S,M,I,GBR,C,28.10.2017,SC-in,Cadet Men's Sabre,Individual,1860.xml
+36,F,F,I,SVK,C,04.11.2017,FC-in,Cadet Circuit,Individual,1861.xml
+63,S,M,I,,C,04.11.2017,,Etropolski's sabre,Individual,1862.xml
+62,S,F,I,,C,05.11.2017,,Etropolski's sabre,Individual,1864.xml
+65,S,M,I,,C,05.11.2017,,Etropolski's sabre,Team,1865.xml
+40,S,F,,HUN,C,01.10.2011,SFC-in,European Cadet Circuit,Individual,187.xml
+48,F,M,I,GRE,C,04.11.2017,FC-in,Cadet Circuit,Individual,1870.xml
+49,F,M,I,GRE,C,04.11.2017,FC-eq,Cadet Circuit,Team,1872.xml
+37,F,F,I,SVK,C,04.11.2017,FC-eq,Cadet Circuit,Team,1874.xml
+64,S,F,I,,C,04.11.2017,,Etropolski's sabre,Team,1876.xml
+501,E,F,I,FRA,U23,04.11.2017,EU-in,U23 European Circuit Epée Dames 2017,Individual,1877.xml
+498,E,M,I,FRA,U23,04.11.2017,EU-in,U23 European Circuit Epée Hommes,Individual,1878.xml
+538,F,M,I,AUT,C,11.11.2017,,ECC foil Moedling 2017 men's Foil individual,Individual,1880.xml
+32,E,F,I,GER,C,11.11.2017,Cadet Circuit Kneipp Cup,,Individual,1882.xml
+584,F,F,I,AUT,C,11.11.2017,,ECC foil Moedling 2017,Team,1883.xml
+34,E,M,I,GER,C,11.11.2017,Cadet Circuit,,Individual,1884.xml
+33,E,F,I,GER,C,12.11.2017,Cadet Circuit Kneipp Cup,,Team,1885.xml
+35,E,M,I,GER,C,12.11.2017,Cadet Circuit,,Team,1886.xml
+23,E,F,,SUI,C,08.10.2011,EFC-in,European Cadet Circuit,Individual,189.xml
+539,F,F,I,AFG,C,12.11.2017,,ECC foil Moedling 2017 women foil,Individual,1891.xml
+583,F,M,I,AUT,C,12.11.2017,,ECC foil Moedling 2017 men Team,Team,1892.xml
+93,S,M,I,GBR,C,28.10.2017,SC-eq,Cadet Men's Team Sabre,Team,1893.xml
+71,E,M,I,FIN,C,18.11.2017,,Espoo Fencing Challenge,Individual,1896.xml
+70,E,F,I,FIN,C,18.11.2017,,Espoo Fencing Challenge,Individual,1897.xml
+66,S,F,I,RUS,C,18.11.2017,Moscow-1755-2017,Cadet Circuit,Individual,1898.xml
+565,F,M,I,GER,S,18.11.2017,U23 European Circuit,,Individual,1899.xml
+17,S,F,,POL,C,12.09.2010,European Cadet Circuit,European Cadet Circuit,Individual,19.xml
+45,E,M,I,AUT,C,29.10.2011,EMCEM2011,European Cadet Circuit Epee Men 2011,Individual,190.xml
+594,E,M,I,FIN,C,19.11.2017,,Espoo Fencing Challenge,Team,1901.xml
+558,E,F,I,FIN,C,19.11.2017,,Espoo Fencing Challenge,Team,1902.xml
+398,F,M,I,SVK,S,18.11.2017,,MÃ©morial de Ferdinand De Martinengo 2017,Individual,1903.xml
+397,F,F,I,SVK,S,19.11.2017,,MÃ©morial de Ferdinand De Martinengo 2017,Individual,1904.xml
+67,S,M,I,RUS,C,18.11.2017,1756-2017,Cadet Circuit,Individual,1905.xml
+505,F,F,I,POL,U,25.11.2017,,Puchar Polski II/ Puchar Europy,Individual,1910.xml
+504,F,M,I,POL,S,25.11.2017,,Puchar Polski II/ Puchar Europy,Individual,1911.xml
+442,S,M,I,GER,S,25.11.2017,European U23 Circuit Muenchener Schwert / Nymphenburger Schloss,,Individual,1912.xml
+443,S,F,I,GER,S,26.11.2017,European U23 Circuit Muenchener Schwert / Nymphenburger Schloss,,Individual,1913.xml
+76,S,F,I,GER,C,02.12.2017,Cadet Circuit,,Individual,1915.xml
+79,S,M,I,GER,C,02.12.2017,Cadet Circuit,,Team,1916.xml
+38,F,M,I,GER,C,02.12.2017,Int. Händel-Cup  - Cadet Circuit,,Individual,1919.xml
+500,S,M,,GEO,S,29.10.2011,U23 Tbilissi SMS-in,U23 European Circuit Tbilissi SMS-in,Individual,192.xml
+77,S,M,I,GER,C,03.12.2017,Cadet Circuit,,Individual,1920.xml
+39,F,M,I,GER,C,03.12.2017,Int. Händel-Cup  - Cadet Circuit,,Team,1921.xml
+46,F,F,I,GER,C,02.12.2017,gft2017,Das Goldene Florett von Tauberbischofsheim 2017,Individual,1924.xml
+508,E,F,I,AUT,U,03.12.2017,,U23 men/women - eppe/foil Moedling,Individual,1925.xml
+507,E,M,I,AFG,U,02.12.2017,,U23 men/women - eppe/foil Moedling,Individual,1926.xml
+532,F,F,I,AFG,U,02.12.2017,,U23 men/women - eppe/foil Moedling,Individual,1927.xml
+531,F,M,I,AUT,U,03.12.2017,,U23 men/women - eppe/foil Moedling,Individual,1928.xml
+78,S,F,I,GER,C,03.12.2017,Cadet Circuit,,Team,1929.xml
+4,F,M,I,Contexte_general,S,04.12.2017,MF Coupe d'Europe,Coppa Europa FM,Team,1930.xml
+54,E,F,I,FRA,C,09.12.2017,EC-in,Cadet Circuit,Individual,1935.xml
+595,E,M,I,FRA,C,09.12.2017,EC-eq,Cadet Circuit,Team,1938.xml
+141,F,F,I,Slovaquie,C,29.10.2011,Coupe de Samaria 2011,Coupe de Samaria 2011,Individual,194.xml
+72,F,F,I,FRA,C,09.12.2017,FDC,FDC - Coupe Mondiale Cabriès 2017,Individual,1940.xml
+55,E,F,I,FRA,C,09.12.2017,EC-eq,Cadet Circuit,Team,1943.xml
+74,F,F,N,FRA,C,10.12.2017,FDC Eq - Coupe Mondiale Cabriès 2017,FDC Eq - Coupe Mondiale Cabriès 2017,Team,1944.xml
+73,F,M,I,FRA,C,09.12.2017,FHC,FHC - Coupe Mondiale Cabriès 2017,Individual,1945.xml
+75,F,M,I,FRA,C,10.12.2017,FHC Eq - Coupe Mondiale Cabriès 2017,FHC Eq - Coupe Mondiale Cabriès 2017,Team,1946.xml
+588,E,M,I,FRA,C,09.12.2017,EC-in,Cadet Circuit,Individual,1947.xml
+94,E,F,I,SVK,C,12.01.2018,,Coupe du Danube 2018,Individual,1948.xml
+548,F,M,I,SVK,C,12.01.2018,,Coupe du Danube 2018 FMC Teams,Team,1949.xml
+96,E,F,I,SVK,C,13.01.2018,,Coupe du Danube 2018 Cadets,Team,1951.xml
+95,E,M,I,SVK,C,13.01.2018,,Coupe du Danube 2018 Cadets,Individual,1952.xml
+540,S,M,I,AUT,C,13.01.2018,,ECC Men  Sabre,Individual,1953.xml
+456,S,M,I,HUN,U23,13.01.2018,SU-in,Men's Sabre U23 European Circuit,Individual,1954.xml
+444,E,F,I,GER,U23,13.01.2018,MannheimEFC,U23 European Circuit,Individual,1955.xml
+461,E,M,I,GER,S,13.01.2018,U23 European Circuit Weisser Baer,,Individual,1956.xml
+541,S,F,I,AUT,C,14.01.2018,,ECC Men and Women Sabre,Individual,1958.xml
+491,F,M,I,SVK,C,14.01.2018,,Coupe du Danube 2018,Individual,1959.xml
+97,E,M,I,SVK,C,14.01.2018,,Coupe du Danube 2018,Team,1960.xml
+496,F,F,I,AFG,C,13.01.2018,,CADET CIRCUIT,Individual,1961.xml
+514,F,F,I,AFG,C,13.01.2018,,CADET CIRCUIT,Team,1962.xml
+457,S,F,I,HUN,U23,13.01.2018,SU-in,U23 Women's Sabre European Circuit,Individual,1963.xml
+510,E,F,I,ITA,U23,13.01.2018,EU-in,U23 European Circuit,Individual,1965.xml
+509,E,M,I,ITA,U23,13.01.2018,EU-in,U23 European Circuit,Individual,1966.xml
+14,S,M,I,,S,14.01.2018,sm-eq, Hungarian Cup  Men's Sabre Team,Team,1967.xml
+1,,M,I,Contexte_general,,13.01.2018,Nõi Csapat,Felnõtt Magyar Kupa nõi kard csapatverseny,Team,1968.xml
+542,F,M,I,ITA,C,20.01.2018,FC-in,Cadet Circuit,Individual,1969.xml
+543,F,F,I,ITA,C,20.01.2018,FC-in,Cadet Circuit,Individual,1970.xml
+522,E,F,I,DEN,C,20.01.2018,CWE,Cadet Women's Epee,Individual,1971.xml
+521,E,M,I,DEN,C,20.01.2018,CME,Cadet Men's Epee,Individual,1972.xml
+556,E,F,I,DEN,C,20.01.2018,WTE,Women's Cadet Team Epee,Team,1973.xml
+555,E,M,I,DEN,C,21.01.2018,MTS,Cadet Men's Team Epee,Team,1974.xml
+589,S,M,I,ROU,C,27.01.2018,SC-in,Cadet Circuit,Individual,1975.xml
+585,E,M,I,POL,C,27.01.2018,,"European Cadet Circuit, Wawel Dragon Trophy",Individual,1979.xml
+44,E,F,,AUT,C,30.10.2011,EFCEW2011,European Cadet Circuit Epee Women 2011,Individual,198.xml
+590,S,F,I,ROU,C,27.01.2018,SC-in,Cadet Circuit,Individual,1980.xml
+2561,E,M,I,GER,S,28.01.2018,Coupe d´Europe,,Team,1981.xml
+586,E,F,I,POL,C,28.01.2018,,"European Cadet Circuit, Wawel Dragon Trophy",Individual,1982.xml
+9,E,F,I,"FIS, EFC",S,27.01.2018,EFC18,Europe Fencing Cup 2018,Team,1985.xml
+98,F,F,I,ROU,C,10.02.2018,FC-in,Cadet Circuit,Individual,1986.xml
+100,F,M,I,POL,C,10.02.2018,,XI Witold Woyda's Foil &amp; IX Golden Team Cup Tournament,Individual,1987.xml
+519,S,F,I,ITA,U23,10.02.2018,ScF-in,SCF - U23 European Circuit,Individual,1988.xml
+438,F,M,I,ITA,U23,10.02.2018,FM-in,FM - Roma U23 European Circuit,Individual,1989.xml
+31,E,F,I,FFE,S,30.10.2011,eds-Colmar,EDS - Colmar 2011,Individual,199.xml
+101,F,M,I,POL,C,11.02.2018,,XI Witold Woyda's Foil &amp; IX Golden Team Cup Tournament,Team,1990.xml
+99,F,F,I,ROU,C,10.02.2018,FC-eq,Cadet Circuit,Team,1991.xml
+439,F,F,I,ITA,U23,10.02.2018,FF-in,FF - U23 European Circuit,Individual,1992.xml
+518,S,M,I,ITA,U23,10.02.2018,SU-in,SCM U23 European Circuit,Individual,1993.xml
+5,S,M,I,Contexte_general,S,05.02.2018,Coppa Europa SCM,Europe Cup Men Saber 2018,Team,1994.xml
+13,F,M,I,CZE,S,17.02.2018,,Sokol Cup 2018,Individual,1995.xml
+307,F,F,I,CZE,S,18.02.2018,,Sokol Cup 2018,Individual,1996.xml
+80,,M,,,,,,Pisa EMC,Individual,2.xml
+21,E,F,,SRB,C,18.09.2010,European Cadet Circuit,European Cadet Circuit,Individual,20.xml
+67,E,M,I,FFE,S,30.10.2011,ehs-Colmar,EHS - Colmar 2011,Individual,200.xml
+535,S,F,I,AUT,U23,25.02.2018,U23 EC Vienna WS,U23 EC Vienna Women Sabre,Individual,2001.xml
+534,S,M,I,AUT,U23,25.02.2018,U23 EC Vienna MS,U23 EC Vienna Men Sabre,Individual,2002.xml
+132,E,F,I,RUS,C,02.03.2018,,European Cadet Championships 2018,Individual,2003.xml
+137,S,M,I,RUS,C,02.03.2018,,European Cadet Championships 2018,Individual,2004.xml
+133,E,M,I,RUS,C,03.03.2018,,European Cadet Championships 2018,Individual,2005.xml
+134,F,F,I,RUS,C,03.03.2018,,European Cadet Championships 2018,Individual,2007.xml
+135,F,M,I,RUS,C,04.03.2018,,European Cadet Championships 2018,Individual,2009.xml
+48,F,M,,GRE,C,30.10.2010,European Cadet Circuit,European Cadet Circuit,Individual,201.xml
+136,S,F,I,RUS,C,04.03.2018,,European Cadet Championships 2018,Individual,2010.xml
+447,E,F,I,SUI,S,04.03.2018,European U23 Circuit,,Individual,2011.xml
+446,E,M,I,SUI,S,03.03.2018,European U23 Circuit,,Individual,2012.xml
+138,E,F,I,RUS,C,05.03.2018,,European Cadet Championships 2018,Team,2013.xml
+140,F,F,I,RUS,C,05.03.2018,,European Cadet Championships 2018,Team,2014.xml
+143,S,M,I,RUS,C,05.03.2018,,European Cadet Championships 2018,Team,2015.xml
+610,F,F,I,ESP,U23,24.02.2018,FU-in,U23 European Circuit,Individual,2016.xml
+609,F,M,I,ESP,U23,24.02.2018,FU-in,U23 European Circuit,Individual,2017.xml
+139,E,M,I,RUS,C,06.03.2018,,European Cadet Championships 2018,Team,2018.xml
+141,F,M,I,RUS,C,06.03.2018,,European Cadet Championships 2018,Team,2019.xml
+349,E,F,I,RUS,J,07.03.2018,,European Junior Championships 2018,Individual,2021.xml
+142,S,F,I,RUS,C,06.03.2018,,European Cadet Championships 2018,Team,2024.xml
+354,S,M,I,RUS,J,07.03.2018,,European Junior Championships 2018,Individual,2025.xml
+350,E,M,I,RUS,J,08.03.2018,,European Junior Championships 2018,Individual,2026.xml
+351,F,F,I,RUS,J,08.03.2018,,European Junior Championships 2018,Individual,2027.xml
+352,F,M,I,RUS,J,09.03.2018,,European Junior Championships 2018,Individual,2028.xml
+353,S,F,I,RUS,J,09.03.2018,,European Junior Championships 2018,Individual,2029.xml
+355,E,F,I,RUS,J,10.03.2018,,European Junior Championships 2018,Team,2030.xml
+357,F,F,I,RUS,J,10.03.2018,,European Junior Championships 2018,Team,2031.xml
+360,S,M,I,RUS,J,10.03.2018,,European Junior Championships 2018,Team,2032.xml
+356,E,M,I,RUS,J,11.03.2018,,European Junior Championships 2018,Team,2033.xml
+358,F,M,I,RUS,J,11.03.2018,,European Junior Championships 2018,Team,2034.xml
+359,S,F,I,RUS,J,11.03.2018,,European Junior Championships 2018,Team,2035.xml
+593,F,F,I,HUN,U23,24.03.2018,180324_U23NT,U23 European Circuit Women's Foil Individual,Individual,2036.xml
+551,F,M,I,HUN,U23,24.03.2018,180324_U23FT,U23 European Circuit Men's Foil Individual,Individual,2037.xml
+3,,M,I,,B,25.03.2018,180325_FTCS,Men's foil team,Team,2038.xml
+602,E,F,I,ESP,U23,24.03.2018,EU-in,Circuit Europeu Sub23 Espasa Femenina,Individual,2039.xml
+603,E,M,I,ESP,U23,24.03.2018,EU-in,U23 European Circuit,Individual,2040.xml
+166,F,M,N,Contexte_general,,24.03.2018,Nõi Tõr Csapat,Nõi Tõr Csapat,Team,2041.xml
+450,F,F,I,GER,S,14.04.2018,European U23 Circuit,,Individual,2042.xml
+114,E,F,I,ARM,U,15.04.2018,,European U23 Championships 2018,Individual,2043.xml
+119,S,M,I,ARM,U,15.04.2018,,European U23 Championships 2018,Individual,2044.xml
+115,E,M,I,ARM,U,16.04.2018,,European U23 Championships 2018,Individual,2045.xml
+116,F,F,I,ARM,U,16.04.2018,,European U23 Championships 2018,Individual,2046.xml
+117,F,M,I,ARM,U,17.04.2018,,European U23 Championships 2018,Individual,2047.xml
+118,S,F,I,ARM,U,17.04.2018,,European U23 Championships 2018,Individual,2048.xml
+486,S,M,I,ARM,U,18.04.2018,,European U23 Championships 2018,Team,2049.xml
+488,E,F,I,ARM,U,18.04.2018,,European U23 Championships 2018,Team,2050.xml
+489,F,F,I,ARM,U,18.04.2018,,European U23 Championships 2018,Team,2051.xml
+484,E,M,I,ARM,U,19.04.2018,,European U23 Championships 2018,Team,2052.xml
+485,F,M,I,ARM,U,19.04.2018,,European U23 Championships 2018,Team,2053.xml
+490,S,F,I,ARM,U,19.04.2018,,European U23 Championships 2018,Team,2054.xml
+513,E,F,I,POL,U,29.04.2018,,U-23 European Circuit-Puchar Polski IV w szpadzie kobiet,Individual,2055.xml
+419,F,F,I,ROU,S,14.05.2018,,European Cup,Team,2056.xml
+1377,F,F,I,DEN,S,27.05.2018,Trekanten International - Nordic Championships Foil 2018,,Individual,2057.xml
+1331,F,M,I,DEN,S,26.05.2018,Trekanten International - Nordic Championships Foil 2018,,Individual,2058.xml
+741,F,M,I,SRB,S,16.06.2018,,European Senior Championships 2018,Individual,2059.xml
+742,S,F,I,SRB,S,16.06.2018,,European Senior Championships 2018,Individual,2060.xml
+739,E,M,I,SRB,S,17.06.2018,,European Senior Championships 2018,Individual,2061.xml
+740,F,F,I,SRB,S,17.06.2018,,European Senior Championships 2018,Individual,2062.xml
+738,E,F,I,SRB,S,18.06.2018,,European Senior Championships 2018,Individual,2063.xml
+743,S,M,I,SRB,S,18.06.2018,,European Senior Championships 2018,Individual,2064.xml
+747,F,M,I,SRB,S,19.06.2018,,European Senior Championships 2018,Team,2065.xml
+748,S,F,I,SRB,S,19.06.2018,,European Senior Championships 2018,Team,2066.xml
+745,E,M,I,SRB,S,20.06.2018,,European Senior Championships 2018,Team,2067.xml
+746,F,F,I,SRB,S,20.06.2018,,European Senior Championships 2018,Team,2068.xml
+744,E,F,I,SRB,S,21.06.2018,,European Senior Championships 2018,Team,2069.xml
+749,S,M,I,SRB,S,21.06.2018,,European Senior Championships 2018,Team,2070.xml
+4,S,F,I,CEE,S,30.10.2017,COUPE EUROPE,Coupe d' Europe des clubs Sabre Dames,Team,2071.xml
+499,E,M,I,POL,U23,28.04.2018,EU-in,U23 European Circuit,Individual,2073.xml
+6,,F,N,,S,26.11.2017,I PPS seniorów PE U23 szabla kobiet,I Puchar POlski Seniorów Puchar Europy U23 w szabli kobiet,Individual,2075.xml
+44,S,M,N,,S,26.11.2017,IPPS szabla mezczyzn,I PPS PE U23 szabla mê¿czyzn,Individual,2076.xml
+391,F,M,I,SVK,S,15.09.2018,,Memorial Ferdinand de Martinengo,Individual,2077.xml
+1218,F,F,I,SVK,S,15.09.2018,,Memorial Ferdinand de Martinengo,Individual,2078.xml
+619,E,M,I,SUI,C,15.09.2018,Geneva Flo Fencing,,Individual,2080.xml
+23,E,F,I,SUI,C,16.09.2018,Geneva Flo Fencing,,Individual,2081.xml
+17,S,F,I,POL,C,15.09.2018,,Cadet Circuit,Individual,2082.xml
+18,S,M,I,POL,C,15.09.2018,,Cadet Circuit,Individual,2083.xml
+170,E,F,I,SVK,S,16.09.2018,,Memorial Ferdinand de Martinengo,Individual,2084.xml
+13,F,F,I,GBR,C,29.09.2018,,Manchester Cadet International 2018,Individual,2085.xml
+14,F,M,I,GBR,C,29.09.2018,,Manchester Cadet International 2018,Individual,2086.xml
+626,E,F,I,ITA,C,30.09.2018,EFC Novara 2018 TEAM,EFC Cadet Circuit Novara 2018 - Women's Epee Team,Team,2088.xml
+625,E,F,I,ITA,C,29.09.2018,EFC Novara 2018 IND,EFC Cadet Circuit Novara 2018 - Women's Epee Individual,Individual,2089.xml
+40,S,F,I,HUN,C,06.10.2018,SC-in,Cadet Circuit Women's Sabre Individual,Individual,2092.xml
+41,S,M,I,HUN,C,06.10.2018,SC-in,Cadet Circuit Men's Sabre Individual,Individual,2093.xml
+74,S,M,I,Contexte_general,C,07.10.2018,cms-eq,Cadet Men's Sabre Team,Team,2094.xml
+524568,E,F,I,AFG,P,07.10.2018,,Babylon Cup 2018,Individual,2096.xml
+1,S,F,I,Contexte_general,C,07.10.2018,csw-eq,Cadet Circuit Women's Sabre,Team,2097.xml
+13,F,F,,GBR,C,18.09.2010,European Cadet Circuit,European Cadet Circuit Manchester Women's Foil,Individual,21.xml
+20447234,E,M,I,CZE,B,06.10.2018,,Babylon Cup 2018,Individual,2100.xml
+1356,F,F,I,DEN,S,07.10.2018,Trekanten International,,Individual,2101.xml
+1280,F,M,I,DEN,S,06.10.2018,Trekanten International,,Individual,2102.xml
+16580610,F,F,I,CZE,P,06.10.2018,,Babylon Cup 2018,Individual,2103.xml
+19955713,F,M,I,AFG,P,07.10.2018,,Babylon Cup 2018,Individual,2104.xml
+90,S,F,I,GBR,C,13.10.2018,CWS,Cadet Women's Sabre,Individual,2105.xml
+48,F,M,I,GRE,C,13.10.2018,Helexpo Cup,,Individual,2107.xml
+36,F,F,I,SVK,C,13.10.2018,,Coupe de Samaria,Individual,2108.xml
+14659,F,F,N,GRE,U14,12.10.2018,U14 Euro Cup,,Individual,2109.xml
+14658,F,M,N,GRE,U14,12.10.2018,U14 Euro Cup,,Individual,2110.xml
+37,F,F,I,SVK,C,14.10.2018,,Coupe de Samaria,Team,2111.xml
+49,F,M,I,GRE,C,14.10.2018,Helexpo Cup,,Team,2112.xml
+92,S,F,I,GBR,C,13.10.2018,WTS,Women's Team Sabre,Team,2113.xml
+93,S,M,I,GBR,C,13.10.2018,MTS,Men's Team Sabre,Team,2114.xml
+21,E,F,I,SRB,C,20.10.2018,,Zrenjanin Open 2018 Cadet Circuit,Individual,2115.xml
+620,E,M,I,SRB,C,20.10.2018,,Zrenjanin Open 2018 Cadet Circuit,Individual,2116.xml
+66,S,F,I,RUS,C,20.10.2018,SC-in,Cadet Circuit,Individual,2117.xml
+67,S,M,I,RUS,C,20.10.2018,SC-in,Cadet Circuit,Individual,2118.xml
+22,E,F,I,SRB,C,21.10.2018,,Zrenjanin Open 2018 Cadet Circuit,Team,2119.xml
+621,E,M,I,SRB,C,21.10.2018,,Zrenjanin Open 2018 Cadet Circuit,Team,2120.xml
+68,S,F,I,RUS,C,20.10.2018,SC-eq,Cadet Circuit,Team,2123.xml
+69,S,M,I,RUS,C,20.10.2018,SC-eq,Cadet Circuit,Team,2124.xml
+495,E,F,I,AUT,C,27.10.2018,Trofeo Maestro Dario Codarin,,Individual,2125.xml
+494,E,M,I,AUT,C,27.10.2018,Trofeo Maestro Dario Codarin,,Individual,2126.xml
+537,E,F,I,AUT,C,28.10.2018,Trofeo Maestro Dario Codarin,,Team,2127.xml
+536,E,M,I,AUT,C,28.10.2018,Trofeo Maestro Dario Codarin,,Team,2128.xml
+610,F,F,I,ESP,U23,27.10.2018,CE U23 FDS Sabadell,U23 European Circuit,Individual,2129.xml
+609,F,M,I,ESP,B,27.10.2018,CE U23 FHS Sabadell,U23 European Circuit,Individual,2130.xml
+10,,M,N,Féd. Française d'Escrime,,28.10.2018,Antony Eq FHS,Antony Equipes FHS,Team,2131.xml
+612,F,F,N,FRA,U23,28.10.2018,2019_antony_u23_fds,U23 European Circuit Fleuret Féminin,Individual,2132.xml
+611,F,M,N,FRA,M23,27.10.2018,2019_antonu_u23_fhs,U23 European Circuit Fleuret Masculin,Individual,2133.xml
+0,F,F,I,ROU,,27.10.2018,,Cupa Floreta 2018,Individual,2134.xml
+0,F,M,I,ROU,,28.10.2018,,Cupa Floreta 2018,Individual,2135.xml
+588,E,M,I,FRA,C,03.11.2018,men-ind,Cadet Circuit Men Ind,Individual,2136.xml
+54,E,F,I,FRA,C,03.11.2018,Women-ind,Cadet Circuit,Individual,2137.xml
+55,E,F,I,FRA,C,03.11.2018,Cadet Circuit,Cadet Circuit,Team,2138.xml
+595,E,M,I,FRA,C,03.11.2018,Cadet Circuit,Cadet Circuit,Team,2139.xml
+445,F,M,I,GBR,U23,03.11.2018,SMF,London Cup - Men's Foil,Individual,2140.xml
+639,F,F,I,GBR,U23,03.11.2018,SWF,London Cup - Women's Foil,Individual,2141.xml
+501,E,F,I,FRA,S,03.11.2018,EU-in EDS,U23 European Circuit EDS,Individual,2142.xml
+498,E,M,N,FRA,U23,03.11.2018,EU-in EHS,U23 European Circuit EHS,Individual,2143.xml
+28,F,F,I,HUN,C,09.11.2018,Cadet Circuit,Cadet Circuit,Individual,2144.xml
+29,F,M,I,HUN,C,09.11.2018,Cadet Circuit Men's Foil,Cadet Circuit Men's Foil,Individual,2145.xml
+628,S,F,I,TUR,C,10.11.2018,,Ä°stanbul Sabre Circuit Tournament,Individual,2147.xml
+627,S,M,I,TUR,C,10.11.2018,,Ä°stanbul Sabre Circuit Tournament,Individual,2148.xml
+27,E,M,I,HUN,C,09.11.2018,Cadet Circuit_epée_men,Cadet Circuit - Budapest Championship - Epée Men's Individuel,Individual,2149.xml
+604,E,M,I,HUN,C,09.11.2018,Men's Epée Team,Cadet Circuit Men's Epée Team,Team,2150.xml
+30,F,F,I,HUN,C,09.11.2018,Cadet Circuit,Cadet Circuit Women's Foil Team,Team,2151.xml
+31,F,M,I,HUN,C,09.11.2018,Cadet Circuit,Cadet Circuit Men's Foil Team,Team,2152.xml
+630,S,F,I,TUR,C,11.11.2018,,Ä°stanbul Sabre Circuit Tournament,Team,2153.xml
+629,S,M,I,TUR,C,10.11.2018,,Ä°stanbul Sabre Circuit Tournament,Team,2154.xml
+63,S,M,I,BUL,C,17.11.2018,SC-in_sabre_men,Cadet Circuit,Individual,2157.xml
+64,S,F,I,BUL,C,17.11.2018,SC-eq_women_sabre,Cadet Circuit,Team,2158.xml
+593,F,F,I,HUN,U23,17.11.2018,181117 - U23nt,U23 European Circuit - Women's Foil Individual,Individual,2159.xml
+551,F,M,I,HUN,M23,17.11.2018,181117 - U23ft,U23 European Circuit - Men's Foil Individual,Individual,2160.xml
+505,F,F,I,AFG,U,17.11.2018,,Senior Cup Poland/ U23 European Circuit,Individual,2161.xml
+504,F,M,I,AFG,U,17.11.2018,,Senior Cup Poland/ U23 European Circuit,Individual,2162.xml
+46,S,M,I,Contexte_general,M,16.11.2018,U14_sabre_girls,,Individual,2165.xml
+62,S,F,I,BUL,C,17.11.2018,SC-in_women_sabre,Cadet Circuit,Individual,2172.xml
+65,S,M,I,BUL,C,17.11.2018,SC-eq,Cadet Circuit,Team,2173.xml
+11,S,M,I,Contexte_general,M,16.11.2018,EFC_U14_sabre_boys,,Individual,2175.xml
+538,F,M,I,AUT,C,24.11.2018,,ECC Foil Men induvidual Moedling 2018,Individual,2176.xml
+442,S,M,I,GER,Senior,24.11.2018,Muenchener Schwert / Nymphenburger Schloss,,Individual,2177.xml
+584,F,F,I,AUT,C,24.11.2018,,ECC Foil Women Team Moedling 2018,Team,2178.xml
+503,S,F,M,POL,U,24.11.2018,,Puchar Europy U23 - II Puchar Polski,Individual,2179.xml
+502,S,M,M,POL,U,24.11.2018,,Puchar Europy U23 - II Puchar Polski,Individual,2180.xml
+32,E,F,I,GER,C,24.11.2018,Kneipp Cup,,Individual,2181.xml
+34,E,M,I,GER,C,24.11.2018,Tank und Rast Pokal,,Individual,2183.xml
+443,S,F,I,GER,Senior,25.11.2018,Muenchener Schwert / Nymphenburger Schloss,,Individual,2184.xml
+539,F,F,I,AFG,C,25.11.2018,,ECC Women Foil individual Moedling 2018,Individual,2185.xml
+33,E,F,I,GER,C,25.11.2018,Kneipp Cup,,Team,2186.xml
+35,E,M,I,GER,C,25.11.2018,Tank und Rast Pokal,,Team,2187.xml
+583,F,M,I,AUT,C,25.11.2018,,ECC Men Foil Team Moedling 2018,Team,2188.xml
+-68,S,F,I,ROU,,25.11.2018,,RIPOSTA CUP 2018,Individual,2189.xml
+-137,S,M,I,ROU,,24.11.2018,,RIPOSTA CUP 2018,Individual,2190.xml
+79,S,M,I,GER,C,01.12.2018,Volksbankpokal,,Team,2191.xml
+532,F,F,I,AUT,U,01.12.2018,,INOE Meisterschaften /U23,Individual,2192.xml
+76,S,F,I,GER,C,01.12.2018,Volksbankpokal,,Individual,2193.xml
+507,E,M,I,AUT,U,01.12.2018,,INOE Meisterschaften /U23,Individual,2196.xml
+73,F,M,I,FRA,C,01.12.2018,Cabries 2018 Hommes,Cabries 2018 HOMMES,Individual,2197.xml
+72,F,F,I,FRA,C,01.12.2018,Cabries 2018 Femmes,Cabriès 2018 FEMMES,Individual,2198.xml
+14,F,M,,GBR,C,18.09.2010,European Cadet Circuit MF,European Cadet Circuit Manchester Men's Foil 2010,Individual,22.xml
+77,S,M,I,GER,C,02.12.2018,Volksbankpokal,,Individual,2200.xml
+78,S,F,I,GER,C,02.12.2018,Volksbankpokal,,Team,2201.xml
+508,E,F,I,AUT,U,02.12.2018,,INOE Meisterschaften /U23,Individual,2202.xml
+531,F,M,I,AUT,U,02.12.2018,,INOE Meisterschaften /U23,Individual,2204.xml
+75,F,M,I,FRA,C,02.12.2018,Cabries 2018 Hommes Equipes,Cabries 2018 Hommes Equipes,Team,2205.xml
+74,F,F,I,FRA,C,02.12.2018,Cabries 2018 Femmes Equipes,Cabriès 2018 FEMMES par équipes,Team,2206.xml
+522,E,F,I,DEN,C,01.12.2018,CWE,Women's Cadet Epee,Individual,2207.xml
+521,E,M,I,DEN,C,01.12.2018,CME,Men's Cadet Epee,Individual,2208.xml
+556,E,F,I,DEN,C,01.12.2018,WTE,Women's Cadet Team Epee,Team,2209.xml
+555,E,M,I,DEN,C,01.12.2018,MTE,Men's Cadet Team Epee,Team,2210.xml
+14661,E,F,N,GRE,U14,01.12.2018,European Circuit,,Individual,2211.xml
+6788,S,F,I,MSS,M,02.12.2018,Kup Sindje (za RL) - SZ Pioniri A,Kup Sindje (za RL) - Sablja Zene Pioniri A,Individual,2212.xml
+678,S,M,I,MSS,M,02.12.2018,Kup Sindje (za RL) - SM Pioniri A,Kup Sindje (za RL) - Sablja Muskarci Pioniri A,Individual,2213.xml
+565,F,M,I,GER,S,08.12.2018,Esslinger Burg-Cup,,Individual,2214.xml
+14660,E,M,N,GRE,U14,01.12.2018,European Circuit,,Individual,2215.xml
+38,F,M,I,GER,C,15.12.2018,International Händel-Cup,,Individual,2216.xml
+46,F,F,I,GER,C,15.12.2018,Goldenes Florett,,Individual,2217.xml
+39,F,M,I,GER,C,16.12.2018,International Händel-Cup,,Team,2218.xml
+47,F,F,I,GER,C,16.12.2018,Goldenes Florett,,Team,2219.xml
+51,S,M,I,FRA,C,12.01.2019,Cadet Circuit,Cadet Circuit,Individual,2220.xml
+50,S,F,I,FRA,C,12.01.2019,Cadet Circuit,Cadet Circuit,Individual,2221.xml
+94,E,F,I,SVK,C,11.01.2019,,Coupe du Danube EFC CC 2019,Individual,2222.xml
+95,E,M,I,SVK,C,12.01.2019,,Coupe du Danube EFC CC 2019,Individual,2223.xml
+491,F,M,I,SVK,C,13.01.2019,,Coupe du Danube EFC CC 2019,Individual,2224.xml
+96,E,F,I,SVK,C,12.01.2019,,Coupe du Danube EFC CC 2019,Team,2225.xml
+97,E,M,I,SVK,C,13.01.2019,,Coupe du Danube EFC CC 2019,Team,2226.xml
+548,F,M,I,SVK,C,11.01.2019,,Coupe du Danube EFC CC 2019,Team,2227.xml
+457,S,F,I,HUN,U23,12.01.2019,U23 European Circuit,U23 European Circuit,Individual,2231.xml
+456,S,M,I,HUN,U23,12.01.2019,U23 European Circuit,U23 European Circuit,Individual,2232.xml
+91,S,M,I,GBR,C,13.10.2018,CMS,Cadet Men's Sabre,Individual,2240.xml
+3033,E,M,Z,GER,S,13.01.2019,Coupe d&#039;Europe,,Team,2241.xml
+540,S,M,I,AUT,C,26.01.2019,,ECC Sabre Moedling 2019,Individual,2243.xml
+70,E,F,I,FIN,C,26.01.2019,,Espoo Fencing Challenge 2019,Individual,2244.xml
+71,E,M,I,FIN,C,26.01.2019,,Espoo Fencing Challenge 2019,Individual,2245.xml
+efcm19,E,F,I,European Fencing Confederation,V,19.01.2019,Europe Fencing Cup 2019,,Team,2246.xml
+558,E,F,I,FIN,C,27.01.2019,,Espoo Fencing Challenge 2019,Team,2249.xml
+594,E,M,I,FIN,C,27.01.2019,,Espoo Fencing Challenge 2019,Team,2250.xml
+10618,E,F,I,FIN,,27.01.2019,,Espoo Fencing Challenge 2019,Individual,2251.xml
+10617,E,M,I,FIN,,27.01.2019,,Espoo Fencing Challenge 2019,Individual,2252.xml
+543,F,F,I,ITA,C,26.01.2019,Cadet CircuitFF,Cadet Circuit FF,Individual,2253.xml
+542,F,M,I,ITA,C,26.01.2019,Cadet Circuit FM,Cadet Circuit FM,Individual,2254.xml
+541,S,F,I,AUT,C,27.01.2019,,ECC Sabre Moedling 2019,Individual,2255.xml
+510,E,F,I,ITA,B,26.01.2019,U23 European Circuit,U23 European Circuit,Individual,2256.xml
+509,E,M,I,ITA,U23,26.01.2019,U23 European Circuit,U23 European Circuit,Individual,2257.xml
+589,S,M,I,ROU,C,02.02.2019,,RIPOSTA CUP 2019,Individual,2258.xml
+590,S,F,I,ROU,C,03.02.2019,,RIPOSTA CUP 2019,Individual,2259.xml
+51,S,M,I,FRA,C,29.10.2011,European Cadet Circuit,European Cadet Circuit,Individual,226.xml
+98,F,F,I,AFG,C,09.02.2019,,SATU MARE CUP,Individual,2260.xml
+585,E,M,I,POL,C,09.02.2019,,"European Cadet Circuit, Wawel Dragon Trophy",Individual,2261.xml
+100,F,M,I,POL,C,09.02.2019,,XII Witold Woyda's Foil &amp; X Golden Team Cup Tournament,Individual,2262.xml
+99,F,F,I,RUS,C,10.02.2019,,SATU MARE CUP,Team,2263.xml
+101,F,M,I,POL,C,10.02.2019,,XII Witold Woyda's Foil &amp; X Golden Team Cup Tournament,Team,2264.xml
+586,E,F,I,POL,C,10.02.2019,,"European Cadet Circuit, Wawel Dragon Trophy",Individual,2265.xml
+4,F,M,I,Contexte_general,S,11.02.2019,MENS FOIL EUROPE CUP,,Team,2266.xml
+135,F,M,I,ITA,C,22.02.2019,,European Cadet Championships 2019,Individual,2267.xml
+136,S,F,I,ITA,C,22.02.2019,,European Cadet Championships 2019,Individual,2268.xml
+450,F,F,I,GER,S,23.02.2019,International Stauferland Tournament,,Individual,2269.xml
+132,E,F,I,AFG,C,23.02.2019,,European Cadet Championships 2019,Individual,2270.xml
+137,S,M,I,AFG,C,23.02.2019,,European Cadet Championships 2019,Individual,2271.xml
+461,E,M,I,GER,S,23.02.2019,Weisser Baer,,Individual,2272.xml
+444,E,F,I,GER,,24.02.2019,U23 European Circuit,U23 European Circuit,Individual,2273.xml
+133,E,M,I,ITA,C,24.02.2019,,European Cadet Championships 2019,Individual,2274.xml
+134,F,F,I,ITA,C,24.02.2019,,European Cadet Championships 2019,Individual,2275.xml
+138,E,F,I,ITA,C,25.02.2019,,European Cadet Championships 2019,Team,2276.xml
+141,F,M,I,ITA,C,25.02.2019,,European Cadet Championships 2019,Team,2277.xml
+142,S,F,I,ITA,C,25.02.2019,,European Cadet Championships 2019,Team,2278.xml
+139,E,M,I,ITA,C,26.02.2019,,European Cadet Championships 2019,Team,2279.xml
+50,S,F,I,FRA,C,29.10.2011,European Cadet Circuit,European Cadet Circuit,Individual,228.xml
+140,F,F,I,ITA,C,26.02.2019,,European Cadet Championships 2019,Team,2280.xml
+143,S,M,I,ITA,C,26.02.2019,,European Cadet Championships 2019,Team,2281.xml
+352,F,M,I,ITA,J,27.02.2019,,European Junior Championships 2019,Individual,2282.xml
+353,S,F,I,ITA,J,27.02.2019,,European Junior Championships 2019,Individual,2283.xml
+349,E,F,I,ITA,J,28.02.2019,,European Junior Championships 2019,Individual,2284.xml
+354,S,M,I,ITA,J,28.02.2019,,European Junior Championships 2019,Individual,2285.xml
+350,E,M,I,ITA,J,01.03.2019,,European Junior Championships 2019,Individual,2286.xml
+351,F,F,I,ITA,J,01.03.2019,,European Junior Championships 2019,Individual,2288.xml
+355,E,F,I,ITA,J,02.03.2019,,European Junior Championships 2019,Team,2289.xml
+32,E,F,Z,GER,C,12.11.2011,European Cadet Circuit ,European Cadet Circuit ,Individual,229.xml
+358,F,M,I,ITA,J,02.03.2019,,European Junior Championships 2019,Team,2290.xml
+359,S,F,I,ITA,J,02.03.2019,,European Junior Championships 2019,Team,2291.xml
+357,F,F,I,ITA,J,03.03.2019,,European Junior Championships 2019,Team,2292.xml
+356,E,M,I,ITA,J,03.03.2019,,European Junior Championships 2019,Team,2293.xml
+360,S,M,I,ITA,J,03.03.2019,,European Junior Championships 2019,Team,2294.xml
+513,E,F,I,POL,U,16.03.2019,,U-23 / PUCHAR POLSKI IV SENIOREK W SZPADZIE KOBIET,Individual,2295.xml
+5c88e971,S,F,,,M23,17.03.2019,,Circuit U23,Individual,2296.xml
+5c88e926,S,M,,,M23,17.03.2019,,Circuit U23,Individual,2297.xml
+837847,F,F,I,AFG,S,24.03.2019,,Sokol Cup 2019,Individual,2298.xml
+842367,F,M,I,AFG,S,23.03.2019,,Sokol Cup 2019,Individual,2299.xml
+20,F,F,L,MVSZ,S,18.09.2010,Noi-tor 2010-09-18,Felnott Noi tor,Individual,23.xml
+3,S,M,I,Contexte_general,S,11.03.2019,MEN SABRE EUROPE CUP,,Team,2300.xml
+446,E,M,,,M23,06.04.2019,,U23 European Circuit,Individual,2303.xml
+447,E,F,,,M23,07.04.2019,,U23 European Circuit,Individual,2307.xml
+u14fdim,F,F,I,FFE,M15,03.02.2019,Marathon fleuret U14 dames DIMANCHE,Challenge CEP - Marathon fleuret U14 dames DIMANCHE,Individual,2309.xml
+59,F,M,,AUT,C,12.11.2011,ECCFM2011,European Cadet Circuit Foil Men,Individual,231.xml
+9,,M,I,Contexte_general,,16.02.2019,MZ14,,Individual,2310.xml
+34,,M,I,Contexte_general,,16.02.2019,MM14,,Individual,2311.xml
+16,,M,I,Contexte_general,,17.02.2019,FZ 14,FZ 14,Individual,2312.xml
+11,,M,I,Contexte_general,,17.02.2019,FM14,FM14,Individual,2313.xml
+KGO19-FU14,E,F,I,HMS,M,30.03.2019,KGO19-FU14,KGO19-FU14,Individual,2315.xml
+KGO19-MU14,E,M,I,HMS,M,30.03.2019,KGO19-MU14,KGO19-MU14,Individual,2316.xml
+-5,E,F,I,EST,,19.01.2019,,"EFC U14 Circuit 2019, Boys and Girls Epee",Individual,2318.xml
+-51,E,M,I,EST,,19.01.2019,,"EFC U14 Circuit 2019, Boys and Girls Epee",Individual,2319.xml
+64,E,M,I,Contexte_general,B,10.03.2019,Choclate_epee_boys_14,,Individual,2323.xml
+16,E,F,I,Contexte_general,B,09.03.2019,epee_girls14,,Individual,2329.xml
+19,F,F,I,Contexte_general,B,09.03.2019,foil_girls14,,Individual,2330.xml
+23,F,M,I,Contexte_general,B,09.03.2019,foil_boys14,,Individual,2331.xml
+5117,E,F,N,RFEE,M,07.04.2019,EF14_BAR_7ABR2019,SJEF,Individual,2332.xml
+5116,E,M,N,RFEE,M,07.04.2019,EM14_BAR_7ABR2019,TNR M-14,Individual,2333.xml
+5118,F,M,N,RFEE,M,07.04.2019,FM14_BAR_7ABR2019,TNR M-14,Individual,2334.xml
+5119,F,F,N,RFEE,M,07.04.2019,FF14_BAR_7ABR2019,TNR M-14,Individual,2335.xml
+5121,S,F,N,RFEE,M,07.04.2019,SF14_BAR_7ABR2019,TNR M-14,Individual,2336.xml
+5120,S,M,N,RFEE,M,07.04.2019,SM14_BAR_7ABR2019,TNR M-14,Individual,2337.xml
+547,E,F,I,HUN,B,27.04.2019,EFS-in,Felnõtt - U23 Nõi Párbajtõr Magyar Kupa,Individual,2339.xml
+58,F,F,,AUT,C,13.11.2011,ECCFF2011,European Cadet Circuit Foil Women,Individual,234.xml
+4673,E,M,I,HUN,S,27.04.2019,EMS-in,Felnõtt - U23 Férfi Párbajtõr Magyar Kupa,Individual,2341.xml
+48,E,M,N,Contexte_general,S,27.04.2019,PPS4 PEU23,,Individual,2346.xml
+62,S,F,,BUL,C,13.11.2011,SFC-in,European Cadet Circuit,Individual,235.xml
+1831,S,M,I,AFG,,23.04.2019,,International Child Cup 2019,Individual,2354.xml
+1834,E,F,I,AFG,,27.04.2019,,International Child Cup 2019,Individual,2356.xml
+8,E,F,I,Contexte_general,S,29.04.2019,Womens U23 Gaja-Dvikova Cup 2019,,Individual,2358.xml
+43,E,M,I,Contexte_general,S,29.04.2019,Men U23 Gaja-Dvikova Cup 2019,,Individual,2359.xml
+63,S,M,,BUL,C,12.11.2011,SMC-in,European Cadet Circuit,Individual,236.xml
+75,E,F,I,Contexte_general,B,30.04.2019,Girls U14 Gaja-Dvikova Cup 2019,,Individual,2360.xml
+632,E,M,I,Contexte_general,,01.05.2019,Boys U14,,Individual,2361.xml
+1833,E,M,I,AFG,,26.04.2019,,International Child Cup 2019,Individual,2363.xml
+1830,F,F,I,AFG,,21.04.2019,,International Child Cup 2019,Individual,2364.xml
+1829,F,M,I,AFG,,20.04.2019,,International Child Cup 2019,Individual,2365.xml
+1832,S,F,I,AFG,,24.04.2019,,International Child Cup 2019,Individual,2366.xml
+1831,S,M,I,AFG,,23.04.2019,,International Child Cup 2019,Individual,2367.xml
+535,S,F,I,AUT,B,23.02.2019,U23 EC Vienna 2019 WS,U23 European Circuit,Individual,2368.xml
+534,S,M,I,AUT,U23,23.02.2019,U23 EC Vienna 2019 MS,U23 European Circuit,Individual,2369.xml
+1741,E,M,I,AFG,,28.04.2019,,International Child Cup 2019,Team,2372.xml
+1842,S,F,I,TUR,,12.05.2019,,EFC U14 Circuit &amp;U12 UluslararasÄ± AÃ§Ä±k KÄ±lÄ±Ã§ TurnuvasÄ±,Individual,2373.xml
+114,E,F,I,BUL,U,29.05.2019,,U23 European Championship,Individual,2375.xml
+119,S,M,I,BUL,U,29.05.2019,,U23 European Championship,Individual,2376.xml
+115,E,M,I,BUL,U,30.05.2019,,U23 European Championship,Individual,2377.xml
+116,F,F,I,BUL,U,30.05.2019,,U23 European Championship,Individual,2378.xml
+117,F,M,I,BUL,U,31.05.2019,,U23 European Championship,Individual,2379.xml
+46,F,F,,GER,C,26.11.2011,spc2011,Pokal der Sparkasse Tauberfranken 2011,Individual,238.xml
+118,S,F,I,BUL,U,31.05.2019,,U23 European Championship,Individual,2380.xml
+486,S,M,I,BUL,U,01.06.2019,,U23 European Championship,Team,2381.xml
+489,F,F,I,BUL,U,01.06.2019,,U23 European Championship,Team,2383.xml
+489,F,F,I,BUL,U,01.06.2019,,U23 European Championship,Team,2384.xml
+484,E,M,I,BUL,U,02.06.2019,,U23 European Championship,Team,2385.xml
+490,S,F,I,BUL,U,02.06.2019,,U23 European Championship,Team,2386.xml
+485,F,M,I,BUL,U,02.06.2019,,U23 European Championship,Team,2387.xml
+2144,F,M,I,,CN,26.11.2011,European Cadet Circuit A-Jugend Florett mannlich Halle,,Individual,239.xml
+741,F,M,I,GER,S,17.06.2019,European Championships,,Individual,2390.xml
+742,S,F,I,GER,S,17.06.2019,European Championships,,Individual,2391.xml
+739,E,M,I,GER,S,18.06.2019,European Championships,,Individual,2392.xml
+743,S,M,I,GER,S,19.06.2019,European Championships,,Individual,2394.xml
+740,F,F,I,GER,S,18.06.2019,European Championships,,Individual,2395.xml
+738,E,F,I,GER,S,19.06.2019,European Championships,,Individual,2396.xml
+747,F,M,E,GER,S,20.06.2019,European Championships,,Team,2397.xml
+746,F,F,E,GER,S,21.06.2019,European Championships,,Team,2399.xml
+25,E,M,,TUR,C,18.09.2010,European Cadet Circuit,European Cadet Circuit,Individual,24.xml
+34,E,M,,GER,C,12.11.2011,European Cadet Circuit EMC,European Cadet Circuit EMC,Individual,240.xml
+745,E,M,E,GER,S,21.06.2019,European Championships,,Team,2400.xml
+744,E,F,E,GER,S,22.06.2019,European Championships,,Team,2401.xml
+749,S,M,E,GER,S,22.06.2019,European Championships,,Team,2402.xml
+748,S,F,E,GER,S,20.06.2019,European Championships,,Team,2403.xml
+1218,F,F,I,SVK,S,14.09.2019,,Memorial de Martinengo 2019 Women Foil,Individual,2404.xml
+391,F,M,I,SVK,S,14.09.2019,,Memorial de Martinengo 2019,Individual,2405.xml
+655,E,F,I,SVK,S,15.09.2019,,Memorial de Martinengo 2019,Individual,2406.xml
+17,S,F,I,POL,C,15.09.2019,,XII EUROPEAN CADET CIRCUT,Individual,2407.xml
+18,S,M,I,POL,C,14.09.2019,,XII EUROPEAN CADET CIRCUT,Individual,2408.xml
+171,E,M,I,SWE,S,21.09.2019,safpok19,SAF Pokalen 2019,Individual,2409.xml
+339,E,M,I,FFE,C,26.11.2011,111126_CE_EHC,5eme Coupe Europeenne Epee Homme Cadet,Individual,241.xml
+175,E,F,I,SWE,S,22.09.2019,reh19,Rehbinderska Priset 2019,Individual,2410.xml
+419,F,F,I,ROU,S,23.09.2019,,Coupe D'Europe Women Foil Team,Team,2411.xml
+13,F,F,I,GBR,C,28.09.2019,ffc-in,Women's foil,Individual,2412.xml
+14,F,M,I,GBR,C,28.09.2019,fmc-in,Men's foil,Individual,2413.xml
+611,F,M,I,FRA,R,28.09.2019,FHU23 Circuit,FHU23 Circuit,Individual,2415.xml
+612,F,F,I,FRA,U23,28.09.2019,FDU23 Circuit,U23 Circuit,Individual,2416.xml
+41,S,M,I,HUN,C,05.10.2019,Cadet Circuit,Cadet Circuit,Individual,2417.xml
+42,S,F,I,HUN,C,05.10.2019,Cadet Circuit,Cadet Circuit,Team,2418.xml
+1280,F,M,I,DEN,S,05.10.2019,Trekanten International,,Individual,2419.xml
+54,E,F,,FRA,C,26.11.2011,EFC-ind,European Cadet Circuit,Individual,242.xml
+40,S,F,I,HUN,C,05.10.2019,Cadet Circuit,Cadet Circuit,Individual,2420.xml
+43,S,M,I,HUN,C,05.10.2019,Cadet Circuit,Cadet Circuit,Team,2421.xml
+709,E,F,I,HUN,C,05.10.2019,EFC-in,Cadet Circuit,Individual,2422.xml
+27,E,M,I,HUN,C,05.10.2019,EMC-inua,Cadet Circuit,Individual,2423.xml
+710,E,F,I,HUN,C,05.10.2019,EFC-eq,Cadet Circuit,Team,2424.xml
+604,E,M,I,HUN,C,05.10.2019,EMC-equa,Cadet Circuit,Team,2425.xml
+1356,F,F,I,DEN,S,06.10.2019,Trekanten International,,Individual,2426.xml
+36,F,F,I,SVK,C,12.10.2019,,Coupe de Samaria 2019,Individual,2427.xml
+37,F,F,I,SVK,C,12.10.2019,,Coupe de Samaria 2019,Team,2428.xml
+620,E,M,I,SRB,C,19.10.2019,,Belgrade Open European Cadet Circuit,Individual,2429.xml
+21,E,F,I,SRB,C,19.10.2019,,Belgrade Open European Cadet Circuit,Individual,2430.xml
+66,S,F,I,RUS,C,19.10.2019,Cadet Circuit,Cadet Circuit,Individual,2431.xml
+67,S,M,I,RUS,C,19.10.2019,Cadet Circuit,Cadet Circuit,Individual,2432.xml
+22,E,F,I,SRB,C,20.10.2019,,Belgrade Open European Cadet Circuit,Team,2436.xml
+48,F,M,I,GRE,C,19.10.2019,Helexpo Cup,,Individual,2439.xml
+49,F,M,I,GRE,C,20.10.2019,Helexpo Cup,,Team,2440.xml
+68,S,F,I,RUS,C,19.10.2019,Cadet Circuit2255-2019,Cadet Circuit,Team,2441.xml
+69,S,M,I,RUS,C,19.10.2019,Cadet Circuit 2256-2019,Cadet Circuit,Team,2442.xml
+621,E,M,I,SRB,C,20.10.2019,,Belgrade Open European Cadet Circuit,Team,2443.xml
+91,S,M,I,GBR,C,26.10.2019,CMS,Cadet Men's Sabre,Individual,2444.xml
+90,S,F,I,GBR,C,26.10.2019,CWS,Cadet Women's Sabre,Individual,2445.xml
+495,E,F,I,AUT,C,26.10.2019,Trofeo Maestro Dario Codarin,,Individual,2446.xml
+494,E,M,I,AUT,C,26.10.2019,Trofeo Maestro Dario Codarin,,Individual,2449.xml
+507,E,M,,AUT,S,10.12.2011,NOEU23HD2011,NOE Meisterschaften U23 European Circuit HD,Individual,245.xml
+93,S,M,I,GBR,C,27.10.2019,MTS,Men's Team Sabre,Team,2450.xml
+92,S,F,I,GBR,C,27.10.2019,WTS,Women's Team Sabre,Team,2451.xml
+718,S,F,I,GBR,U23,27.10.2019,SWS,Senior Women's Sabre,Individual,2452.xml
+717,S,M,I,GBR,U23,27.10.2019,SMS,Senior Men's Sabre,Individual,2453.xml
+537,E,F,I,AUT,C,27.10.2019,Trofeo Maestro Dario Codarin,,Team,2454.xml
+536,E,M,I,AUT,C,27.10.2019,Trofeo Maestro Dario Codarin,,Team,2456.xml
+609,F,M,I,ESP,U23,27.10.2019,U23 Circuit,U23 Circuit - Sabadell International Open - Men's Foil,Individual,2457.xml
+610,F,F,I,ESP,B,27.10.2019,U23 Circuit,U23 Circuit - Sabadell International Open - Women's Foil,Individual,2458.xml
+498,E,M,I,FRA,U23,02.11.2019,U23 EH,U23 Colmar EH,Individual,2459.xml
+501,E,F,I,FRA,U23,02.11.2019,U23 ED,U23 Circuit ED,Individual,2460.xml
+445,F,M,I,GBR,U23,03.11.2019,SMF,U23 Circuit,Individual,2461.xml
+639,F,F,I,GBR,N,03.11.2019,SWF,U23 Circuit,Individual,2462.xml
+627,S,M,I,TUR,C,09.11.2019,,Cadet Sabre Circuit Ä°stanbul,Individual,2463.xml
+630,S,F,I,TUR,C,09.11.2019,,Cadet Sabre Circuit Ä°stanbul,Team,2464.xml
+442,S,M,I,GER,S,09.11.2019,GrÃ¼nwalder Wappen,,Individual,2465.xml
+711,F,M,I,HUN,C,09.11.2019,Cadet Circuit men's folil individuel,Cadet Circuit men's foil individuel,Individual,2468.xml
+714,F,F,I,HUN,C,09.11.2019,Cadet Circuit_women's_foil_team,Cadet Circuit Women's Foil Team,Team,2469.xml
+591,E,M,I,LUX,C,09.11.2019,,Luxembourg Cadet Circuit,Individual,2470.xml
+597,E,F,I,LUX,C,09.11.2019,,Luxembourg Cadet Circuit,Team,2471.xml
+628,S,F,I,TUR,C,10.11.2019,,Cadet Sabre Circuit Ä°stanbul,Individual,2472.xml
+629,S,M,I,TUR,C,10.11.2019,,Cadet Sabre Circuit Ä°stanbul,Team,2473.xml
+443,S,F,I,GER,S,10.11.2019,GrÃ¼nwalder Wappen,,Individual,2475.xml
+713,F,M,I,HUN,C,09.11.2019,2019_MFT_ECC,Cadet Circuit Men's Foil Team,Team,2476.xml
+592,E,F,I,LUX,C,10.11.2019,,Luxembourg Cadet Circuit,Individual,2477.xml
+712,F,F,I,HUN,C,09.11.2019,2019_WFI_ECC,Cadet Circuit Women's Foil Individual,Individual,2478.xml
+596,E,M,I,LUX,C,10.11.2019,,Luxembourg Cadet Circuit,Team,2479.xml
+508,E,F,,AUT,S,11.12.2011,NOEMU23DD2011,NO Meisterschaften U23 European Circuit DD,Individual,248.xml
+588,E,M,I,FRA,C,16.11.2019,Cadet Circuit Men Ind,Cadet Circuit Men Ind.,Individual,2481.xml
+64,S,F,I,BUL,C,16.11.2019,Cadet Circuit,Cadet Circuit,Team,2482.xml
+54,E,F,I,FRA,C,16.11.2019,Cadet Circuit Women Ind,Cadet Circuit,Individual,2483.xml
+505,F,F,I,POL,U,16.11.2019,,Puchar Europy u 23 i Turniej seniorow âO Puchar JM Rektora Uniwersytetu Gdanskiegoâ,Individual,2484.xml
+504,F,M,I,POL,U,16.11.2019,,Puchar Europy u 23 i Turniej seniorow âO Puchar JM Rektora Uniwersytetu Gdanskiegoâ,Individual,2485.xml
+55,E,F,I,FRA,C,16.11.2019,Cadet Circuit Women team,Cadet Circuit,Team,2486.xml
+595,E,M,I,FRA,C,16.11.2019,Cadet Circuit Men team,Cadet Circuit,Team,2487.xml
+65,S,M,I,BUL,C,16.11.2019,Cadet Circuit,Cadet Circuit,Team,2489.xml
+77,S,M,Z,GER,C,10.12.2011,European Cadet Circuit,European Cadet Circuit,Individual,249.xml
+63,S,M,I,BUL,C,16.11.2019,Cadet Circuit,Cadet Circuit,Individual,2490.xml
+62,S,F,I,BUL,C,17.11.2019,Cadet Circuit,Cadet Circuit,Individual,2491.xml
+-1,S,F,I,ROU,U,27.10.2019,,RIPOSTA CUP Editia a XI-a,Individual,2498.xml
+-1,S,M,I,ROU,U,26.10.2019,,RIPOSTA CUP Editia a XI-a,Individual,2499.xml
+76,S,F,Z,GER,C,10.12.2011,European Cadet Circuit,European Cadet Circuit,Individual,250.xml
+-1,E,M,I,CZE,U,05.10.2019,,Babylon Cup 2019,Individual,2500.xml
+599,S,F,I,ROU,C,23.11.2019,,RIPOSTA CUP U17 SABRE,Team,2501.xml
+589,S,M,I,ROU,C,23.11.2019,,RIPOSTA CUP U17 SABRE,Individual,2502.xml
+538,F,M,I,AFG,C,23.11.2019,,European Cadet Circuit Foil Moedling,Individual,2503.xml
+584,F,F,I,AUT,C,23.11.2019,,European Cadet Circuit Foil Moedling,Team,2504.xml
+EFC,E,F,I,EFC,M,23.11.2019,05 Kup na Eskrim 2019 U14 Female EFC,Eskrim 2019 U14 Female EFC,Individual,2507.xml
+EFC,E,M,I,EFC,M,23.11.2019,05 Kup na Eskrim 2019 U14 Male EFC,Eskrim 2019 U14 Male EFC,Individual,2508.xml
+598,S,M,I,ROU,C,24.11.2019,,RIPOSTA CUP U17 SABRE,Team,2509.xml
+590,S,F,I,ROU,C,24.11.2019,,RIPOSTA CUP U17 SABRE,Individual,2510.xml
+539,F,F,I,AUT,C,24.11.2019,,European Cadet Circuit Foil Moedling,Individual,2511.xml
+583,F,M,I,AUT,C,24.11.2019,,European Cadet Circuit Foil Moedling,Team,2512.xml
+-1,E,F,I,CZE,U,06.10.2019,,Babylon Cup 2019,Individual,2519.xml
+494,E,M,,AUT,C,10.12.2011,EMC-in,European Cadets Circuit EMC,Individual,252.xml
+-1,F,M,I,CZE,U,06.10.2019,,Babylon Cup 2019,Individual,2523.xml
+-1,F,F,I,CZE,U,05.10.2019,,Babylon Cup 2019,Individual,2525.xml
+507,E,M,I,AUT,U,30.11.2019,,Internationale NÃ Meisterschaften U23,Individual,2528.xml
+532,F,F,I,AUT,U,30.11.2019,,Internationale NÃ Meisterschaften U23,Individual,2529.xml
+495,E,F,,AUT,C,10.12.2011,EFC-in,European Cadets Circuit EFC,Individual,253.xml
+79,S,M,I,GER,C,30.11.2019,Wiekhorst Cup &amp; Allstar - Cup,,Team,2530.xml
+76,S,F,I,GER,C,30.11.2019,Wiekhorst Cup &amp; Allstar - Cup,,Individual,2531.xml
+73,F,M,I,FRA,C,30.11.2019,17ème Coupe Mondiale Cabriès - Hommes,17ème Coupe Mondiale Cabriès - Hommes,Individual,2532.xml
+72,F,F,I,FRA,C,30.11.2019,17ème Coupe Mondiale Cabriès - Dames,17ème Coupe Mondiale Cabriès - Dames,Individual,2533.xml
+522,E,F,I,DEN,C,30.11.2019,CWE,Cadet Women's Epee,Individual,2534.xml
+521,E,M,I,DEN,C,30.11.2019,CME,Cadet Men's Epee,Individual,2535.xml
+531,F,M,I,AUT,U,01.12.2019,,Internationale NÃ Meisterschaften U23,Individual,2536.xml
+77,S,M,I,GER,C,01.12.2019,Wiekhorst Cup &amp; Allstar - Cup,,Individual,2537.xml
+508,E,F,I,AUT,U,01.12.2019,,Internationale NÃ Meisterschaften U23,Individual,2538.xml
+74,F,F,I,FRA,C,01.12.2019,17ème Coupe Mondiale Cabriès - Dames Equipes,17ème Coupe Mondiale Cabriès - Dames Equipes,Team,2539.xml
+72,F,F,,FRA,C,10.12.2011,9CM_FDC,European Cadet Circuit,Individual,254.xml
+75,F,M,I,FRA,C,01.12.2019,17ème Coupe Mondiale Cabriès - Hommes Equipes,17ème Coupe Mondiale Cabriès - Hommes,Team,2540.xml
+556,E,F,I,DEN,C,01.12.2019,WTE,Cadet Circuit,Team,2541.xml
+555,E,M,I,DEN,C,01.12.2019,MTE,Men's Cadet Team Epee,Team,2542.xml
+78,S,F,I,GER,C,01.12.2019,Wiekhorst Cup &amp; Allstar - Cup,,Team,2543.xml
+503,S,F,M,AFG,U,30.11.2019,,Puchar Europy do lkat 23   Turniej BarbÃ³rkowy o SzablÄ Gen.Jerzego ZiÄtka w szabli kobiet i mÄÅ¼czyzn  II Puchar Polski SeniorÃ³w,Individual,2544.xml
+502,S,M,M,AFG,U,30.11.2019,,Puchar Europy do lkat 23   Turniej BarbÃ³rkowy o SzablÄ Gen.Jerzego ZiÄtka w szabli kobiet i mÄÅ¼czyzn  II Puchar Polski SeniorÃ³w,Individual,2545.xml
+565,F,M,I,GER,S,07.12.2019,Esslinger Burg-Cup,,Individual,2546.xml
+34,E,M,Z,GER,C,07.12.2019,Tank und Rast Pokal,,Individual,2547.xml
+32,E,F,I,GER,C,07.12.2019,Kneipp Cup,,Individual,2548.xml
+33,E,F,I,GER,C,08.12.2019,Kneipp Cup,,Team,2549.xml
+73,F,M,,FRA,C,10.12.2011,9CM_FHC,European Cadet Circuit,Individual,255.xml
+35,E,M,Z,GER,C,08.12.2019,Tank und Rast Pokal,,Team,2550.xml
+540,S,M,I,AUT,C,14.12.2019,,ECC Sabre Moedling 2019,Individual,2551.xml
+38,F,M,I,GER,C,14.12.2019,International HÃ¤ndel-Cup,,Individual,2552.xml
+46,F,F,I,GER,C,14.12.2019,Goldenes Florett,,Individual,2553.xml
+541,S,F,I,AUT,C,15.12.2019,,ECC Sabre Moedling 2019,Individual,2554.xml
+47,F,F,I,GER,C,15.12.2019,Goldenes Florett,,Team,2555.xml
+39,F,M,I,GER,C,15.12.2019,International HÃÂ¤ndel-Cup,,Team,2561.xml
+94,E,F,I,SVK,C,10.01.2020,,Coupe du Danube 2020,Individual,2562.xml
+97,E,M,I,SVK,C,10.01.2020,,Coupe du Danube 2020,Team,2563.xml
+51,S,M,I,FRA,C,11.01.2020,Eurosabre 2020 H,Eurosabre 2020 Hommes,Individual,2564.xml
+491,F,M,I,SVK,C,11.01.2020,,Coupe du Danube 2020,Individual,2565.xml
+96,E,F,I,SVK,C,11.01.2020,,Coupe du Danube 2020,Team,2566.xml
+50,S,F,I,FRA,C,11.01.2020,Eurosabre 2020 sd,Eurosabre 2020 sd,Individual,2567.xml
+3219,E,M,Z,GER,S,12.01.2020,E M T Senior,EpÃ©e Hommes Team Senior,Team,2568.xml
+496,F,F,I,POL,C,11.01.2020,,AMU CADET WOMEN'S FOIL CUP 2020,Individual,2569.xml
+442,S,M,Z,GER,S,17.12.2011,U23 European Circuit,U23 European Circuit,Individual,257.xml
+514,F,F,I,POL,C,12.01.2020,,AMU CADET WOMEN'S FOIL CUP 2020,Team,2570.xml
+95,E,M,I,SVK,C,12.01.2020,,Coupe du Danube 2020,Individual,2571.xml
+548,F,M,I,SVK,C,12.01.2020,,Coupe du Danube 2020,Team,2572.xml
+70,E,F,I,FIN,C,25.01.2020,,Espoo Fencing Challenge,Individual,2573.xml
+71,E,M,I,FIN,C,25.01.2020,,Espoo Fencing Challenge,Individual,2574.xml
+457,S,F,I,HUN,U23,25.01.2020,U23 Circuit,Women's sabre individual (EFC U23 - MK3),Individual,2575.xml
+456,S,M,I,HUN,B,25.01.2020,U23 Circuit,Men's sabre individual (EFC U23 - MK3),Individual,2576.xml
+558,E,F,I,FIN,C,26.01.2020,,Espoo Fencing Challenge,Team,2577.xml
+10618,E,F,I,FIN,S,26.01.2020,,Espoo Fencing Challenge,Individual,2582.xml
+557,E,M,I,FIN,C,26.01.2020,,Espoo Fencing Challenge,Team,2586.xml
+543,F,F,I,ITA,C,25.01.2020,Cadet Circuit Roma 2020 FF,Cadet Circuit Roma 2020 FF,Individual,2587.xml
+542,F,M,I,ITA,C,25.01.2020,Cadet Circuit Roma 2020 FM,Cadet Circuit Roma 2020 FM,Individual,2588.xml
+510,E,F,I,ITA,B,25.01.2020,U23 Circuit,U23 Circuit,Individual,2589.xml
+509,E,M,I,ITA,B,25.01.2020,U23 Circuit,U23 Circuit,Individual,2590.xml
+98,F,F,I,ROU,C,08.02.2020,,SATU MARE CUP 2020,Individual,2591.xml
+100,F,M,I,AFG,C,08.02.2020,,XIII Witold Woyda's Foil &amp; XI Golden Team Cup Tournament,Individual,2593.xml
+585,E,M,I,POL,C,08.02.2020,,"European Cadet Circuit, Wawel Dragon Trophy",Individual,2594.xml
+99,F,F,I,ROU,C,09.02.2020,,SATU MARE CUP 2020,Team,2595.xml
+101,F,M,I,AFG,C,09.02.2020,,XIII Witold Woyda's Foil &amp; XI Golden Team Cup Tournament,Team,2599.xml
+3,E,M,I,tef,C,19.09.2010,European Cadet Caircuit Team 1,European Cadet Caircuit Team,Team,26.xml
+586,E,F,I,POL,C,09.02.2020,,"European Cadet Circuit, Wawel Dragon Trophy",Individual,2600.xml
+2,F,M,I,Contexte_general,S,10.02.2020,MENS FOIL EUROPE CUP,Men Foil Europe Cup 2020,Team,2601.xml
+439,F,F,I,ITA,U23,15.02.2020,U23 Circuit - FF,U23 Circuit - FF,Individual,2603.xml
+438,F,M,I,ITA,C,15.02.2020,Roma - U23 Circuit - FM,Roma - U23 Circuit - FM,Individual,2604.xml
+519,S,F,I,ITA,U23,15.02.2020,Roma U23 Circuit - ScF,U23 Circuit - ScF,Individual,2605.xml
+518,S,M,I,ITA,U23,15.02.2020,U23 Circuit - ScM,U23 Circuit - ScM,Individual,2606.xml
+133,E,M,I,CRO,C,22.02.2020,,European Cadet Championships,Individual,2608.xml
+136,S,F,I,CRO,C,22.02.2020,,European Cadet Championships,Individual,2609.xml
+443,S,F,Z,GER,S,17.12.2011,U23 European Circuit,U23 European Circuit,Individual,261.xml
+135,F,M,I,CRO,C,23.02.2020,,European Cadet Championships,Individual,2610.xml
+132,E,F,I,CRO,C,23.02.2020,,European Cadet Championships,Individual,2612.xml
+134,F,F,I,CRO,C,24.02.2020,,European Cadet Championships,Individual,2614.xml
+137,S,M,I,CRO,C,24.02.2020,,European Cadet Championships,Individual,2615.xml
+139,E,M,I,CRO,C,25.02.2020,,European Cadet Championships,Team,2616.xml
+141,F,M,I,CRO,C,25.02.2020,,European Cadet Championships,Team,2617.xml
+142,S,F,I,CRO,C,25.02.2020,,European Cadet Championships,Team,2618.xml
+444,E,F,I,GER,U23,22.02.2020,U23 Circuit Mannheim,35 Cup of the Quadratestadt Mannheim,Individual,2619.xml
+496,F,F,,POL,C,14.01.2012,European Cadet Circuit,European Cadet Circuit,Individual,262.xml
+138,E,F,I,CRO,C,26.02.2020,,European Cadet Championships,Team,2620.xml
+140,F,F,I,CRO,C,26.02.2020,,European Cadet Championships,Team,2621.xml
+143,S,M,I,CRO,C,26.02.2020,,European Cadet Championships,Team,2622.xml
+534,S,M,I,AUT,U23,22.02.2020,neuU23 Vienna MS 2020,U23 Circuit,Individual,2625.xml
+535,S,F,I,AUT,,22.02.2020,neuU23 CircuitViennaDS,U23 Circuit,Individual,2626.xml
+1077,E,F,I,ESP,S,24.04.2021,EPEE_W,European Olympic Qualification - EF,Individual,2645.xml
+1080,F,M,I,ESP,S,24.04.2021,FOIL_M,European Olympic Qualification - FM,Individual,2646.xml
+1082,S,M,I,ESP,S,24.04.2021,SABRE_M,European Olympic Qualification - SM,Individual,2647.xml
+1078,E,M,I,ESP,S,25.04.2021,EPEE_M,European Olympic Qualification - EM,Individual,2648.xml
+1079,F,F,I,ESP,S,25.04.2021,FOIL_W,European Olympic Qualification - FF,Individual,2649.xml
+1081,S,F,I,ESP,S,25.04.2021,SABRE_W,European Olympic Qualification - SF,Individual,2650.xml
+7,E,F,I,,S,26.06.2021,Europe Fencing Cup 2021,Europe Fencing Cup 2021,Team,2651.xml
+41,S,M,I,HUN,C,02.10.2021,EFC_SMI,XXII. HUNIBER CUP - Cadet Men Sabre,Individual,2652.xml
+27,E,M,I,HUN,C,02.10.2021,emc-in,Cadet Epée Men Individual,Individual,2653.xml
+36,F,F,I,SVK,C,02.10.2021,,Coupe de Samaria 2021,Individual,2654.xml
+710,E,F,I,HUN,C,02.10.2021,npbt-team,Women Epee Team,Team,2655.xml
+42,S,F,I,HUN,C,02.10.2021,cws-eq,ECC &quot;XXII. HUNIBER - CUP&quot; Sabre Women Team Competition -,Team,2658.xml
+40,S,F,I,HUN,C,03.10.2021,EFC_SWI,XXII. HUNIBER CUP - Cadet Women Sabre,Individual,2659.xml
+709,E,F,I,HUN,C,03.10.2021,efc-in,Cadet Epée Women Individual,Individual,2660.xml
+37,F,F,I,SVK,C,03.10.2021,,Coupe de Samaria 2021,Team,2661.xml
+604,E,M,I,HUN,C,03.10.2021,fpbt-team,Cadet Epée Men Team,Team,2663.xml
+43,S,M,I,HUN,C,03.10.2021,cms-eq,ECC &quot;XXII. HUNIBER -CUP&quot; Sabre Men Team Competition,Team,2664.xml
+620,E,M,I,SRB,C,23.10.2021,,European Cadet Circuit Belgrade 2021,Individual,2665.xml
+21,E,F,I,SRB,C,23.10.2021,,European Cadet Circuit Belgrade 2021,Individual,2668.xml
+22,E,F,I,SRB,C,24.10.2021,,European Cadet Circuit Belgrade 2021,Team,2670.xml
+621,E,M,I,SRB,C,24.10.2021,,European Cadet Circuit Belgrade 2021,Team,2671.xml
+46,F,F,I,GER,C,30.10.2021,Cadet Circuit,Cadet Circuit,Individual,2673.xml
+38,F,M,I,GER,C,30.10.2021,Cadet Circuit,,Individual,2674.xml
+32,E,F,I,GER,C,30.10.2021,E F I U17,Epee Dames Individuel U17,Individual,2675.xml
+498,E,M,I,FRA,N,30.10.2021,U23 European Circuit EH,U23 European Circuit EH,Individual,2676.xml
+501,E,F,I,FRA,N,30.10.2021,U23 European Circuit ED,U23 European Circuit ED,Individual,2677.xml
+803,E,M,I,GER,C,31.10.2021,E M I U17,Epee Hommes Individuel U17,Individual,2682.xml
+47,F,F,I,GER,C,31.10.2021,Cadet Circuit,Cadet Circuit Team,Team,2687.xml
+39,F,M,I,GER,C,31.10.2021,Cadet Circuit,,Team,2688.xml
+T21H1131,C,F,R,Nordbadischer Fechterverband e.V.,,07.11.2021,DDe Akt,Rhein-Neckar-Open Damendegen Aktive,Individual,2697.xml
+5977,E,M,N,HUN,S,06.11.2021,fpbt-in,"Mens Epée 06 November, 2021",Individual,2698.xml
+27,E,M,,HUN,C,01.10.2010,EMC-in,European Cadet Circuit,Individual,27.xml
+5978,E,F,N,HUN,S,07.11.2021,npbt-in,"Womens Epée 07 November, 2021",Individual,2700.xml
+33,E,F,I,GER,C,31.10.2021,E F T U17,Epee Dames Team U17,Team,2701.xml
+811,E,M,I,GER,C,30.10.2021,E M T U17,Epee Men&#039;s Team U17,Team,2703.xml
+711,F,M,I,HUN,C,13.11.2021,Cadets Circuit Men&apos;s Foil,ECC Cadet Men&apos;s Foil Individual Competition in Budapest,Individual,2704.xml
+627,S,M,I,TUR,C,13.11.2021,,YÄ±ldÄ±zlar KÄ±lÄ±Ã§ Circuit TurnuvasÄ±,Individual,2708.xml
+628,S,F,I,TUR,C,14.11.2021,,YÄ±ldÄ±zlar KÄ±lÄ±Ã§ Circuit TurnuvasÄ±,Individual,2709.xml
+629,S,M,I,TUR,C,14.11.2021,,YÄ±ldÄ±zlar KÄ±lÄ±Ã§ Circuit TurnuvasÄ±,Team,2713.xml
+630,S,F,I,TUR,C,13.11.2021,,YÄ±ldÄ±zlar KÄ±lÄ±Ã§ Circuit TurnuvasÄ±,Team,2715.xml
+416,S,F,I,FRA,S,14.11.2021,OrleansEuropeDames,Coupe Europe Sabre Dames Senior Orléans,Team,2716.xml
+712,F,F,I,HUN,C,14.11.2021,cwf-in,ECC Cadet Women&apos;s Foil Individual Competition in Budapest,Individual,2717.xml
+806,S,M,I,FRA,S,14.11.2021,OrleansEuropeHommes,Coupe Europe Sabre Hommes Senior Orléans,Team,2718.xml
+714,F,F,I,HUN,C,13.11.2021,EFC_WT_Hungexpo,International Cadet Competition - Women&apos;s Team,Team,2719.xml
+54,E,F,I,FRA,C,20.11.2021,Challenge Vaujany,Challenge Vaujany,Individual,2725.xml
+588,E,M,I,FRA,C,20.11.2021,Challenge Bertrand Dedieu,Challenge Bertrand Dedieu,Individual,2726.xml
+55,E,F,I,FRA,C,21.11.2021,Challenge dame equipe,Challenge dame equipes,Team,2728.xml
+595,E,M,I,FRA,C,21.11.2021,Challenge grenoble equipe homme,Challenge homme equipes,Team,2729.xml
+63,S,M,I,BUL,C,27.11.2021,Cadet Circuit,Etroplski&apos;s sabre 2021 cadets men,Individual,2730.xml
+442,S,M,I,GER,S,27.11.2021,S M I Senior,Sabre Hommes Individuel Senior,Individual,2732.xml
+443,S,F,I,GER,S,28.11.2021,S F I Senior,Sabre Dames Individuel Senior,Individual,2733.xml
+62,S,F,I,BUL,C,28.11.2021,Cadet Circuit,Etroplski&apos;s sabre 2021 cadets women,Individual,2734.xml
+64,S,F,I,BUL,C,27.11.2021,Cadet Circuit,Etroplski&apos;s sabre 2021 cadets women team,Team,2736.xml
+65,S,M,I,BUL,C,28.11.2021,Cadet Circuit,Etroplski&apos;s sabre 2021 cadets men team,Team,2737.xml
+713,F,M,I,HUN,C,14.11.2021,EFC_MT_Hungexpo,International Cadet Competition - Men&apos;s Team,Team,2738.xml
+9736,E,F,Z,DEN,C,04.12.2021,E F I U17,Epee Dames Individuel U17,Individual,2739.xml
+9735,E,M,Z,DEN,C,04.12.2021,E M I U17,Epee Hommes Individuel U17,Individual,2740.xml
+12774,E,F,Z,DEN,C,05.12.2021,E F T U17,Epee Dames Team U17,Team,2741.xml
+12775,E,M,Z,DEN,C,05.12.2021,E M T U17,Epee Hommes Team U17,Team,2742.xml
+73,F,M,I,FRA,C,11.12.2021,18ème Coupe Mondiale Cabriès,Fleuret Hommes M17 (Cadets),Individual,2743.xml
+72,F,F,I,FRA,C,12.12.2021,18ème Coupe Mondiale Cabriès,Fleuret Dames M17 (Cadettes),Individual,2744.xml
+-1,F,F,I,CRO,U,05.12.2021,,Zagreb Winter Classic 2021,Individual,2745.xml
+95,E,M,I,SVK,C,14.01.2022,,Coupe du Danube 2022,Individual,2746.xml
+94,E,F,I,SVK,C,15.01.2022,,Coupe du Danube 2022,Individual,2747.xml
+97,E,M,I,SVK,C,15.01.2022,,Coupe du Danube 2022,Team,2748.xml
+491,F,M,I,SVK,C,16.01.2022,,Coupe du Danube 2022,Individual,2749.xml
+96,E,F,I,SVK,C,16.01.2022,,Coupe du Danube 2022,Team,2750.xml
+50,S,F,I,FRA,C,16.01.2022,Cadet Circuit,Cadet Circuit SD,Individual,2751.xml
+51,S,M,I,FRA,C,15.01.2022,Cadet Circuit,cadet cicuit SH,Individual,2752.xml
+805,E,F,I,GRE,C,23.01.2022,E F I U17,Epee Dames Individuel U17,Individual,2753.xml
+48,E,M,I,GRE,C,22.01.2022,E M I U17,Epee Hommes Individuel U17,Individual,2755.xml
+599,S,F,I,ROU,C,29.01.2022,,RIPOSTA CUP 2022 women sabre team,Team,2756.xml
+589,S,M,I,ROU,C,29.01.2022,,RIPOSTA CUP 2022,Individual,2757.xml
+598,S,M,I,ROU,C,30.01.2022,,RIPOSTA CUP 2022,Team,2759.xml
+514,F,F,N,POL,C,15.01.2012,European Cadet Circuit,European Cadet Circuit,Team,276.xml
+590,S,F,I,ROU,C,30.01.2022,,RIPOSTA CUP 2022,Individual,2760.xml
+496,F,F,I,POL,C,05.02.2022,,WOMEN'S FOIL CADET CIRCUIT,Individual,2761.xml
+514,F,F,I,POL,C,05.02.2022,,WOMEN'S FOIL CADET CIRCUIT,Team,2762.xml
+98,F,F,I,ROU,C,12.02.2022,,SATU MARE CUP,Individual,2763.xml
+99,F,F,I,ROU,C,13.02.2022,,SATU MARE CUP,Team,2765.xml
+351,F,F,I,AFG,J,26.02.2022,,European Junior Championship,Individual,2767.xml
+354,S,M,I,AFG,J,26.02.2022,,European Junior Championship,Individual,2768.xml
+87,S,M,,ISL,C,14.01.2012,European Cadet Circuit MS,European Cadet Circuit,Individual,277.xml
+15,S,F,I,Féd. Française d&apos;Escrime,U23,27.02.2022,U23STRASBOURGSABREDAME,Strasbourg European Circuit U23 - Women,Individual,2771.xml
+34,S,M,I,Féd. Française d&apos;Escrime,U23,27.02.2022,U23 STRASBOURG SABRE HOMME,Strasbourg European Circuit U23 - Men,Individual,2772.xml
+349,E,F,I,AFG,J,27.02.2022,,European Junior Championship,Individual,2773.xml
+352,F,M,I,AFG,J,27.02.2022,,European Junior Championship,Individual,2774.xml
+350,E,M,I,AFG,J,28.02.2022,,European Junior Championship,Individual,2775.xml
+355,E,F,I,AFG,J,01.03.2022,,European Junior Championship,Team,2777.xml
+357,F,F,I,AFG,J,01.03.2022,,European Junior Championship,Team,2778.xml
+360,S,M,I,AFG,J,01.03.2022,,European Junior Championship,Team,2779.xml
+86,S,F,,ISL,C,14.01.2012,European Cadet Circuit WS,European Cadet Circuit,Individual,278.xml
+356,E,M,I,AFG,J,02.03.2022,,European Junior Championship,Team,2780.xml
+358,F,M,I,AFG,J,02.03.2022,,European Junior Championship,Team,2781.xml
+359,S,F,I,AFG,J,02.03.2022,,European Junior Championship,Team,2784.xml
+134,F,F,I,AFG,C,03.03.2022,,European Cadet Championship,Individual,2785.xml
+137,S,M,I,AFG,C,03.03.2022,,European Cadet Championship,Individual,2786.xml
+132,E,F,I,AFG,C,04.03.2022,,European Cadet Championship,Individual,2787.xml
+135,F,M,I,AFG,C,04.03.2022,,European Cadet Championship,Individual,2788.xml
+133,E,M,I,AFG,C,05.03.2022,,European Cadet Championship,Individual,2789.xml
+491,F,M,,SVK,C,14.01.2012,European Cadet Circuit FM,European Cadet Circuit FM,Individual,279.xml
+136,S,F,I,AFG,C,05.03.2022,,European Cadet Championship,Individual,2790.xml
+138,E,F,I,AFG,C,06.03.2022,,European Cadet Championship,Team,2791.xml
+140,F,F,I,AFG,C,06.03.2022,,European Cadet Championship,Team,2792.xml
+143,S,M,I,AFG,C,06.03.2022,,European Cadet Championship,Team,2793.xml
+139,E,M,I,AFG,C,07.03.2022,,European Cadet Championship,Team,2794.xml
+141,F,M,I,AFG,C,07.03.2022,,European Cadet Championship,Team,2795.xml
+142,S,F,I,AFG,C,07.03.2022,,European Cadet Championship,Team,2796.xml
+353,S,F,I,AFG,J,28.02.2022,,European Junior Championship,Individual,2797.xml
+6275,F,F,I,,S,19.03.2022,220319-FNT,MK Nõi Tõr - Women´s Foil individual,Individual,2798.xml
+29,F,M,,HUN,C,02.10.2010,FMC-in,European Cadet Circuit Men Foil,Individual,28.xml
+94,E,F,,SVK,C,14.01.2012,European Cadet Circuit EF,European Cadet Circuit EF,Individual,280.xml
+6276,F,M,I,,S,20.03.2022,220320-FFT,MK Férfi Tõr - Men´s Foil individual,Individual,2801.xml
+817,E,F,I,AFG,U,19.03.2022,,Blue epee cup - U23 Zagreb,Individual,2802.xml
+816,E,M,I,AFG,U,20.03.2022,,Blue epee cup - U23 Zagreb,Individual,2803.xml
+446,E,M,I,SUI,U,26.03.2022,,"International Lausanne Fencing Challenge, U23 Ã©pÃ©e",Individual,2804.xml
+447,E,F,I,SUI,U,27.03.2022,,"International Lausanne Fencing Challenge, U23 Ã©pÃ©e",Individual,2805.xml
+854618,F,F,I,CZE,S,27.03.2022,,Sokol Cup U23,Individual,2806.xml
+834449,F,M,I,CZE,S,26.03.2022,,Sokol Cup U23,Individual,2807.xml
+505,F,F,N,PZS,J,13.01.2012,ind_flk_S,floret kobiet indywidualnie kategoria senior,Individual,281.xml
+-1,E,F,I,CRO,U,02.04.2022,,Osijek Fencing Cup 2022.,Individual,2812.xml
+-1,E,M,I,CRO,U,02.04.2022,,Osijek Fencing Cup 2022.,Individual,2813.xml
+-1,E,F,I,CRO,U,12.03.2022,,24th Rapir cup,Individual,2815.xml
+-1,E,M,I,CRO,U,12.03.2022,,24th Rapir cup,Individual,2816.xml
+-1,F,F,I,CRO,U,13.03.2022,,24th Rapir cup,Individual,2817.xml
+-1,F,M,I,CRO,U,13.03.2022,,24th Rapir cup,Individual,2818.xml
+546,E,M,I,HUN,S,23.04.2022,fpbt-in,Mens Epée Competition,Individual,2819.xml
+504,F,M,N,PZS,J,13.01.2012,ind_flm_S,floret meczyzn indywidualnie kategoria senior,Individual,282.xml
+547,E,F,I,HUN,S,24.04.2022,npbt-in,Womens Epée Competition,Individual,2820.xml
+534,S,M,I,AUT,U23,24.04.2022,U23 European Circuit 2022 Vienna MS,U23 European Circuit,Individual,2822.xml
+535,S,F,I,AUT,U23,23.04.2022,U23 European Circuit,U23 European Circuit,Individual,2823.xml
+456,S,M,I,HUN,B,30.04.2022,U23 European Circuit Sabre,U23 European Circuit Sabre,Individual,2824.xml
+457,S,F,I,HUN,U23,01.05.2022,U23 European Circuit Sabre,Women´s Senior Sabre Individual (EFC U23),Individual,2825.xml
+815,S,M,I,SLO,U23,14.05.2022,U23 European Circuit Men&apos;s Sabre,U23 European Circuit Men&apos;s Sabre,Individual,2826.xml
+814,E,M,I,SLO,,15.05.2022,U23 European Circuit Men&apos;s Epee,U23 European Circuit Men&apos;s Epee,Individual,2827.xml
+421,E,M,Z,GER,S,15.05.2022,Coupe d&#039;Europe,,Team,2828.xml
+116,F,F,I,EST,U,27.05.2022,,European U23 Fencing Championships,Individual,2829.xml
+119,S,M,I,EST,U,27.05.2022,,European U23 Fencing Championships,Individual,2830.xml
+114,E,F,I,EST,U,28.05.2022,,European U23 Fencing Championships,Individual,2831.xml
+117,F,M,I,EST,U,28.05.2022,,European U23 Fencing Championships,Individual,2832.xml
+115,E,M,I,EST,U,29.05.2022,,European U23 Fencing Championships,Individual,2833.xml
+118,S,F,I,EST,U,29.05.2022,,European U23 Fencing Championships,Individual,2834.xml
+488,E,F,I,EST,U,30.05.2022,,European U23 Fencing Championships,Team,2835.xml
+489,F,F,I,EST,U,30.05.2022,,European U23 Fencing Championships,Team,2836.xml
+486,S,M,I,EST,U,30.05.2022,,European U23 Fencing Championships,Team,2837.xml
+484,E,M,I,EST,U,31.05.2022,,European U23 Fencing Championships,Team,2838.xml
+485,F,M,I,ERI,U,31.05.2022,,European U23 Fencing Championships,Team,2839.xml
+490,S,F,I,EST,U,31.05.2022,,European U23 Fencing Championships,Team,2840.xml
+740,F,F,I,TUR,S,17.06.2022,,Senior European Championship Antalya,Individual,2841.xml
+743,S,M,I,TUR,S,17.06.2022,,Senior European Championship Antalya,Individual,2842.xml
+738,E,F,I,TUR,S,18.06.2022,,Senior European Championship Antalya,Individual,2843.xml
+741,F,M,I,TUR,S,18.06.2022,,Senior European Championship Antalya,Individual,2845.xml
+739,E,M,I,TUR,S,19.06.2022,,Senior European Championship Antalya,Individual,2846.xml
+742,S,F,I,TUR,S,19.06.2022,,Senior European Championship Antalya,Individual,2847.xml
+746,F,F,I,TUR,S,20.06.2022,,Senior European Championship Antalya,Team,2848.xml
+749,S,M,I,TUR,S,20.06.2022,,Senior European Championship Antalya,Team,2850.xml
+744,E,F,I,TUR,S,21.06.2022,,Senior European Championship Antalya,Team,2851.xml
+745,E,M,I,TUR,S,22.06.2022,,Senior European Championship Antalya,Team,2852.xml
+747,F,M,I,TUR,S,21.06.2022,,Senior European Championship Antalya,Team,2853.xml
+748,S,F,I,TUR,S,22.06.2022,,Senior European Championship Antalya,Team,2854.xml
+655,E,F,I,SVK,S,11.09.2022,,Memorial de Martinengo FIE,Individual,2855.xml
+1218,F,F,I,SVK,S,10.09.2022,,Memorial de Martinengo FIE,Individual,2856.xml
+398,F,M,I,SVK,S,10.09.2022,,Memorial de Martinengo FIE,Individual,2857.xml
+98,F,F,I,ROU,C,17.09.2022,,SATU MARE CUP,Individual,2858.xml
+99,F,F,I,ROU,C,18.09.2022,,SATU MARE CUP,Team,2859.xml
+17,S,F,I,POL,C,18.09.2022,,XIII EUROPEAN CADET CUP WOMEN AND MEN SABRE,Individual,2866.xml
+18,S,M,I,POL,C,17.09.2022,,XIII EUROPEAN CADET CUP WOMEN AND MEN SABRE,Individual,2867.xml
+100,F,M,I,POL,C,23.09.2022,,XIV Witold Woyda's Foil &amp; XII Golden Team Cup Tournament,Individual,2870.xml
+101,F,M,I,POL,C,23.09.2022,,XIV Witold Woyda's Foil &amp; XII Golden Team Cup Tournament,Team,2871.xml
+36,F,F,I,SVK,C,01.10.2022,,Coupe de Samaria 2022,Individual,2872.xml
+37,F,F,I,SVK,C,02.10.2022,,Coupe de Samaria 2022,Team,2873.xml
+823,E,F,I,ITA,S,08.10.2022,Coupe d´Europe 2022 - 2023,WE Coupe d´Europe 2022 - 2023,Team,2874.xml
+821,F,M,I,ITA,S,08.10.2022,MF - Coupe d´Europe 2022 - 2023,MF - Coupe d´Europe 2022 - 2023,Team,2875.xml
+27,E,M,I,HUN,C,08.10.2022,emc-in,Men&apos;s Epée Individial,Individual,2876.xml
+710,E,F,I,HUN,C,08.10.2022,Noi_PBT_Csapat,Cadet Circuit Women&apos;s Epee Team,Team,2877.xml
+41,S,M,I,HUN,C,08.10.2022,221008-CMS-in,Men&apos;s Sabre Individual,Individual,2878.xml
+42,S,F,I,HUN,C,08.10.2022,Cadet Circuit,Cadet Women&apos;s Sabre Team,Team,2879.xml
+40,S,F,I,HUN,C,09.10.2022,221009-CWS-in,Women&apos;s Sabre Individual,Individual,2880.xml
+604,E,M,I,HUN,C,09.10.2022,Ffi_Pbt_csapat,Men&apos;s Epée Team,Team,2881.xml
+709,E,F,I,HUN,C,09.10.2022,efc-in,Women&apos;s Epée Cadet Circuit Individual,Individual,2882.xml
+419,F,F,I,ITA,S,09.10.2022,Coupe d´Europe 2022 - 2023,WF Coupe d´Europe 2022 - 2023,Team,2883.xml
+43,S,M,I,HUN,C,09.10.2022,Cadet Circuit,Cadet Men&apos;s Sabre Team,Team,2884.xml
+824,S,F,I,ITA,S,09.10.2022,Coupe d´Europe 2022 - 2023,WS Coupe d´Europe 2022 - 2023,Team,2885.xml
+822,S,M,I,ITA,S,09.10.2022,MS - Coupe d´Europe 2022 - 2023,MS - Coupe d´Europe 2022 - 2023,Team,2886.xml
+44,F,F,Z,DEN,U14,08.10.2022,Trekanten International,,Individual,2887.xml
+45,F,M,Z,DEN,U14,09.10.2022,Trekanten International,,Individual,2891.xml
+1356,F,F,I,DEN,S,09.10.2022,Trekanten International,,Individual,2892.xml
+1330,F,M,I,DEN,S,08.10.2022,Trekanten International,,Individual,2893.xml
+13,F,F,I,GBR,C,15.10.2022,ffc-in,Women&apos;s Foil Individual,Individual,2894.xml
+14,F,M,I,GBR,C,15.10.2022,fmc-in,Men&apos;s Foil Individual,Individual,2895.xml
+620,E,M,I,SRB,C,22.10.2022,,Belgrade Open European Cadet Circuit,Individual,2897.xml
+22,E,F,I,SRB,C,22.10.2022,,Belgrade Open European Cadet Circuit,Team,2898.xml
+28,F,F,,HUN,C,03.10.2010,ECC2010_WF,European Cadet Circuit,Individual,29.xml
+21,E,F,I,SRB,C,23.10.2022,,Belgrade Open European Cadet Circuit,Individual,2902.xml
+621,E,M,I,SRB,C,23.10.2022,,Belgrade Open European Cadet Circuit,Team,2903.xml
+830,S,F,I,ESP,U23,23.10.2022,SF_U23 European Circuit,U23 European Circuit,Individual,2904.xml
+829,S,M,I,ESP,,23.10.2022,SM_U23 European Circuit,U23 European Circuit,Individual,2905.xml
+495,E,F,I,AUT,C,28.10.2022,Trofeo Maestro Dario Codarin,,Individual,2906.xml
+494,E,M,I,AUT,C,28.10.2022,Trofeo Maestro Dario Codarin,,Individual,2907.xml
+536,E,M,I,AUT,C,29.10.2022,Trofeo Maestro Dario Codarin,,Team,2908.xml
+537,E,F,I,AUT,C,29.10.2022,Trofeo Maestro Dario Codarin,,Team,2910.xml
+828,E,F,I,AUT,S,29.10.2022,Cup of WÃ¶rthersee,,Team,2911.xml
+826,E,M,I,AUT,S,29.10.2022,Cup of WÃ¶rthersee,,Team,2912.xml
+827,E,F,I,AUT,S,30.10.2022,Cup of WÃ¶rthersee,,Individual,2913.xml
+825,E,M,I,AUT,S,30.10.2022,Cup of WÃ¶rthersee,,Individual,2914.xml
+501,E,F,N,FRA,B,29.10.2022,U23 Epee Dames,U23 European Circuit Colmar - Epée Dames,Individual,2915.xml
+498,E,M,N,FRA,U23,29.10.2022,U23 Epee Hommes,U23 European Circuit Colmar - Epée Hommes,Individual,2916.xml
+610,F,F,I,ESP,U23,30.10.2022,FFA_U23 Circuit Barcelona Sabadell,TNR Senior - Florete Femenino,Individual,2917.xml
+609,F,M,I,ESP,U23,30.10.2022,FMA_U23 Circuit Barcelona Sabadell,TNR Senior - Florete Masculino,Individual,2918.xml
+627,S,M,I,TUR,C,05.11.2022,,Ä°stanbul Cadet Circuit Sabre,Individual,2919.xml
+630,S,F,I,TUR,C,05.11.2022,,Ä°stanbul Cadet Circuit Sabre,Team,2920.xml
+628,S,F,I,TUR,C,06.11.2022,,Ä°stanbul Cadet Circuit Sabre,Individual,2921.xml
+629,S,M,I,TUR,C,06.11.2022,,Ä°stanbul Cadet Circuit Sabre,Team,2922.xml
+639,F,F,I,GBR,U,06.11.2022,,London Cup EFC U23,Individual,2924.xml
+445,F,M,I,GBR,U,06.11.2022,,London Cup EFC U23,Individual,2925.xml
+54,E,F,I,FRA,C,12.11.2022,Challenge Vaujany,Challenge Vaujany,Individual,2927.xml
+588,E,M,I,FRA,C,12.11.2022,Challenge Bertrand-Dedieu,Challenge Bertrand-Dedieu,Individual,2928.xml
+55,E,F,I,FRA,C,13.11.2022,Challenge Dames Equipe,Challenge Grenoble Equipe Dames,Team,2929.xml
+595,E,M,I,FRA,C,13.11.2022,Challenge Equipe Hommes,Cadet Circuit,Team,2930.xml
+64,S,F,I,BUL,C,19.11.2022,Cadet Circuit women team,Etropolski&apos;s sabre women team,Team,2935.xml
+847,F,F,I,GER,C,19.11.2022,Cadet Ciruit,,Team,2936.xml
+38,F,M,I,GER,C,19.11.2022,Cadet Circuit,,Individual,2937.xml
+442,S,M,I,GER,S,19.11.2022,GrÃ¼nwald - time to fence,,Individual,2938.xml
+443,S,F,I,GER,S,20.11.2022,GrÃ¼nwald - time to fence,,Individual,2939.xml
+62,S,F,I,BUL,C,20.11.2022,Cadet Circuitwomensbare,Etropolski&apos;s sabre GU17,Individual,2940.xml
+39,F,M,I,GER,C,20.11.2022,Cadet Circuit,,Team,2942.xml
+846,F,F,I,GER,C,20.11.2022,Cadet Ciruit,,Individual,2943.xml
+20,S,M,I,POL,C,18.09.2022,,XIII EUROPEAN CADET CUP WOMEN AND MEN SABRE,Team,2945.xml
+19,S,F,I,POL,C,17.09.2022,,XIII EUROPEAN CADET CUP WOMEN AND MEN SABRE,Team,2946.xml
+65,S,M,I,BUL,C,20.11.2022,Cadet Circuit,Cadet Circuit,Team,2947.xml
+65,S,M,I,BUL,C,20.11.2022,Cadet Circuit,Cadet Circuit,Team,2948.xml
+8,F,F,I,,C,25.11.2022,U 14 G,,Individual,2949.xml
+ENG6,E,F,I,,C,23.10.2022,dashna g,,Individual,2951.xml
+ENG14,E,M,I,,C,23.10.2022,dashna b,,Individual,2955.xml
+ENG1,S,F,I,,C,21.10.2022,KHMALI G,,Individual,2957.xml
+ENG1,S,M,I,,C,21.10.2022,KHMALI B,,Individual,2958.xml
+714,F,F,I,HUN,C,26.11.2022,cff-eq,Cadet Women&apos;s Foil Team,Team,2960.xml
+711,F,M,I,HUN,C,26.11.2022,221126-2860-CMF,Cadet Men&apos;s Foil Individual,Individual,2961.xml
+76,S,F,I,GER,C,26.11.2022,Wiekhorst - Cup,,Individual,2962.xml
+521,E,M,I,DEN,C,26.11.2022,Copenhagen Cadet Circuit,,Individual,2963.xml
+522,E,F,I,DEN,C,26.11.2022,Copenhagen Cadet Circuit,,Individual,2964.xml
+556,E,F,I,DEN,C,27.11.2022,Copenhagen Cadet Circuit,,Team,2965.xml
+77,S,M,I,GER,C,27.11.2022,Wiekhorst - Cup,,Individual,2966.xml
+712,F,F,I,HUN,C,27.11.2022,221127-2861-CFF,Cadet Women&apos;s Foil Individual,Individual,2968.xml
+713,F,M,I,HUN,C,27.11.2022,cmf-eq,Cadet Men&apos;s Foil Team,Team,2973.xml
+4,F,M,I,,C,25.11.2022,U14 B,,Individual,2974.xml
+832,E,F,I,LUX,U,26.11.2022,,Escrime Sud U-23 Men's / Women's Epee,Individual,2975.xml
+831,E,M,I,LUX,U,26.11.2022,,Escrime Sud U-23 Men's / Women's Epee,Individual,2976.xml
+555,E,M,I,DEN,C,27.11.2022,Copenhagen Cadet Circuit,,Team,2978.xml
+-1,E,F,I,SRB,U,19.11.2022,,Memorial &quot;Andrej Gardenin&quot; EFC U14,Individual,2979.xml
+91,S,M,,GBR,C,28.01.2012,Men's Sabre,Men's Cadet Sabre,Individual,298.xml
+-1,E,M,I,SRB,U,19.11.2022,,Memorial &quot;Andrej Gardenin&quot; EFC U14,Individual,2980.xml
+-1,F,M,I,SRB,U,19.11.2022,,Memorial &quot;Andrej Gardenin&quot; EFC U14,Individual,2982.xml
+-1,F,F,I,SRB,U,19.11.2022,,Memorial &quot;Andrej Gardenin&quot; EFC U14,Individual,2983.xml
+661,F,F,I,CRO,U,04.12.2022,,EFC ZWC,Individual,2986.xml
+660,F,M,I,CRO,B,04.12.2022,,EFC ZWC,Individual,2987.xml
+78,S,F,I,GER,C,27.11.2022,Wiekhorst - Cup / Allstar-Cup,,Team,2988.xml
+79,S,M,I,GER,C,26.11.2022,Wiekhorst - Cup / Allstar-Cup,,Team,2989.xml
+98,F,F,,ROU,C,28.01.2012,FFC-in,European Cadet Circuit,Individual,299.xml
+34,E,M,Z,GER,C,09.12.2022,Pokal der Sparkasse Leipzig,,Individual,2990.xml
+35,E,M,Z,GER,C,10.12.2022,Pokal der Sparkasse Leipzig,,Team,2991.xml
+73,F,M,I,FRA,C,10.12.2022,Coupe Mondiale Cabriès,Fleuret Hommes Cadets (M17),Individual,2992.xml
+72,F,F,I,FRA,C,10.12.2022,Coupe Mondiale Cabriès,Fleuret Dames Cadettes (M17),Individual,2993.xml
+32,E,F,I,GER,C,10.12.2022,Hartmann Cup,,Individual,2994.xml
+75,F,M,I,FRA,C,11.12.2022,Coupe Mondiale Cabriès,Fleuret Hommes Cadets par équipe (M17),Team,2996.xml
+33,E,F,I,GER,C,11.12.2022,Hartmann Cup,,Team,2997.xml
+732,F,F,I,SLO,M,10.12.2022,U14 European Circuit female,U14 European Circuit female,Individual,2998.xml
+79,,F,,,,,,Pisa EFC,Individual,3.xml
+731,F,M,I,szs,M,10.12.2022,U14 European Circuit,U14 European Circuit male,Individual,3000.xml
+95,E,M,I,SVK,C,13.01.2023,,Coupe du Danube 2023,Individual,3002.xml
+96,E,F,I,SVK,C,13.01.2023,,Coupe du Danube 2023,Team,3003.xml
+464,E,F,I,GER,S,14.01.2023,allstar Cup,,Individual,3006.xml
+491,F,M,I,SVK,C,14.01.2023,,Coupe du Danube 2023,Individual,3007.xml
+97,E,M,I,SVK,C,14.01.2023,,Coupe du Danube 2023,Team,3008.xml
+94,E,F,I,SVK,C,15.01.2023,,Coupe du Danube 2023,Individual,3012.xml
+548,F,M,I,SVK,C,15.01.2023,,Coupe du Danube 2023,Team,3013.xml
+74,F,F,I,FRA,C,11.12.2022,Coupe Mondiale CabriÃ¨s,Fleuret Dames Cadettes par Ã©quipe (M17),Team,3015.xml
+496,F,F,M,POL,C,14.01.2023,,Poznan Cadet Circuit,Individual,3017.xml
+514,F,F,M,POL,C,15.01.2023,,Poznan Cadet Circuit,Team,3018.xml
+112,S,M,I,Féd. Française d&apos;Escrime,C,14.01.2023,ES23 - Sabre Homme,Eurosabre 2023 - Men&apos;s event,Individual,3020.xml
+858875,S,F,I,Féd. Française d&apos;Escrime,C,15.01.2023,ES-SabreDame,Eurosabre 2023 - Women&apos;s event,Individual,3021.xml
+71,E,M,I,FIN,C,21.01.2023,,Espoo Fencing Challenge,Individual,3022.xml
+558,E,F,I,FIN,C,21.01.2023,,Espoo Fencing Challenge,Team,3023.xml
+70,E,F,I,FIN,C,22.01.2023,,Espoo Fencing Challenge,Individual,3024.xml
+557,E,M,I,FIN,C,22.01.2023,,Espoo Fencing Challenge,Team,3025.xml
+599,S,F,I,ROU,C,28.01.2023,,RIPOSTA CUP 2023,Team,3026.xml
+589,S,M,I,ROU,C,28.01.2023,,RIPOSTA CUP 2023,Individual,3027.xml
+598,S,M,I,ROU,C,29.01.2023,,RIPOSTA CUP 2023b,Team,3028.xml
+590,S,F,I,ROU,C,29.01.2023,,RIPOSTA CUP 2023b,Individual,3029.xml
+543,F,F,I,ITA,C,29.01.2023,Cadet Circuit,Women Foil Ind.,Individual,3030.xml
+542,F,M,I,ITA,C,28.01.2023,Cadet Circuit,Men Foil Ind.,Individual,3031.xml
+805,E,F,I,GRE,C,29.01.2023,Thessaloniki Europcup,,Individual,3032.xml
+48,E,M,I,GRE,C,28.01.2023,Thessaloniki Europcup,,Individual,3033.xml
+804,E,F,I,GRE,C,28.01.2023,Thessaloniki Europcup,,Team,3034.xml
+49,E,M,I,GRE,C,29.01.2023,Thessaloniki Europcup,,Team,3035.xml
+461,E,M,I,GER,S,12.02.2023,White Bear,,Individual,3036.xml
+586,E,F,I,POL,C,12.02.2023,,EUROPEAN CADET CIRCUIT GIRLâS AND BOYâS EPEE,Individual,3037.xml
+585,E,M,I,POL,C,11.02.2023,,EUROPEAN CADET CIRCUIT GIRLâS AND BOYâS EPEE,Individual,3038.xml
+133,E,M,I,EST,C,21.02.2023,,European Cadets Fencing Championships,Individual,3041.xml
+134,F,F,I,EST,C,21.02.2023,,European Cadets Fencing Championships,Individual,3042.xml
+136,S,F,I,EST,C,21.02.2023,,European Cadets Fencing Championships,Individual,3043.xml
+132,E,F,I,EST,C,22.02.2023,,European Cadets Fencing Championships,Individual,3044.xml
+135,F,M,I,EST,C,22.02.2023,,European Cadets Fencing Championships,Individual,3045.xml
+137,S,M,I,EST,C,22.02.2023,,European Cadets Fencing Championships,Individual,3047.xml
+139,E,M,I,EST,C,23.02.2023,,European Cadets Fencing Championships,Team,3048.xml
+140,F,F,I,EST,C,23.02.2023,,European Cadets Fencing Championships,Team,3049.xml
+101,F,M,N,POL,C,28.01.2012,European Cadet Circuit,European Cadet Circuit,Team,305.xml
+142,S,F,I,EST,C,23.02.2023,,European Cadets Fencing Championships,Team,3050.xml
+138,E,F,I,EST,C,24.02.2023,,European Cadets Fencing Championships,Team,3051.xml
+141,F,M,I,EST,C,24.02.2023,,European Cadets Fencing Championships,Team,3052.xml
+143,S,M,I,EST,C,24.02.2023,,European Cadets Fencing Championships,Team,3053.xml
+350,E,M,I,EST,J,25.02.2023,,European Juniors Fencing Championships,Individual,3054.xml
+351,F,F,I,EST,J,25.02.2023,,European Juniors Fencing Championships,Individual,3055.xml
+353,S,F,I,EST,J,25.02.2023,,European Juniors Fencing Championships,Individual,3056.xml
+349,E,F,I,EST,J,26.02.2023,,European Juniors Fencing Championships,Individual,3057.xml
+352,F,M,I,EST,J,26.02.2023,,European Juniors Fencing Championships,Individual,3058.xml
+421,E,M,Z,GER,S,26.02.2023,Coupe d&#039;Europe,,Team,3059.xml
+354,S,M,I,EST,J,26.02.2023,,European Juniors Fencing Championships,Individual,3060.xml
+356,E,M,I,EST,J,27.02.2023,,European Juniors Fencing Championships,Team,3061.xml
+357,F,F,I,EST,J,27.02.2023,,European Juniors Fencing Championships,Team,3062.xml
+359,S,F,I,EST,J,27.02.2023,,European Juniors Fencing Championships,Team,3063.xml
+355,E,F,I,EST,J,28.02.2023,,European Juniors Fencing Championships,Team,3064.xml
+358,F,M,I,EST,J,28.02.2023,,European Juniors Fencing Championships,Team,3065.xml
+360,S,M,I,EST,J,28.02.2023,,European Juniors Fencing Championships,Team,3066.xml
+850521,F,M,I,AFG,S,04.03.2023,,SOKOL CUP U23 EFC,Individual,3068.xml
+843679,F,F,I,AFG,S,05.03.2023,,SOKOL CUP U23 EFC,Individual,3069.xml
+834,E,F,I,SLO,U23,11.03.2023,U23 European Circuit,U23 European Circuit Women&apos;s Epee,Individual,3072.xml
+814,E,M,I,SLO,B,11.03.2023,U23 European Circuit,U23 Eropean Circuit Men&apos;s Epee,Individual,3074.xml
+835,S,F,I,SLO,N,12.03.2023,U23 European Circuit,U23 European Circuit Women&apos;s Sabre,Individual,3075.xml
+815,S,M,I,SLO,U23,12.03.2023,U23 European Circuit,U23 Eropean Circuit Men&apos;s Sabre,Individual,3076.xml
+U14-f,F,F,I,FFE,M15,04.02.2023,tournoi Marathon Fleuret U14 Femmes,U14 femmes Marathon Fleuret 2023,Individual,3077.xml
+593,F,F,N,HUN,U23,11.03.2023,230311-FNT,Felnõtt Nõi Tõr - U23 ECC Women&apos;s Foil,Individual,3078.xml
+551,F,M,N,HUN,U23,11.03.2023,230311-FFT,U23 Men&apos;s Foil - Felnõtt Férfi Tõr,Individual,3079.xml
+860285,F,F,I,CRO,U,11.03.2023,,25th Rapir cup,Individual,3082.xml
+859313,F,M,I,CRO,U,11.03.2023,,25th Rapir cup,Individual,3083.xml
+446,E,M,I,SUI,U,18.03.2023,,International Lausanne Fencing Challenge ÃpÃ©e,Individual,3088.xml
+447,E,F,I,SUI,U,19.03.2023,,International Lausanne Fencing Challenge ÃpÃ©e,Individual,3089.xml
+874,E,M,I,SUI,U,19.03.2023,,International Lausanne Fencing Challenge ÃpÃ©e,Team,3090.xml
+U14-m,F,M,I,FFE,M15,04.02.2023,Pr&#xFFFD;-tournoi Marathon Fleuret U14 Hommes,Pr&#xFFFD; tournoi U14 hommes Marathon Fleuret,Individual,3091.xml
+26,S,F,I,,M,18.11.2022,ES Girls U14,Etropolski&apos;s sabre GU14,Individual,3092.xml
+817,E,F,I,CRO,U,25.03.2023,,U23 Vladimir MaÅ¾uraniÄ Memorial,Individual,3093.xml
+816,E,M,I,CRO,U,26.03.2023,,U23 Vladimir MaÅ¾uraniÄ Memorial,Individual,3094.xml
+836,F,M,I,CRO,U,25.03.2023,,U23 Vladimir MaÅ¾uraniÄ Memorial,Individual,3095.xml
+689,E,F,I,GRE,U14,26.03.2023,European Circuit,,Individual,3096.xml
+688,E,M,I,GRE,U14,25.03.2023,European Circuit,,Individual,3097.xml
+141,E,F,I,FSE,C,02.10.2010,LoL,Lady of the Lake Epee Challenge,Individual,31.xml
+100,F,M,I,POL,C,28.01.2012,European Cadet Circuit,European Cadet Circuit,Individual,310.xml
+693,E,M,I,TUR,U,16.04.2023,,Antalya - EFC U14 Circuit - UluslararasÄ± Ãocuk KupasÄ±,Individual,3103.xml
+694,E,F,I,TUR,U,15.04.2023,,Antalya - EFC U14 Circuit - UluslararasÄ± Ãocuk KupasÄ±,Individual,3105.xml
+513,E,F,I,POL,U,16.04.2023,,U23 EUROPEAN CIRCUIT - PUCHAR POLSKI SENIOREK W SZPADZIE,Individual,3106.xml
+4,S,M,I,,M,18.11.2022,ES Boys U14,Etropolski&apos;s sabre BU14,Individual,3107.xml
+535,S,F,I,AUT,,15.04.2023,U23 European Circuit,U23 European Circuit,Individual,3108.xml
+90,S,F,,GBR,C,28.01.2012,Women's Sabre,Women's Cadet Sabre,Individual,311.xml
+546,E,M,I,HUN,B,22.04.2023,U23EuropeanCircuit,Men&apos;s Epée U23 European Circuit Competition,Individual,3110.xml
+876,F,F,I,TUR,U,22.04.2023,,Antalya - EFC U14 Circuit - UluslararasÄ± Ãocuk KupasÄ±,Individual,3111.xml
+879,S,F,I,TUR,U,22.04.2023,,Antalya - EFC U14 Circuit - UluslararasÄ± Ãocuk KupasÄ±,Individual,3112.xml
+877,F,M,I,TUR,U,23.04.2023,,Antalya - EFC U14 Circuit - UluslararasÄ± Ãocuk KupasÄ±,Individual,3113.xml
+878,S,M,I,TUR,U,23.04.2023,,Antalya - EFC U14 Circuit - UluslararasÄ± Ãocuk KupasÄ±,Individual,3114.xml
+860480,E,F,I,CRO,U,22.04.2023,,Osijek Fencing Cup 2023.,Individual,3115.xml
+860583,E,M,I,CRO,U,22.04.2023,,Osijek Fencing Cup 2023.,Individual,3116.xml
+871,F,F,I,SRB,U,29.04.2023,,Fence.rs Cup EFC U-14 Circuit,Individual,3117.xml
+870,F,M,I,SRB,U,29.04.2023,,Fence.rs Cup EFC U-14 Circuit,Individual,3118.xml
+869,E,F,I,SRB,U,30.04.2023,,Fence.rs Cup EFC U-14 Circuit,Individual,3119.xml
+9,E,F,N,,,28.01.2012,U23 European Circuit Aktive Degen weiblich Mannheim,U23 European Circuit Aktive Degen weiblich Mannheim,Individual,312.xml
+868,E,M,I,SRB,U,30.04.2023,,Fence.rs Cup EFC U-14 Circuit,Individual,3120.xml
+547,E,F,I,HUN,U23,22.04.2023,U23EuropeanCircuit_women,Women&apos;s Epée U23 European Circuit,Individual,3121.xml
+873,S,F,I,AFG,U,29.04.2023,,Golden Leaf Prague 2023,Individual,3123.xml
+872,S,M,I,AFG,U,29.04.2023,,Golden Leaf Prague 2023,Individual,3124.xml
+534,S,M,I,AUT,U23,15.04.2023,U23 European Circuit,U23 European Circuit,Individual,3125.xml
+838,E,M,I,BUL,U23,06.05.2023,U23 European Circuit,U23 European Circuit,Individual,3128.xml
+841,S,F,I,BUL,U23,06.05.2023,U23 European Circuit,U23 European Circuit,Individual,3129.xml
+839,E,F,I,BUL,U23,07.05.2023,U23 European Circuit,U23 European Circuit,Individual,3130.xml
+840,S,M,I,BUL,U23,07.05.2023,U23 European Circuit,U23 European Circuit,Individual,3131.xml
+735,S,M,I,ESP,U23,01.04.2023,SM_U14 European Circuit Ciudad,U14 EFC Quijote CUP - Sable masculino,Individual,3134.xml
+736,S,F,I,ESP,,01.04.2023,U14 EFC Quijote Cup,U14 EFC Quijote CUP - Sable femenino,Individual,3135.xml
+733,E,M,I,BUL,,14.05.2023,U14 European Circuit epee boys,Boys 14,Individual,3136.xml
+734,E,F,I,BUL,,14.05.2023,U14 European Circuit epee girls,Girls 14,Individual,3137.xml
+116,F,F,I,HUN,B,23.05.2023,women-foil,European Championships U23 Women Foil Individual,Individual,3138.xml
+116,S,M,I,HUN,B,23.05.2023,U23_ferfi_kard_egyeni,European Championships U23 Men Sabre Individual,Individual,3140.xml
+200,E,F,I,,U23,24.05.2023,efs-in,European Championships U23 Women Epée Individual,Individual,3141.xml
+117,F,M,I,HUN,B,24.05.2023,menfoil,European Championships U23 Men Foil Individual,Individual,3142.xml
+115,E,M,I,HUN,B,25.05.2023,em-in,European Championships U23 Men Epee Individual,Individual,3143.xml
+14,S,F,I,,U23,25.05.2023,U23_noi_kard_egyeni,European Championships U23 Women Sabre Individual,Individual,3144.xml
+489,F,F,I,HUN,B,26.05.2023,womenfoilteam,European Championships U23 Women Foil Team,Team,3145.xml
+488,E,F,I,HUN,U23,26.05.2023,we-eq,European Championships U23 Women Epee Team,Team,3146.xml
+486,S,M,I,HUN,B,26.05.2023,U23_ferfi_kard_csapat,European Championships U23 Men Sabre Team,Team,3147.xml
+485,F,M,I,HUN,B,27.05.2023,menfoilteam,European Championships U23 Men Foil Team,Team,3148.xml
+484,E,M,I,HUN,U23,27.05.2023,me-eq,European Championships U23 Men EpeeTeam,Team,3149.xml
+490,S,F,I,HUN,B,27.05.2023,U23_noii_kard_csapat,European Championships U23 Women Sabre Team,Team,3150.xml
+880,E,M,I,SUI,U,03.06.2023,,Lausanne Next Generation Fencing Challenge,Individual,3151.xml
+881,E,F,I,SUI,U,04.06.2023,,Lausanne Next Generation Fencing Challenge,Individual,3152.xml
+643,F,F,I,BUL,,04.06.2023,U14 European Circuit,Foil Girls U14,Individual,3154.xml
+642,F,M,I,BUL,U23,04.06.2023,U14 European Circuit,Foil Boys U14,Individual,3155.xml
+1449,E,M,I,BUL,S,16.06.2023,,Individual Senior European Championships,Individual,3156.xml
+1450,F,F,I,BUL,S,16.06.2023,,Individual Senior European Championships,Individual,3157.xml
+1453,S,M,I,BUL,S,17.06.2023,,Individual Senior European Championships,Individual,3159.xml
+449,S,F,,ITA,S,04.02.2012,U23  European Circuit,U23 European Circuit - Sc.F.,Individual,316.xml
+1451,F,M,I,BUL,S,18.06.2023,,Individual Senior European Championships,Individual,3160.xml
+1448,E,F,I,BUL,S,17.06.2023,,Individual Senior European Championships,Individual,3167.xml
+1452,S,F,I,BUL,S,18.06.2023,,Individual Senior European Championships,Individual,3168.xml
+740,F,F,I,POL,S,25.06.2023,,2023 European Games,Individual,3169.xml
+438,F,M,,ITA,S,04.02.2012,U23 European Circuit,U23 European Circuit - F.M.,Individual,317.xml
+743,S,M,I,POL,S,25.06.2023,,2023 European Games,Individual,3170.xml
+738,E,F,I,POL,S,26.06.2023,,2023 European Games,Individual,3171.xml
+741,F,M,I,POL,S,26.06.2023,,2023 European Games,Individual,3172.xml
+739,E,M,I,POL,S,27.06.2023,,2023 European Games,Individual,3173.xml
+742,S,F,I,POL,S,27.06.2023,,2023 European Games,Individual,3175.xml
+746,F,F,I,POL,S,28.06.2023,,2023 European Games,Team,3176.xml
+749,S,M,I,POL,S,28.06.2023,,2023 European Games,Team,3177.xml
+744,E,F,I,PCN,S,29.06.2023,,2023 European Games,Team,3178.xml
+747,F,M,I,POL,S,29.06.2023,,2023 European Games,Team,3179.xml
+70,E,F,,SWE,C,04.02.2012,EFC-in,European Cadet Circuit,Individual,318.xml
+745,E,M,I,POL,S,30.06.2023,,2023 European Games,Team,3180.xml
+748,S,F,I,POL,S,30.06.2023,,2023 European Games,Team,3181.xml
+861453,F,F,I,AFG,U,09.09.2023,,Cupa ATLAS INVICTUS Ed. III-a,Individual,3182.xml
+860408,F,M,I,AFG,U,10.09.2023,,Cupa ATLAS INVICTUS Ed. III-a,Individual,3183.xml
+100,F,M,I,POL,C,23.09.2023,,XV Witold Woyda's Foil &amp; XIII Golden Team Cup Tournament,Individual,3184.xml
+101,F,M,I,POL,C,24.09.2023,,XV Witold Woyda's Foil &amp; XIII Golden Team Cup Tournament,Team,3185.xml
+894,S,F,I,GEO,C,30.09.2023,sfc-eq,Women&apos;s Sabre Team,Team,3186.xml
+890,S,M,I,GEO,C,30.09.2023,smc-in,Men&apos;s Sabre Individual,Individual,3187.xml
+36,F,F,I,SVK,C,30.09.2023,,Coupe de Samaria 2023,Individual,3188.xml
+892,S,F,I,GEO,C,01.10.2023,sfc-in,Women&apos;s Sabre Individual,Individual,3189.xml
+439,F,F,,ITA,S,04.02.2012,U23 European Circuit,U23 European Circuit - F.F.,Individual,319.xml
+893,S,M,I,GEO,C,01.10.2023,smc-eq,Men&apos;s Sabre Team,Team,3190.xml
+887,E,F,I,ITA,C,01.10.2023,Cadets Circuit Napoli,Women Epee Individual,Individual,3192.xml
+886,E,M,I,ITA,C,30.09.2023,Cadets Circuit Napoli - Men Epee Individual,Men Epee Individual,Individual,3193.xml
+889,E,F,I,ITA,C,30.09.2023,Cadets Circuit Napoli Women Epee Team,Women Epee Team,Team,3197.xml
+888,E,M,I,ITA,C,30.09.2023,Cadets Circuit Napoli Men Epee Team,Men Epee Team,Team,3198.xml
+823,E,F,I,ITA,S,06.10.2023,European Cup of Club Champions WE,European Cup of Club Champions - WE,Team,3199.xml
+553,E,F,I,SRB,S,10.10.2010,EF2,51 Trophy of Belgrade,Individual,32.xml
+509,E,M,,ITA,S,04.02.2012,U23 European Circuit,U23 European Circuit,Individual,320.xml
+822,S,M,I,ITA,S,06.10.2023,European Cup of Club Champions MS,European Cup of Club Champions - MS,Team,3200.xml
+917,E,M,I,ITA,S,07.10.2023,European Cup of Club Champions ME,European Cup of Club Champions - ME,Team,3201.xml
+824,S,F,I,ITA,S,07.10.2023,European Cup of Club Champions WS,European Cup of Club Champions - WS,Team,3202.xml
+419,F,F,I,ITA,S,08.10.2023,European Cup of Club Champions WF,European Cup of Club Champions - WF,Team,3203.xml
+821,F,M,I,ITA,S,08.10.2023,European Cup of Club Champions MF,European Cup of Club Champions - MF,Team,3204.xml
+37,F,F,I,SVK,C,01.10.2023,,Coupe de Samaria 2023,Team,3205.xml
+14,F,M,I,GBR,C,14.10.2023,mf-in,Men&apos;s Foil Individual,Individual,3207.xml
+15,F,F,I,GBR,C,14.10.2023,wf-eq,Women&apos;s Foil Team,Team,3208.xml
+510,E,F,,ITA,S,04.02.2012,U23 European Circuit,U23 European Circuit,Individual,321.xml
+41,S,M,I,HUN,C,14.10.2023,Cadet Circuit Godollo,Cadet Men Sabre Individual - HUNIBER CUP,Individual,3213.xml
+42,S,F,I,HUN,C,14.10.2023,Godollo_EFC_Women_Team,Cadet Circuit Women Sabre Team,Team,3214.xml
+13,F,F,I,GBR,C,15.10.2023,wf-in,Women&apos;s Foil Individual,Individual,3216.xml
+16,F,M,I,GBR,C,15.10.2023,mf-eq,Men&apos;s Foil Team,Team,3217.xml
+709,E,F,I,HUN,C,15.10.2023,EFC-IN,Cadet Circuit Budapest Women&apos;s epee individual,Individual,3219.xml
+448,S,M,,ITA,S,04.02.2012,U23  European Circuit,U23 European Circuit - Sc.M.,Individual,322.xml
+40,S,F,I,HUN,C,15.10.2023,Godollo_EFC_women_ind,EFC-CC Cadet Women Sabre Individual Competition,Individual,3222.xml
+43,S,M,I,HUN,C,15.10.2023,New_Godollo_Men_csapat,EFC-CC Cadet Men Sabre Team Competition,Team,3223.xml
+27,E,M,I,HUN,C,14.10.2023,EMC-IN,Cadet Circuit Budapest Men&apos;s Epee Individual,Individual,3224.xml
+710,E,F,I,HUN,C,14.10.2023,Noi_Pbt_Csapat2,Cadet Circuit Budapest Women&apos;s Epee Team,Team,3229.xml
+71,E,M,,SWE,C,04.02.2012,EMC-in,European Cadet Circuit,Individual,323.xml
+604,E,M,I,HUN,C,14.10.2023,EMC-EQ,Cadet Circuit Budapest Men&apos;s epee team,Team,3230.xml
+676,S,M,I,TUR,U,27.10.2023,,Ä°stanbul U14 - U17 Sabre Circuit,Individual,3231.xml
+677,S,F,I,TUR,U,27.10.2023,,Ä°stanbul U14 - U17 Sabre Circuit,Individual,3232.xml
+627,S,M,I,TUR,C,28.10.2023,,Ä°stanbul U14 - U17 Sabre Circuit,Individual,3233.xml
+630,S,F,I,TUR,C,28.10.2023,,Ä°stanbul U14 - U17 Sabre Circuit,Team,3234.xml
+494,E,M,Z,AUT,C,28.10.2023,E M I U17,EpÃ©e Hommes Individuel U17,Individual,3235.xml
+495,E,F,Z,AUT,C,28.10.2023,E F I U17,EpÃ©e Dames Individuel U17,Individual,3236.xml
+628,S,F,I,TUR,C,29.10.2023,,Ä°stanbul U14 - U17 Sabre Circuit,Individual,3237.xml
+629,S,M,I,TUR,C,29.10.2023,,Ä°stanbul U14 - U17 Sabre Circuit,Team,3238.xml
+80,E,F,,ITA,C,10.02.2012,EFC-in,European Cadet Circuit EF,Individual,324.xml
+537,E,F,Z,AUT,C,29.10.2023,E F T U17,EpÃ©e Dames Equipe U17,Team,3240.xml
+536,E,M,Z,AUT,C,29.10.2023,E M T U17,EpÃ©e Hommes Equipe U17,Team,3241.xml
+501,E,F,I,FRA,U23,28.10.2023,U23C Colmar_Womens,U23 European Circuit Colmar - Epée Dames,Individual,3243.xml
+885,S,F,I,ROU,U,28.10.2023,,Trofeul Iasiului,Individual,3245.xml
+884,S,M,I,ROU,U,29.10.2023,,Trofeul Iasiului,Individual,3246.xml
+498,E,M,I,FRA,U23,28.10.2023,U23C Colmar_Mens,U23 European Circuit Colmar - Epée Hommes,Individual,3248.xml
+921,S,F,I,AFG,U,04.11.2023,,SOKOL CUP U23 EFC - SABRE,Individual,3249.xml
+81,E,M,,ITA,C,10.02.2012,EMC-in,European Cadet Circuit EM,Individual,325.xml
+920,S,M,I,AFG,U,04.11.2023,,SOKOL CUP U23 EFC - SABRE,Individual,3250.xml
+1,S,F,I,,C,29.10.2023,sabre WOM,,Individual,3256.xml
+3,S,M,I,,C,29.10.2023,sabre MEN,,Individual,3257.xml
+1,E,F,I,,C,28.10.2023,EPEE GOG,,Individual,3258.xml
+1,E,M,I,,C,28.10.2023,epee MEN,,Individual,3259.xml
+678,F,M,I,ROU,U,11.11.2023,,EFC U14 FLORETA CUP,Individual,3260.xml
+711,F,M,I,HUN,C,11.11.2023,FMC-IN,Cadet Circuit Men&apos;s Foil Individual Competition,Individual,3261.xml
+714,F,F,I,HUN,C,11.11.2023,ffc-eq,Women&apos;s Foil Team,Team,3262.xml
+679,F,F,I,ROU,U,12.11.2023,,EFC U14 FLORETA CUP,Individual,3263.xml
+712,F,F,I,HUN,C,12.11.2023,FFC-IN,Cadet Circuit Women&apos;s Foil  Individual Competition,Individual,3264.xml
+713,F,M,I,HUN,C,12.11.2023,FMC-EQ,Men&apos;s Foil Team,Team,3265.xml
+648,S,M,I,BUL,N,17.11.2023,U14 sabre boys,Sabre boys U14,Individual,3266.xml
+647,F,F,I,BUL,U23,17.11.2023,U14 Sofia Foil,U14 foil girls,Individual,3267.xml
+649,S,F,I,BUL,N,17.11.2023,U14 Sofia Saber,Sabre girls U14,Individual,3268.xml
+646,F,M,I,BUL,U23,17.11.2023,U14 Sofia Foil,U14 foil boys,Individual,3269.xml
+82,F,F,,ITA,C,11.02.2012,FFC-in,European Cadet Circuit ff,Individual,327.xml
+948,F,F,I,SRB,U,18.11.2023,,Memorijal Andrej Gardenin EFC U14,Individual,3273.xml
+947,F,M,I,SRB,U,18.11.2023,,Memorijal Andrej Gardenin EFC U14,Individual,3274.xml
+624,E,F,I,SVK,U,18.11.2023,,Memorial Martinengo 2023,Individual,3275.xml
+922,E,M,I,SVK,U,18.11.2023,,Memorial Martinengo 2023,Individual,3276.xml
+605,F,M,I,SVK,U,19.11.2023,,Memorial Martinengo 2023,Individual,3280.xml
+62,S,F,I,BUL,C,19.11.2023,Cadet Circuit Sofia,Sabre cadet women,Individual,3282.xml
+63,S,M,I,BUL,C,18.11.2023,Cadet Circuit Sofia,Sabre cadet men,Individual,3283.xml
+64,S,F,I,BUL,C,18.11.2023,Cadet Circuit Sofia,Cadet Circuit Sofia,Team,3284.xml
+83,F,M,,ITA,C,11.02.2012,FMC-in,European Cadet Circuit FM,Individual,329.xml
+554,E,M,I,SRB,S,10.10.2010,EM2,51 Trophy of Belgrade,Individual,33.xml
+493,S,F,,ITA,C,11.02.2012,SFC-in,European Cadet Circuit SCF,Individual,330.xml
+606,F,F,I,SVK,U,19.11.2023,,Memorial Martinengo 2023,Individual,3300.xml
+ENG4,F,M,I,,C,24.11.2023,rapira U14 B,,Individual,3306.xml
+492,S,M,,ITA,C,11.02.2012,SMC-in,European Cadet Circuit SCM,Individual,331.xml
+38,F,M,Z,GER,C,25.11.2023,Cadet Circuit,,Individual,3312.xml
+65,S,M,I,BUL,C,19.11.2023,Cadet Circuit Sofia,Sabre men team,Team,3315.xml
+588,E,M,I,FRA,C,25.11.2023,Challenge Bertrand-Dedieu 2023,Challenge Bertrand Dedieu,Individual,3316.xml
+595,E,M,I,FRA,C,26.11.2023,Challenge Homme Equipe,Challenge Equipes Hommes,Team,3318.xml
+55,E,F,I,FRA,C,26.11.2023,Challenge Femme Equipe,Challenge Equipes Dames,Team,3319.xml
+39,F,M,Z,GER,C,26.11.2023,F M T U17,Fleuret Hommes Equipe U17,Team,3320.xml
+847,F,F,Z,GER,C,25.11.2023,F F T U17,Fleuret Dames Equipe U17,Team,3321.xml
+846,F,F,Z,GER,C,26.11.2023,Cadet Ciruit,,Individual,3322.xml
+950,S,F,I,GER,S,26.11.2023,GrÃ¼nwald - time to fence,,Individual,3324.xml
+949,S,M,I,GER,S,25.11.2023,GrÃ¼nwald - time to fence,,Individual,3325.xml
+54,E,F,I,FRA,C,25.11.2023,Challenge Vaujany,Challenge Vaujany,Individual,3327.xml
+461,E,M,Z,GER,S,25.02.2012,European U23 Circuit Weisser Baer,European U23 Circuit Weisser Baer,Individual,333.xml
+3,F,F,I,,C,24.11.2023,RAPIRA U14 G,,Individual,3330.xml
+661,F,F,I,CRO,U,03.12.2023,,EFC U14 Zagreb Winter Classic,Individual,3331.xml
+660,F,M,I,CRO,U,03.12.2023,,EFC U14 Zagreb Winter Classic,Individual,3332.xml
+76,S,F,Z,GER,C,09.12.2023,Wiekhorst - Cup,,Individual,3333.xml
+76,F,M,I,,C,09.12.2023,Coupe Mondiale 2023 FH,Fleuret Hommes (M17),Individual,3334.xml
+99,F,F,I,,C,09.12.2023,Coupe Mondiale 2023 FD,Fleuret Dames (M17),Individual,3335.xml
+75,F,M,I,FRA,C,10.12.2023,Cadet Circuit Cabries,Fleuret Hommes Equipes (M17),Team,3336.xml
+74,F,F,I,FRA,C,10.12.2023,Cadet Circuit Cabries,Cadet Circuit Cabries,Team,3337.xml
+77,S,M,Z,GER,C,10.12.2023,Wiekhorst - Cup,,Individual,3338.xml
+78,S,F,Z,GER,C,10.12.2023,Wiekhorst - Cup,,Team,3339.xml
+135,F,M,I,CRO,C,01.03.2012,CADindFM,European Cadet Championships Men's Foil,Individual,334.xml
+79,S,M,Z,GER,C,09.12.2023,Wiekhorst - Cup,,Team,3341.xml
+732,F,F,I,SLO,M,10.12.2023,ff-U14,floret female-U14,Individual,3342.xml
+731,F,M,I,SZS,M,10.12.2023,fm-U14,floret male-U14,Individual,3343.xml
+522,E,F,I,DEN,C,09.12.2023,,11th Copenhagen Cadet Circuit,Individual,3344.xml
+521,E,M,I,DEN,C,09.12.2023,,11th Copenhagen Cadet Circuit,Individual,3345.xml
+556,E,F,I,DEN,C,10.12.2023,,11th Copenhagen Cadet Circuit,Team,3346.xml
+555,E,M,I,DEN,C,10.12.2023,,11th Copenhagen Cadet Circuit,Team,3347.xml
+95,E,M,I,SVK,C,12.01.2024,,Coupe du Danube 2024,Individual,3348.xml
+96,E,F,I,SVK,C,12.01.2024,,Coupe du Danube 2024,Team,3349.xml
+136,S,F,I,CRO,C,01.03.2012,CADindSF,European Cadet Championships Women's Sabre,Individual,335.xml
+491,F,M,I,SVK,C,13.01.2024,,Coupe du Danube 2024,Individual,3350.xml
+97,E,M,I,SVK,C,13.01.2024,,Coupe du Danube 2024,Team,3352.xml
+923,E,F,Z,GER,S,13.01.2024,E F I Senior,EpÃ©e Dames Individuel Senior,Individual,3353.xml
+461,E,M,Z,GER,S,13.01.2024,E M I Senior,EpÃ©e Hommes Individuel Senior,Individual,3354.xml
+94,E,F,I,SVK,C,14.01.2024,,Coupe du Danube 2024,Individual,3355.xml
+496,F,F,I,POL,C,13.01.2024,,ADAM MICKIEWICZ UNIVERSITY CADET WOMEN'S FOIL CUP 2024,Individual,3357.xml
+514,F,F,I,POL,C,14.01.2024,,ADAM MICKIEWICZ UNIVERSITY CADET WOMEN'S FOIL CUP 2024,Team,3358.xml
+900,S,F,I,ESP,C,14.01.2024,Cadets Circuit Barcelona,Sable Femenino,Individual,3360.xml
+899,S,M,I,ESP,C,13.01.2024,CadetsCircuitBarcelona,Sable Masculino,Individual,3361.xml
+902,S,F,I,ESP,C,13.01.2024,Cadets Circuit Barcelona,Sable Femenino - Equipos,Team,3362.xml
+901,S,M,I,ESP,C,14.01.2024,Cadets Circuit Barcelona,Sable Masculino,Team,3367.xml
+599,S,F,I,ROU,C,27.01.2024,,RIPOSTA CUP SABRE 2024,Team,3368.xml
+589,S,M,I,ROU,C,27.01.2024,,RIPOSTA CUP SABRE 2024,Individual,3369.xml
+133,E,M,I,CRO,C,02.03.2012,CADindEM,European Cadet Championships Men's Epee,Individual,337.xml
+620,E,M,I,SRB,C,27.01.2024,,Novi Sad Open European Cadet Circuit,Individual,3370.xml
+22,E,F,I,SRB,C,27.01.2024,,Novi Sad Open European Cadet Circuit,Team,3371.xml
+457,S,F,I,HUN,U23,27.01.2024,u23nk-in,U23 Women&apos;s Sabre,Individual,3372.xml
+456,S,M,I,HUN,U23,27.01.2024,u23fk-in,U23 Men&apos;s Sabre,Individual,3373.xml
+903,F,M,Z,SWE,C,27.01.2024,F M I U17,Foil Men&#039;s Individual U17,Individual,3375.xml
+598,S,M,I,ROU,C,28.01.2024,,RIPOSTA CUP SABRE 2024,Team,3377.xml
+590,S,F,I,ROU,C,28.01.2024,,RIPOSTA CUP SABRE 2024,Individual,3378.xml
+905,F,M,Z,SWE,C,28.01.2024,F M T U17,Foil Men&#039;s Team U17,Team,3379.xml
+134,F,F,I,CRO,C,02.03.2012,CADindFF,European Cadet Championships Women's Foil,Individual,338.xml
+904,F,F,Z,SWE,C,28.01.2024,F F I U17,Foil Women&#039;s Individual U17,Individual,3380.xml
+21,E,F,I,SRB,C,28.01.2024,,Novi Sad Open European Cadet Circuit,Individual,3381.xml
+621,E,M,I,SRB,C,28.01.2024,,Novi Sad Open European Cadet Circuit,Team,3382.xml
+906,F,F,Z,SWE,C,27.01.2024,F F T U17,Foil Women&#039;s Team U17,Team,3384.xml
+548,F,M,I,SVK,C,14.01.2024,,Coupe du Danube 2024,Team,3385.xml
+932,E,F,I,SRB,U,04.02.2024,,Kup ObiliÄa EFC U14,Individual,3386.xml
+931,E,M,I,SRB,U,04.02.2024,,Kup ObiliÄa EFC U14,Individual,3387.xml
+929,F,M,I,BUL,C,10.02.2024,Cadets Circuit Sofia Foil,menfoilteam,Team,3388.xml
+928,F,F,I,BUL,C,10.02.2024,Cadets Circuit Sofia Foil,Cadets Circuit Sofia Foil,Individual,3389.xml
+132,E,F,I,CRO,C,03.03.2012,CADindEF,European Cadet Championships Women's Epee,Individual,339.xml
+927,F,M,I,BUL,C,11.02.2024,Cadets Circuit Sofia Foil,menfoil,Individual,3390.xml
+930,F,F,I,BUL,C,11.02.2024,Cadets Circuit Sofia Foil,womenfoilteam,Team,3391.xml
+908,S,F,I,CZE,C,11.02.2024,,ECC Prague 2024,Individual,3394.xml
+907,S,M,I,CZE,C,10.02.2024,,ECC Prague 2024,Individual,3395.xml
+910,S,F,I,CZE,C,10.02.2024,,ECC Prague 2024,Team,3396.xml
+909,S,M,I,CZE,C,11.02.2024,,ECC Prague 2024,Team,3398.xml
+41,S,M,,HUN,C,16.10.2010,SMC_fk-in,European Cadet Circuit,Individual,34.xml
+137,S,M,I,CRO,C,03.03.2012,CADindSM,European Cadet Championships Men's Sabre,Individual,340.xml
+586,E,F,M,POL,C,11.02.2024,,EUROPEAN CADET CIRCUIT,Individual,3400.xml
+585,E,M,M,POL,C,10.02.2024,,EUROPEAN CADET CIRCUIT,Individual,3401.xml
+623,E,F,M,POL,C,10.02.2024,,EUROPEAN CADET CIRCUIT,Team,3402.xml
+622,E,M,M,POL,C,11.02.2024,,EUROPEAN CADET CIRCUIT,Team,3403.xml
+133,E,M,I,ITA,C,22.02.2024,,European Cadets Fencing Championships,Individual,3404.xml
+134,F,F,I,ITA,C,22.02.2024,,European Cadets Fencing Championships,Individual,3405.xml
+136,S,F,I,ITA,C,22.02.2024,,European Cadets Fencing Championships,Individual,3406.xml
+132,E,F,I,ITA,C,23.02.2024,,European Cadets Fencing Championships,Individual,3407.xml
+135,F,M,I,ITA,C,23.02.2024,,European Cadets Fencing Championships,Individual,3408.xml
+137,S,M,I,ITA,C,23.02.2024,,European Cadets Fencing Championships,Individual,3409.xml
+350,E,M,I,CRO,J,07.03.2012,JUNindEM,Men's Epee Individual European Junior Championships,Individual,341.xml
+142,S,F,I,ITA,C,24.02.2024,,European Cadets Fencing Championships,Team,3410.xml
+139,E,M,I,ITA,C,24.02.2024,,European Cadets Fencing Championships,Team,3411.xml
+140,F,F,I,ITA,C,24.02.2024,,European Cadets Fencing Championships,Team,3412.xml
+143,S,M,I,ITA,C,25.02.2024,,European Cadets Fencing Championships,Team,3413.xml
+4,F,M,I,Fï¿½d. Franï¿½aise d&apos;Escrime,M15,03.02.2024,Prï¿½ tournoi - Marathon Fleuret U14 Hommes 2024,Challenge CEP- Prï¿½ tournoi - Marathon Fleuret U14 Hommes 2024,Individual,3415.xml
+138,E,F,I,ITA,C,25.02.2024,,European Cadets Fencing Championships,Team,3416.xml
+934,E,F,I,GBR,U,11.02.2024,,Millfield Cup EFC U14,Individual,3417.xml
+933,E,M,I,GBR,U,10.02.2024,,Millfield Cup EFC U14,Individual,3418.xml
+936,F,F,I,GBR,U,10.02.2024,,Millfield Cup EFC U14,Individual,3419.xml
+351,F,F,I,CRO,J,07.03.2012,JUNindFF,Women's Foil Individual European Junior Championships,Individual,342.xml
+935,F,M,I,GBR,U,11.02.2024,,Millfield Cup EFC U14,Individual,3420.xml
+938,S,F,I,GBR,U,11.02.2024,,Millfield Cup EFC U14,Individual,3421.xml
+937,S,M,I,GBR,U,10.02.2024,,Millfield Cup EFC U14,Individual,3422.xml
+141,F,M,I,ITA,C,25.02.2024,,European Cadets Fencing Championships,Team,3423.xml
+350,E,M,I,ITA,J,26.02.2024,,European Juniors Fencing Championships,Individual,3424.xml
+351,F,F,I,ITA,J,26.02.2024,,European Juniors Fencing Championships,Individual,3425.xml
+353,S,F,I,ITA,J,26.02.2024,,European Juniors Fencing Championships,Individual,3426.xml
+349,E,F,I,ITA,J,27.02.2024,,European Juniors Fencing Championships,Individual,3427.xml
+352,F,M,I,ITA,J,27.02.2024,,European Juniors Fencing Championships,Individual,3428.xml
+354,S,M,I,ITA,J,27.02.2024,,European Juniors Fencing Championships,Individual,3429.xml
+353,S,F,I,CRO,J,06.03.2012,JUNindSF,Women's Sabre Individual European Junior Championships,Individual,343.xml
+356,E,M,I,ITA,J,28.02.2024,,European Juniors Fencing Championships,Team,3430.xml
+359,S,F,I,ITA,J,28.02.2024,,European Juniors Fencing Championships,Team,3431.xml
+357,F,F,I,ITA,J,28.02.2024,,European Juniors Fencing Championships,Team,3432.xml
+360,S,M,I,ITA,J,29.02.2024,,European Juniors Fencing Championships,Team,3434.xml
+355,E,F,I,ITA,J,29.02.2024,,European Juniors Fencing Championships,Team,3435.xml
+358,F,M,I,ITA,J,29.02.2024,,European Juniors Fencing Championships,Team,3436.xml
+817,E,F,I,CRO,U,02.03.2024,,EFC U23 Zagreb 2024 - Memorial Vladimir Mazuranic,Individual,3437.xml
+816,E,M,I,CRO,U,03.03.2024,,EFC U23 Zagreb 2024 - Memorial Vladimir Mazuranic,Individual,3438.xml
+924,F,F,I,CRO,U,03.03.2024,,EFC U23 Zagreb 2024 - Memorial Vladimir Mazuranic,Individual,3439.xml
+352,F,M,I,CRO,J,06.03.2012,JUNindFM,Men's Foil Individual European Junior Championships,Individual,344.xml
+836,F,M,I,CRO,U,02.03.2024,,EFC U23 Zagreb 2024 - Memorial Vladimir Mazuranic,Individual,3440.xml
+4,F,F,I,Féd. Française d&apos;Escrime,M15,03.02.2024,Marathon Fleuret U14 Dames 2024,Challenge CEP - Marathon Fleuret U14 Dames 2024,Individual,3444.xml
+963,E,F,I,SUI,S,16.03.2024,,International Lausanne Fencing Challenge ÃpÃ©e,Team,3446.xml
+446,E,M,I,SUI,U,16.03.2024,,International Lausanne Fencing Challenge ÃpÃ©e,Individual,3449.xml
+349,E,F,I,CRO,J,08.03.2012,JUNindEF,Women's Epee Individual European Junior Championships,Individual,345.xml
+730,F,F,I,CRO,U,16.03.2024,,EFC U14 26th Rapir cup 2024,Individual,3450.xml
+729,F,M,I,CRO,U,16.03.2024,,EFC U14 26th Rapir cup 2024,Individual,3451.xml
+447,E,F,I,SUI,U,17.03.2024,,International Lausanne Fencing Challenge ÃpÃ©e,Individual,3452.xml
+962,E,M,I,SUI,S,17.03.2024,,International Lausanne Fencing Challenge ÃpÃ©e,Team,3453.xml
+835,S,F,I,SLO,U23,17.03.2024,U23 C sf,U23 C Kamnik sabre female,Individual,3455.xml
+815,S,M,I,SLO,U23,17.03.2024,U23 C sm,U23 C Kamnik sabre man,Individual,3456.xml
+814,E,M,I,SLO,N,17.03.2024,U23 C mm,U23 C Kamnik epee man,Individual,3457.xml
+459,F,M,I,CZE,U,23.03.2024,,U23 Sokol Cup,Individual,3458.xml
+460,F,F,I,CZE,U,23.03.2024,,U23 Sokol Cup,Individual,3459.xml
+354,S,M,I,CRO,J,01.03.2012,JUNindSM,Men's Sabre Individual European Junior Championships,Individual,346.xml
+593,F,F,I,HUN,B,30.03.2024,wf-in,Women&apos;s Foil Individual,Individual,3468.xml
+551,F,M,I,HUN,B,30.03.2024,mf-in,Men&apos;s Foil Individual,Individual,3469.xml
+840,S,M,I,BUL,C,31.03.2024,U23 C Sofia Men Saber,U23 C Sofia Men Saber,Individual,3470.xml
+841,S,F,I,BUL,N,30.03.2024,U23 C Sofia Women Saber,U23 C Sofia Women Saber,Individual,3471.xml
+838,E,M,I,BUL,U23,30.03.2024,U23 C Sofia Men Epee,U23 C Sofia Men Epee,Individual,3472.xml
+839,E,F,I,BUL,U23,31.03.2024,U23 C Sofia Women Epee,U23 C Sofia Women Epee,Individual,3473.xml
+916,F,F,I,ESP,B,24.03.2024,U14 Circuit Ciudad Real,Florete Femenino,Individual,3476.xml
+915,F,M,I,ESP,B,24.03.2024,FMU14 Circuit Ciudad Real,Florete Masculino,Individual,3477.xml
+736,S,F,I,ESP,B,23.03.2024,SFU14 Circuit Ciudad Real,Sable Femenino,Individual,3478.xml
+735,S,M,I,ESP,B,23.03.2024,SMU14 Circuit Ciudad Real,Sable Masculino,Individual,3479.xml
+511,F,M,,AUT,S,14.04.2012,IM Wien 2012 U23 HFL,U23 European Circuit,Individual,348.xml
+2,F,F,I,,B,24.03.2024,FFE U14 Circuit Ciudad Real,Florete Femenino Equipos,Team,3480.xml
+940,E,F,I,GRE,U14,16.03.2024,European Circuit,,Individual,3484.xml
+939,E,M,I,GRE,U14,16.03.2024,European Circuit,,Individual,3485.xml
+135,E,F,Z,GRE,U14,17.03.2024,European Circuit,,Team,3489.xml
+921999,E,M,Z,GRE,U14,17.03.2024,European Circuit,,Team,3490.xml
+4,F,M,I,,B,24.03.2024,FME U14 Circuit Ciudad Real,Florete masculino equipos,Team,3492.xml
+8,S,F,I,,B,23.03.2024,SFEQU14 Circuit Ciudad Real,Sable femenino equipos,Team,3499.xml
+12,S,M,I,,B,23.03.2024,SMEQU14 Circuit Ciudad Real,Sable Masculino Equipos,Team,3500.xml
+958,S,F,Z,AUT,S,14.04.2024,S F I Senior,Sabre Dames Individuel Senior,Individual,3501.xml
+957,S,M,Z,AUT,S,14.04.2024,S M I Senior,Sabre Hommes Individuel Senior,Individual,3502.xml
+546,E,M,I,HUN,U23,20.04.2024,U23 C Budapest Epee,U23 Men Epée Budapest,Individual,3504.xml
+547,E,F,I,HUN,U23,20.04.2024,U23 C Budapest Epee,U23 Women Epée Budapest,Individual,3506.xml
+912,E,F,I,ROU,U,20.04.2024,,âDUMITRU POPESCUâ MEMORIAL,Individual,3507.xml
+911,E,M,I,ROU,U,21.04.2024,,âDUMITRU POPESCUâ MEMORIAL,Individual,3508.xml
+665,E,F,I,CRO,U,20.04.2024,,EFC U14 OSIJEK FENCING CUP 2024.,Individual,3510.xml
+664,E,M,I,CRO,U,20.04.2024,,EFC U14 OSIJEK FENCING CUP 2024.,Individual,3511.xml
+979,E,F,I,HUN,S,21.04.2024,U23 C Budapest Epee,Women Epée Team Competition,Team,3512.xml
+978,E,M,I,HUN,S,21.04.2024,U23 C Budapest Epee,Men Epée Team Competition,Team,3516.xml
+1080,F,M,I,LUX,S,26.04.2024,,Tournoi europÃ©en de qualification olympique - 6tickets2paris,Individual,3517.xml
+1077,E,F,I,LUX,S,26.04.2024,,Tournoi europÃ©en de qualification olympique - 6tickets2paris,Individual,3518.xml
+684,F,F,I,AUT,S,14.04.2012,IM Wien 2012 U23 DFL,U23 European Circuit,Individual,352.xml
+1079,F,F,I,LUX,S,27.04.2024,,Tournoi europÃ©en de qualification olympique - 6tickets2paris,Individual,3520.xml
+1082,S,M,I,LUX,S,27.04.2024,,Tournoi europÃ©en de qualification olympique - 6tickets2paris,Individual,3521.xml
+870,F,M,I,SRB,U,27.04.2024,,Fence.rs Cup,Individual,3523.xml
+871,F,F,I,SRB,U,27.04.2024,,Fence.rs Cup,Individual,3524.xml
+972,E,F,I,TUR,U,27.04.2024,,"U14 Circuit Antalya Epe, Foil and Saber",Individual,3525.xml
+875,E,M,I,TUR,U,27.04.2024,,"U14 Circuit Antalya Epe, Foil and Saber",Individual,3526.xml
+876,F,F,I,TUR,U,27.04.2024,,"U14 Circuit Antalya Epe, Foil and Saber",Individual,3527.xml
+877,F,M,I,TUR,U,27.04.2024,,"U14 Circuit Antalya Epe, Foil and Saber",Individual,3528.xml
+879,S,F,I,TUR,U,27.04.2024,,"U14 Circuit Antalya Epe, Foil and Saber",Individual,3529.xml
+878,S,M,I,TUR,U,27.04.2024,,"U14 Circuit Antalya Epe, Foil and Saber",Individual,3530.xml
+869,E,F,I,SRB,U,28.04.2024,,Fence.rs Cup,Individual,3531.xml
+868,E,M,I,SRB,U,28.04.2024,,Fence.rs Cup,Individual,3532.xml
+1081,S,F,I,LUX,S,28.04.2024,,Tournoi europÃ©en de qualification olympique - 6tickets2paris,Individual,3533.xml
+1078,E,M,I,LUX,S,28.04.2024,,Tournoi europÃ©en de qualification olympique - 6tickets2paris,Individual,3534.xml
+926,S,F,I,POL,U,18.05.2024,,U14 European Circuit Grodzisk Sabre - Accompanying Tournament U-12 / Jerzy Pawlowski Memorial,Individual,3538.xml
+925,S,M,I,POL,U,18.05.2024,,U14 European Circuit Grodzisk Sabre - Accompanying Tournament U-12 / Jerzy Pawlowski Memorial,Individual,3539.xml
+450,F,F,Z,GER,S,21.04.2012,U23 European Circuit,U23 European Circuit,Individual,354.xml
+734,E,F,I,BUL,,18.05.2024,U14 Circuit Sofia girls,U14 Circuit Sofia girls,Individual,3540.xml
+733,E,M,I,BUL,U23,19.05.2024,U14 Circuit Sofia boys,U14 Circuit Sofia boys,Individual,3541.xml
+848,E,M,I,SUI,U,01.06.2024,,U14 Circuit Lausanne Epee,Individual,3543.xml
+24,F,M,I,,,01.06.2024,Foil of Shumen U14 Men Foil,,Individual,3544.xml
+54,F,F,I,,,01.06.2024,Foil of Shumen U14 Foil Girls,,Individual,3545.xml
+117,F,M,I,TUR,U,01.06.2024,,European U23 Championships,Individual,3546.xml
+116,F,F,I,TUR,U,01.06.2024,,European U23 Championships,Individual,3547.xml
+119,S,M,I,TUR,U,01.06.2024,,European U23 Championships,Individual,3548.xml
+849,E,F,I,SUI,U,02.06.2024,,U14 Circuit Lausanne Epee,Individual,3549.xml
+114,E,F,I,TUR,U,02.06.2024,,European U23 Championships,Individual,3550.xml
+115,E,M,I,TUR,U,02.06.2024,,European U23 Championships,Individual,3551.xml
+118,S,F,I,TUR,U,02.06.2024,,European U23 Championships,Individual,3552.xml
+489,F,F,I,TUR,U,03.06.2024,,European U23 Championships,Team,3554.xml
+485,F,M,I,TUR,U,03.06.2024,,European U23 Championships,Team,3555.xml
+486,S,M,I,TUR,U,03.06.2024,,European U23 Championships,Team,3556.xml
+488,E,F,I,TUR,U,04.06.2024,,European U23 Championships,Team,3557.xml
+484,E,M,I,TUR,U,04.06.2024,,European U23 Championships,Team,3558.xml
+490,S,F,I,TUR,U,04.06.2024,,European U23 Championships,Team,3559.xml
+459,F,M,,CZE,S,05.05.2012,U23 European Circuit,U23 European Circuit,Individual,356.xml
+981,S,M,I,BUL,U23,09.06.2024,Boys Circuit Burgas,Sabre Boys TEAM,Team,3561.xml
+643,S,F,I,BUL,U23,08.06.2024,Girls U14 Circuit Burgas,EFC Sabre Girls U14,Individual,3562.xml
+642,S,M,I,BUL,U23,08.06.2024,Boys U14 Circuit Burgas,EFC Sabre Boys U14,Individual,3563.xml
+982,S,F,I,BUL,U23,09.06.2024,Girls Circuit Burgas,Sabre Girls TEAM,Team,3564.xml
+740,F,F,I,SUI,S,19.06.2024,European Championships,,Individual,3565.xml
+743,S,M,I,SUI,S,19.06.2024,,,Individual,3566.xml
+738,E,F,I,SUI,S,18.06.2024,,,Individual,3567.xml
+741,F,M,I,SUI,S,18.06.2024,,,Individual,3568.xml
+739,E,M,I,SUI,S,20.06.2024,,,Individual,3569.xml
+460,F,F,,CZE,S,05.05.2012,U23 European Circuit WF,U23 European Circuit Women s foil,Individual,357.xml
+742,S,F,I,SUI,S,20.06.2024,,,Individual,3570.xml
+747,F,M,I,SUI,S,21.06.2024,,,Team,3571.xml
+744,E,F,I,SUI,S,21.06.2024,,,Team,3572.xml
+745,E,M,I,SUI,S,22.06.2024,European Championships,,Team,3575.xml
+748,S,F,I,SUI,S,22.06.2024,European Championships,,Team,3576.xml
+746,F,F,I,SUI,S,23.06.2024,European Championships,,Team,3577.xml
+749,S,M,I,SUI,S,23.06.2024,European Championships,,Team,3578.xml
+985,S,M,I,HUN,U23,29.06.2024,U14 EFC Festival Budapest,U14 Men&apos;s Sabre EFC Festival Budapest,Individual,3579.xml
+499,E,M,N,PZS,J,05.05.2012,ind_spm_S,szpada meczyzn indywidualnie kategoria senior,Individual,358.xml
+987,F,F,I,HUN,B,29.06.2024,U14 EFC Festival Budapest,U14 Women&apos;s Foil EFC Festival Budapest,Individual,3580.xml
+986,E,F,I,HUN,B,29.06.2024,U14 EFC Festival Budapest,U14 Women´s Epée Individual,Individual,3581.xml
+983,E,M,I,HUN,U23,30.06.2024,U14 EFC Festival Budapest,U14 Men´s Epée Individual,Individual,3582.xml
+984,F,M,I,HUN,U23,30.06.2024,U14 EFC Festival Budapest,U14 Mens Foil Individual,Individual,3583.xml
+988,S,F,I,HUN,U23,30.06.2024,U14 EFC Festival Budapest,U14 Women&apos;s Sabre EFC Festival Budapest,Individual,3584.xml
+864860,F,F,I,ROU,U,08.09.2024,,Cupa Atlas Invictus Ed. IV-A,Individual,3585.xml
+861437,F,M,I,ROU,U,07.09.2024,,Cupa Atlas Invictus Ed. IV-A,Individual,3586.xml
+119,S,M,,SVK,B,25.05.2012,SMU-in,European U23 Championships Sabre Masculin Individuelle,Individual,359.xml
+98,F,F,I,Slovaquie,C,16.10.2010,Coupe de Samaria,Coupe de Samaria 2010,Individual,36.xml
+114,E,F,,SVK,B,25.05.2012,EFU-in,European U23 Championships Epee Feminine Individuelle,Individual,360.xml
+115,E,M,,SVK,B,25.05.2012,EMU-in,European U23 Championships Epee Masculin individuelle,Individual,361.xml
+116,F,F,,SVK,B,25.05.2012,FFU-in,European U23 Championships Fleuret Feminin Individuel,Individual,362.xml
+117,F,M,,SVK,B,25.05.2012,FMU-in,European U23 Championships Fleuret Masculin Individuel,Individual,363.xml
+118,S,F,,SVK,B,25.05.2012,SFU-in,European U23 Championships Sabre Feminine individuelle,Individual,364.xml
+743,S,M,I,ITA,S,15.06.2012,,Championnats d'Europe,Individual,365.xml
+742,S,F,I,ITA,S,15.06.2012,,Championnats d'Europe,Individual,366.xml
+738,E,F,I,ITA,S,15.06.2012,,Championnats d'Europe,Individual,367.xml
+741,F,M,I,ITA,S,15.06.2012,,Championnats d'Europe,Individual,368.xml
+38,F,M,Z,GER,C,16.10.2010,European Cadet Circuit,European Cadet Circuit,Individual,37.xml
+740,F,F,I,ITA,S,15.06.2012,,Championnats d'Europe,Individual,370.xml
+739,E,M,I,ITA,S,15.06.2012,,Championnats d'Europe,Individual,371.xml
+21,E,F,,SRB,C,22.09.2012,Cadet Circuit,Cadet Circuit,Individual,372.xml
+13,F,F,I,GBR,C,22.09.2012,Women's Foil,Cadet Circuit,Individual,379.xml
+14,F,M,I,GBR,C,22.09.2012,Men's Foil,Cadet Circuit Men's Foil,Individual,381.xml
+17,S,F,,POL,C,21.09.2012,Cadet Circuit,Cadet Circuit,Individual,382.xml
+18,S,M,,POL,C,21.09.2012,Cadet Circuit,Cadet Circuit,Individual,383.xml
+25,E,M,,TUR,C,22.09.2012,EMC-in,Cadet Circuit,Individual,392.xml
+527,E,M,,HUN,C,05.10.2012,EMC-in,Cadet Circuit Epee Masculin,Individual,394.xml
+528,F,M,,HUN,C,05.10.2012,FMC-in,Cadet Circuit Fleuret Masculin,Individual,398.xml
+41,S,M,,HUN,C,06.10.2012,SMC-in,Cadet Circuit,Individual,400.xml
+23,E,F,,SUI,C,06.10.2012,LoL 2012 individ,Lady of the Lake Epee Challenge,Individual,401.xml
+530,F,F,,HUN,C,05.10.2012,FFC-in,Cadet Circuit Fleuret Feminin,Individual,402.xml
+40,S,F,,HUN,C,06.10.2012,SFC-in,Cadet Circuit,Individual,406.xml
+506,S,F,,GEO,S,19.10.2012,U23 European Circuit,U23 European Circuit WS ind,Individual,407.xml
+500,S,M,,GEO,S,19.10.2012,U23 European Circuit,U23 European Circuit MS ind,Individual,408.xml
+48,F,M,,GRE,C,20.10.2012,Cadet Circuit,Cadet Circuit,Individual,409.xml
+97,E,F,I,,,16.10.2010,European Cadet Circuit Cadet female Epee Heidenheim,,Individual,41.xml
+36,F,F,,SVK,C,20.10.2012,Coupe de Samaria 2012,Coupe de Samaria 2012,Individual,411.xml
+50,S,F,,FRA,C,20.10.2012,SFC-in,Cadet Circuit EuroSabre,Individual,412.xml
+51,S,M,,FRA,C,20.10.2012,SMC-in,Cadet Circuit EuroSabre,Individual,413.xml
+494,E,M,,AUT,C,27.10.2012,EMC-inHDE,Cadets Circuit Men Epee,Individual,420.xml
+495,E,F,,AUT,C,27.10.2012,EFC-inDDE,Cadets Circuit Woman Epee,Individual,421.xml
+108,E,F,I,FFE,S,04.11.2012,eds,eds-colmar,Individual,426.xml
+87,E,M,I,FFE,S,04.11.2012,ehs,ehs-colmar,Individual,427.xml
+62,S,F,,BUL,C,10.11.2012,SFC-in,Cadet Circuit,Individual,428.xml
+63,S,M,,BUL,C,10.11.2012,SMC-in,Cadet Circuit,Individual,429.xml
+59,F,M,,AUT,C,10.11.2012,FMC-in,EFC Cadet Circuit boys foil - Moedling 2012,Individual,435.xml
+40,S,F,,HUN,C,17.10.2010,SFC_nk-in,European Cadet Circuit,Individual,44.xml
+1,S,F,I,,C,11.11.2012,Atropolski's_sabre_women,,Team,440.xml
+58,F,F,,AUT,C,11.11.2012,FFC-in,EFC Cadet Circuit girls foil - Moedling 2012,Individual,448.xml
+350,E,M,I,RUS,J,24.10.2010,Epee men,European fencing junior Championships,Individual,45.xml
+32,E,F,Z,GER,C,10.11.2012,Cadet Circuit,Cadet Circuit,Individual,453.xml
+38,F,M,Z,GER,C,24.11.2012,Cadet Circuit,Cadet Circuit,Individual,454.xml
+66,S,F,,RUS,C,24.11.2012,SFC-in,Cadet Circuit,Individual,456.xml
+46,F,F,I,GER,C,24.11.2012,spc2012,Pokal der Sparkasse Tauberfranken 2012,Individual,458.xml
+54,E,F,,FRA,C,24.11.2012,EFC-in,Cadet Circuit,Individual,459.xml
+351,F,F,I,RUS,J,24.10.2010,Foil women,European fencing junior Championships,Individual,46.xml
+67,E,M,I,FFE,C,22.11.2012,121125_ce_ehc,6eme Coupe Europeenne Epee Homme Cadet,Individual,460.xml
+67,S,M,,RUS,C,24.11.2012,SMC-in,Cadet Circuit,Individual,461.xml
+76,S,F,Z,GER,C,08.12.2012,Cadet Circuit,Cadet Circuit,Individual,462.xml
+77,S,M,Z,GER,C,08.12.2012,Cadet Circuit,Cadet Circuit,Individual,463.xml
+710,E,M,I,AUT,S,08.12.2012,EpeeMAK-in,Moedling U23 2012 Men's epee,Individual,464.xml
+532,F,F,,AUT,S,08.12.2012,FFS-in,U23 European Circuit Women's foil,Individual,465.xml
+531,F,M,,AUT,S,09.12.2012,FMS-in,U23 European Circuit MF,Individual,467.xml
+533,E,F,Z,GER,S,08.12.2012,U23 European Circuit,U23 European Circuit,Individual,469.xml
+352,F,M,I,RUS,J,24.10.2010,Foil men,European fencing junior Championships,Individual,47.xml
+522,E,F,Z,DEN,C,08.12.2012,Cadet Circuit,Cadet Circuit,Individual,472.xml
+521,E,M,Z,DEN,C,08.12.2012,Cadet Circuit,Cadet Circuit,Individual,473.xml
+346,F,M,I,FFE,C,08.12.2012,FHC_10CM,FLEURET HOMMES INDIVIDUEL,Individual,475.xml
+161,F,F,I,FFE,C,08.12.2012,FDC_10CM,FLEURET DAMES CADETS,Individual,476.xml
+442,S,M,Z,GER,S,15.12.2012,U23 European Circuit ,U23 European Circuit ,Individual,477.xml
+353,S,F,I,RUS,J,24.10.2010,Sabre women,European fencing junior Championships,Individual,48.xml
+358,F,M,I,RUS,J,24.10.2010,Foil men teams,European fencing junior Championships,Team,49.xml
+503,S,F,N,PZS,J,08.12.2012,ind_sbk_S,szabla kobiet indywidualnie kategoria senior,Individual,499.xml
+359,S,F,I,RUS,J,24.10.2010,Sabre women teams,European fencing junior Championships,Team,50.xml
+55,E,F,I,FRA,C,24.11.2012,EFC-eq,Cadet Circuit,Team,501.xml
+34,E,M,Z,GER,C,10.11.2012,Cadet Circuit,Cadet Circuit,Individual,502.xml
+502,S,M,N,PZS,J,08.12.2012,ind_sbm_S,szabla mezczyzn indywidualnie kategoria senior,Individual,507.xml
+443,S,F,Z,GER,S,15.12.2012,U23 European Circuit ,U23 European Circuit ,Individual,508.xml
+48,F,M,,GRE,C,30.10.2010,FMC-in,European Cadet Circuit,Individual,51.xml
+91,S,M,,GBR,C,12.01.2013,Men's Sabre,Men's Sabre,Individual,534.xml
+94,E,F,,SVK,C,12.01.2013,EFC CD 2013,Cadet Circuit CD 2013 EFC,Individual,535.xml
+95,E,M,,SVK,C,12.01.2013,EMC-in,Cadet Circuit CD 2013 EMC,Individual,536.xml
+496,F,F,,POL,C,12.01.2013,Cadet Circuit,Cadet Circuit,Individual,537.xml
+90,S,F,,GBR,C,12.01.2013,Women's Sabre,Women's Sabre,Individual,538.xml
+491,F,M,,SVK,C,12.01.2013,FMC-in,Cadet Circuit FMC CD 2013 Bratislava,Individual,539.xml
+464,F,M,Z,GER,S,12.01.2013,U23 European Circuit,U23 European Circuit,Individual,541.xml
+93,S,M,I,GBR,C,12.01.2013,Men's Team Sabre,Men's Team Sabre,Team,542.xml
+92,S,F,I,GBR,C,12.01.2013,Women's Team Sabre,Women's Team Sabre,Team,543.xml
+5,F,M,I,GRE,C,31.10.2010,FMC-eq,European Cadet Circuit par Equipes,Team,55.xml
+86,S,F,,ISL,C,26.01.2013,European Cadet Circuit WS,Cadet Circuit,Individual,551.xml
+87,S,M,,ISL,C,26.01.2013,European Cadet Circuit MS,Cadet Circuit,Individual,553.xml
+101,F,M,I,,C,27.01.2013,2013-01-27-T,Cadet Circuit,Team,556.xml
+98,F,F,,ROU,C,26.01.2013,FFC-in,Cadet Circuit,Individual,560.xml
+100,F,M,I,POL,C,26.01.2013,2013-01-26-I,Cadet Circuit,Individual,561.xml
+439,F,F,,ITA,S,26.01.2013,U23 European Circuit,U23 European Circuit,Individual,562.xml
+438,F,M,,ITA,S,26.01.2013,U23 European Circuit,U23 European Circuit,Individual,563.xml
+519,S,F,,ITA,S,26.01.2013,U23 European Circuit,U23 European Circuit,Individual,564.xml
+510,E,F,I,ITA,S,26.01.2013,EF-23EC,U23 European Circuit EF,Individual,566.xml
+518,S,M,,ITA,S,26.01.2013,U23 European Circuit,U23 European Circuit,Individual,567.xml
+509,E,M,I,ITA,S,27.01.2013,EM-23EC,U23 European Circuit EM,Individual,581.xml
+70,E,F,,SWE,C,02.02.2013,EFC-in,Cadet Circuit VIGOR CHALLENGE,Individual,595.xml
+64,E,F,,,C,,EEC DDK 09,Modling EFC DDK 09,Individual,6.xml
+71,E,M,,SWE,C,02.02.2013,EMC-in,Cadet Circuit,Individual,600.xml
+525,S,M,,OFV,C,09.02.2013,SMC-in,Europen Cadet Circuit Men's Sabre,Individual,602.xml
+523,E,M,,POL,C,09.02.2013,Cadet Circuit,Cadet Circuit,Individual,603.xml
+83,F,M,,ITA,C,09.02.2013,FMC-in,Cadet Circuit,Individual,604.xml
+82,F,F,,ITA,C,09.02.2013,FFC-in,Cadet Circuit,Individual,606.xml
+524,E,F,,POL,C,09.02.2013,Cadet Circuit,Cadet Circuit,Individual,607.xml
+461,E,M,Z,GER,S,09.02.2013,U23 European Circuit,U23 European Circuit,Individual,608.xml
+526,S,F,,OFV,C,10.02.2013,SFC-in,ECC Women's Sabre 2013,Individual,623.xml
+44,E,F,,AUT,C,30.10.2010,EFC-in,European Cadet Circuit,Individual,63.xml
+504,M,M,Z,POL,S,05.01.2013,U23 European Circuit,U23 European Circuit,Individual,634.xml
+505,F,F,Z,POL,S,05.01.2013,U23 European Circuit,U23 European Circuit,Individual,635.xml
+135,F,M,I,HUN,C,26.02.2013,FMC-in,European Cadet Championships Fleuret masculin,Individual,636.xml
+136,S,F,N,HUN,C,26.02.2013,SFC-in,European Cadet Championships Sabre Feminine,Individual,637.xml
+133,E,M,I,HUN,C,26.02.2013,CHP_EMC-in,European Cadet Championships Epee Masculin,Individual,638.xml
+45,E,M,,AUT,C,31.10.2010,EMC-in,European Cadet Circuit,Individual,64.xml
+132,E,F,I,HUN,C,26.02.2013,CHP_EU_EFC-in,European Cadet Championships Epee Feminin Cadettes,Individual,645.xml
+137,S,M,I,HUN,C,26.02.2013,CHP-EU_SMC-in,European Cadet Championships Sabre Masculin Cadets,Individual,646.xml
+134,F,F,I,HUN,C,26.02.2013,CHP FFC-in,European Cadet Championships Fleuret Feminin Cadette,Individual,648.xml
+535,S,F,,AUT,S,20.04.2013,U23 IM Wien 2013 DS,U23 European Circuit IM Wien 2013 DS,Individual,651.xml
+534,S,M,,AUT,S,20.04.2013,IM Wien 2013 U23 HS,U23 European Circuit Internationale Meisterschaften von Wien 2013 men s sabre,Individual,652.xml
+349,E,F,I,HUN,J,05.03.2013,CHP EU EFJ-in,Championnats d'Europe juniors Epee Feminine individuele,Individual,653.xml
+350,E,M,I,HUN,J,04.03.2013,CHP_EU_EMJ-in,Championnats d'Europe juniors Epee Masculin Juniors individuel,Individual,654.xml
+351,F,F,I,HUN,J,04.03.2013,FFJ-in,Championnats d'Europe Juniors Fleuret Feminen Juniors individuel,Individual,655.xml
+353,S,F,I,HUN,J,03.03.2013,CHP_EU_SFJ-in,Championnats d'Europe Sabre Feminin Juniors,Individual,656.xml
+354,S,M,I,HUN,J,05.03.2013,CHP EU SMJ-in,Championnats d'Europe juniors Sabre Masculin Individuel,Individual,657.xml
+1,S,F,I,FFE,C,30.10.2010,eurosabre SD,eurosabre SD,Individual,66.xml
+355,E,F,I,HUN,J,07.03.2013,CHP EU EFJ-eq,Championnats d'Europe juniors-Team Epee Feminine,Team,660.xml
+356,E,M,I,HUN,J,06.03.2013,CHP EU EMJ-eq,Championnats d'Europe juniors-Team Epee Masculin,Team,661.xml
+357,F,F,I,HUN,J,07.03.2013,CHP EU FFJ-eq,Championnats d'Europe juniors-Team Fleuret Feminin,Team,662.xml
+358,F,M,I,HUN,J,06.03.2013,CHP EU FMJ-eq,Championnats d'Europe juniors-Team Fleuret Masculin,Team,663.xml
+359,S,F,I,HUN,J,06.03.2013,CHP EU SFJ-eq,Championnats d'Europe juniors-Team Sabre Feminin,Team,664.xml
+360,S,M,I,HUN,J,07.03.2013,CHP EU SMJ-eq,Championnats d'Europe juniors-Team Sabre Masculin,Team,665.xml
+138,E,F,,HUN,C,26.02.2013,CHP EU EFC-eq,European Cadet Championships Epee Feminine Cadettes par equipes,Team,666.xml
+139,E,M,I,HUN,C,26.02.2013,CHP EU EMC-eq,European Cadet Championships Epee Masculin Cadets par Equipes,Team,667.xml
+142,S,F,I,HUN,C,26.02.2013,CHP EU SFC-eq,European Cadet Championships Sabre Feminin Cadettes equipes,Team,668.xml
+352,F,M,I,HUN,J,03.03.2013,CHP_EU_FMJ-in,Championnats d'Europe Fleuret Masculin juniors,Individual,669.xml
+49,F,M,I,GRE,C,20.10.2012,Cadet Circuit Team,Cadet Circuit,Team,671.xml
+140,F,F,I,HUN,C,26.02.2013,CHP FFC-eq,European Cadet Championships Fleuret Feminin Cadets par equipes,Team,672.xml
+141,F,M,I,HUN,C,26.02.2013,CHP EU FMC-eq,European Cadet Championships Fleuret Masculin par equipes,Team,673.xml
+143,S,M,I,HUN,C,26.02.2013,CHP_EU_SMC-eq,European Cadet Championships Sabre Masculin Cadets,Team,674.xml
+450,F,F,Z,GER,S,27.04.2013,U23  European Circuit,U23  European Circuit,Individual,675.xml
+459,F,M,I,CZE,S,04.05.2013,U23 European Circuit FH SC 2013,U23 European Circuit FH SC 2013,Individual,676.xml
+460,F,F,,CZE,S,05.05.2013,U23 European Circuit FF,U23 European Circuit FF,Individual,677.xml
+513,E,F,,POL,S,11.05.2013,U23 European Circuit EF,U23 European Circuit EF,Individual,678.xml
+99,S,M,I,FFE,C,30.10.2010,EUROSABRE 2010,European Cadet Circuit,Individual,68.xml
+499,E,M,N,POL,S,18.05.2013,U23 European Circuit,U23 European Circuit,Individual,681.xml
+114,E,F,I,POL,U23,05.06.2013,WE,European U23 Championships,Individual,682.xml
+119,S,M,I,POL,U23,05.06.2013,MS,European U23 Championships,Individual,683.xml
+118,S,F,I,POL,U23,07.06.2013,WS,European U23 Championships,Individual,687.xml
+488,E,F,I,,U23,08.06.2013,WET,European U23 Championships,Team,690.xml
+486,E,M,I,,U23,08.06.2013,MST,European U23 Championships,Team,691.xml
+489,F,F,I,,U23,08.06.2013,WFT,European U23 Championships,Team,692.xml
+484,E,M,I,,U23,09.06.2013,MET,European U23 Championships,Team,693.xml
+490,S,F,I,,U23,09.06.2013,WST,European U23 Championships,Team,694.xml
+485,F,M,I,,U23,09.06.2013,MFT,European U23 Championships,Team,695.xml
+739,E,M,I,CRO,S,16.06.2013,EMS-in,Championnats d'Europe Epee Masculin,Individual,696.xml
+741,F,M,I,CRO,S,16.06.2013,FMS-in,Championnats d'Europe Fleuret Masculin ndividual,Individual,697.xml
+740,F,F,I,CRO,S,16.06.2013,FFS-in,Championnats d'Europe,Individual,698.xml
+742,S,F,I,CRO,S,16.06.2013,SFS-in,Championnats d'Europe Sabre Feminin Individual,Individual,699.xml
+72,E,F,I,,C,11.12.2009,Challenge Cadette,Grenoble EFC,Individual,7.xml
+356,E,M,I,RUS,J,24.10.2010,Epee men teams,European fencing junior Championships,Team,70.xml
+745,E,M,I,CRO,S,16.06.2013,EMS-eq,Championnats d'Europe Epee Masculine Equipe,Team,700.xml
+746,F,F,I,CRO,S,16.06.2013,FFS-eq,Championnats d'Europe Fleuret Feminine Equipe,Team,702.xml
+738,E,F,I,CRO,S,16.06.2013,EFS-in,Championnats d'Europe Epee Feminin Individuelle,Individual,703.xml
+743,S,M,I,CRO,S,16.06.2013,SMS-in,Championnats d'Europe Sabre Masculin Individuel,Individual,704.xml
+747,F,M,I,CRO,S,16.06.2013,FMS-eq,Championnats d'Europe Fleuret Masculin Equipe,Team,706.xml
+748,S,F,I,CRO,S,16.06.2013,SFS-eq,Championnats d'Europe Sabre Feminine Equipe,Team,707.xml
+744,E,F,I,CRO,S,16.06.2013,EFS-eq,Championnats d'Europe Epee Feminine par Equipe,Team,710.xml
+749,S,M,I,CRO,S,16.06.2013,SMS-eq,Championnats d'Europe Sabre Masculin par Equipe,Team,711.xml
+21,E,F,,SRB,C,21.09.2013,CC,Zrenjanin Open 2013,Individual,712.xml
+25,E,M,,TUR,C,21.09.2013,EMC-in,Cadet Circuit,Individual,713.xml
+13,F,F,I,GBR,C,21.09.2013,Women's Foil,Cadet Circuit,Individual,714.xml
+14,F,M,I,GBR,C,21.09.2013,Men's Foil,Cadet Circuit,Individual,715.xml
+19,S,F,,POL,C,21.09.2013,SFC-eq druz szb kob,Cadet Circuit druz szb kob,Team,718.xml
+20,S,M,,POL,C,21.09.2013,SMC-eq druz szb mez,Cadet Circuit druz szb mez,Team,719.xml
+17,S,F,,POL,C,21.09.2013,SFC-in PEK SZB.KOB,Cadet Circuit PUCHAR EUROPY KADETEK SZB.KOB,Individual,720.xml
+18,S,M,,POL,C,21.09.2013,SMC-in PEK SZB MEZ,Cadet Circuit PEK SZB MEZ,Individual,721.xml
+527,E,M,I,HUN,C,04.10.2013,EMC-in,Cadet Circuit Epee Masculin,Individual,722.xml
+41,S,M,,HUN,C,05.10.2013,SMC-in,Cadet Circuit Sabre Masculin,Individual,725.xml
+528,F,M,I,HUN,C,04.10.2013,FMC-in,Cadet Circuit Fleuret Masculin,Individual,726.xml
+40,S,F,,HUN,C,05.10.2013,SFC-in,Cadet Circuit Sabre Feminin,Individual,727.xml
+354,S,M,I,RUS,J,24.10.2010,Sabre men,European fencing junior Championships,Individual,73.xml
+530,F,F,I,HUN,C,06.10.2013,FFC-in,Cadet Circuit Fleuret Feminin,Individual,730.xml
+42,S,F,,HUN,C,05.10.2013,SFC-eq,Cadet Circuit,Team,731.xml
+43,S,M,,HUN,C,07.10.2013,SMC-eq,Cadet Circuit,Team,732.xml
+23,E,F,,SUI,C,12.10.2013,EFC-in,Cadet Circuit,Individual,733.xml
+48,F,M,,GRE,C,19.10.2013,FLORINA EUROCUP,Cadet Circuit,Individual,734.xml
+50,S,F,,FRA,C,19.10.2013,SFC-In,Cadet Circuit - Eurosabre - Sabre Dame Individuel,Individual,735.xml
+51,S,M,,FRA,C,19.10.2013,SMC-in,Cadet Circuit - Eurosabre - Sabre Homme Individuel,Individual,736.xml
+30,F,F,I,Slovak,C,19.10.2013,Coupe de Samaria 2013,Coupe de Samaria 2013,Individual,737.xml
+1722,E,F,I,HUN,S,20.10.2013,noi_pbt_20,Felnott noi parbajtor valogato,Individual,740.xml
+1721,E,M,I,HUN,S,20.10.2013,ffi_pbt_20,Felnott ferfi parbajtor valogato,Individual,741.xml
+90,S,M,I,FFE,C,20.10.2013,Eurosabre Hommes Equipes,Eurosabre Hommes Equipes,Team,747.xml
+494,E,M,,AUT,C,26.10.2013,EMC-in,European Cadets Circuit 26. 10. 2013 Men E. Ind.,Individual,754.xml
+495,E,F,,AUT,C,26.10.2013,EFC-in,European Cadets Circuit 27.10.2013 Woman E. Ind.,Individual,756.xml
+115,E,M,I,POL,U23,06.06.2013,ME,European U23 Championships,Individual,758.xml
+59,F,M,,AUT,C,13.11.2010,European Cadet Circuit,European Cadet Circuit,Individual,76.xml
+117,F,M,I,POL,U23,07.06.2013,MF,European U23 Championships,Individual,760.xml
+116,F,F,I,POL,U23,06.06.2013,WF,European U23 Championships,Individual,761.xml
+537,E,F,,AUT,C,26.10.2013,EFC-eq,European Cadets Circuit Women s Epee Teams,Team,764.xml
+44,E,F,I,FFE,S,03.11.2013,eds-colmar,eds-colmar,Individual,765.xml
+49,E,M,I,FFE,S,03.11.2013,ehs-colmar,ehs-colmar,Individual,771.xml
+537,E,F,,AUT,C,26.10.2013,EFC-eq,European Cadets Circuit Women s Epee Teams,Team,772.xml
+48,F,F,I,Slovaque,C,20.10.2013,Coupe de Samaria 2013,Coupe de Samaria 2013,Team,778.xml
+58,F,F,,AUT,C,13.11.2010,European Cadet Circuit,European Cadet Circuit,Individual,78.xml
+34,E,M,I,GER,C,09.11.2013,Cadet Circuit,Cadet Circuit,Individual,782.xml
+63,S,M,,BUL,C,09.11.2013,SMC-in,Cadet Circuit,Individual,783.xml
+69,,F,I,FFE,,19.10.2013,equipe SD,eurosabre equipe dame sabre cadet,Team,784.xml
+62,S,F,,BUL,C,09.11.2013,SFC-in,Cadet Circuit,Individual,788.xml
+32,E,F,Z,GER,C,09.11.2013,Cadet Circuit - HARTMANN-CUP,Cadet Circuit - HARTMANN-CUP,Individual,794.xml
+538,F,M,,AUT,C,09.11.2013,FMC-in,Cadet Circuit Men's Foil Moedling 2013,Individual,796.xml
+65,S,M,,BUL,C,09.11.2013,SMC-eq,Cadet Circuit,Team,799.xml
+743,S,M,I,GER,S,16.07.2010,,Championnats d'Europe,Individual,8.xml
+64,S,F,,BUL,C,09.11.2013,SFC-eq,Cadet Circuit,Team,800.xml
+539,F,F,,AUT,C,10.11.2013,FFC-in,Cadet Circuit Women's foil Moedling 2013,Individual,801.xml
+38,F,M,Z,GER,C,23.11.2013,Cadet Circuit,Cadet Circuit,Individual,812.xml
+165,E,M,I,FFE,C,23.11.2012,131123_ce_ehc,7eme Coupe Europeenne Epee Homme Cadet,Individual,814.xml
+46,F,F,,GER,C,23.11.2013,spc2013,Pokal der Sparkasse Tauberfranken 2013,Individual,816.xml
+1,,M,I,FFE,B,23.11.2013,,,Team,817.xml
+66,S,F,,RUS,C,23.11.2013,SFC-in,Cadet Circuit,Individual,818.xml
+67,S,M,,RUS,C,23.11.2013,SMC-in,Cadet Circuit,Individual,819.xml
+35,E,M,I,,,10.11.2013,A-Jugend 2013,A-jugend Mannschaft Bonn 2013,Team,820.xml
+54,E,F,N,FRA,C,23.11.2013,EFC-in,Cadet Circuit,Individual,821.xml
+55,E,F,I,FRA,C,23.11.2013,EFC-eq,Cadet Circuit,Team,822.xml
+76,S,F,Z,GER,C,07.12.2013,Cadet Circuit,Cadet Circuit,Individual,823.xml
+79,S,M,Z,GER,C,07.12.2013,Cadet Circuit,Cadet Circuit,Team,825.xml
+503,S,F,N,PZS,J,07.12.2013,ind_sbk_S,szabla kobiet indywidualnie kategoria senior,Individual,827.xml
+502,S,M,N,PZS,J,07.12.2013,ind_sbm_S,szabla meczyzn indywidualnie kategoria senior,Individual,829.xml
+21,S,F,I,Bulgaria,C,14.11.2010,Women Sabre Individual,European Cadet Circuit,Individual,83.xml
+533,E,F,Z,GER,U,07.12.2013,U23 European Circuit,RNO um den Geuder-Cup,Individual,830.xml
+77,S,M,Z,GER,C,07.12.2013,Cadet Circuit,Cadet Circuit,Individual,831.xml
+532,F,F,,AUT,S,07.12.2013,FFS-in,U23 European Circuit women's foil,Individual,832.xml
+109,F,F,I,FFE,C,07.12.2013,11CM_FDC,,Individual,834.xml
+77,F,M,I,FFE,C,07.12.2013,FHC_11CM,,Individual,835.xml
+531,F,M,,AUT,S,07.12.2013,FMS-in,U23 European Circuit men's foil,Individual,836.xml
+507,E,M,,AUT,S,07.12.2013,EMS-in,U23 European Circuit men's epee,Individual,837.xml
+521,E,M,Z,DEN,C,07.12.2013,Cadet Circuit,Cadet Circuit,Individual,839.xml
+35,S,M,I,Bulgaria,C,13.11.2010,Men sabre Individual,Etropolski's sabre 2010 men sabre (individual),Individual,84.xml
+28,F,M,I,FFE,C,07.12.2013,11CM_FDC_equip,,Team,840.xml
+1,F,M,I,FFE,C,07.12.2013,11CM_FHC_equip,,Team,842.xml
+522,E,F,Z,DEN,C,07.12.2013,Cadet Circuit,Cadet Circuit,Individual,843.xml
+496,F,F,,POL,C,11.01.2014,Cadet Circuit,Cadet Circuit,Individual,845.xml
+94,E,F,,SVK,C,11.01.2014,EFC-in,Cadet Circuit EFC-in,Individual,846.xml
+540,S,M,,AUT,C,11.01.2014,SMC-in,Cadet Circuit Men's Sabre,Individual,849.xml
+349,E,F,I,RUS,J,24.10.2010,Epee women,European fencing junior Championships,Individual,85.xml
+491,F,M,,SVK,C,11.01.2014,FMC-in,Cadet Circuit FMC,Individual,852.xml
+464,F,M,Z,GER,U,11.01.2014,U23 European Circuit,U23 European Circuit,Individual,853.xml
+95,E,M,,SVK,C,11.01.2014,EMC-in,Cadet Circuit EMC-in,Individual,854.xml
+541,S,F,,AUT,C,12.01.2014,SFC-in,Cadet Circuit Sabre Women,Individual,855.xml
+548,F,M,,SVK,C,11.01.2014,FMC-eq,Cadet Circuit FMC-eq,Team,856.xml
+200,F,M,I,PZS,S,05.01.2014,ind_flm_S,floret meczyzn indywidualnie kategoria senior,Individual,860.xml
+285,F,F,I,PZS,S,05.01.2014,ind_flk_S,floret kobiet indywidualnie kategoria senior,Individual,861.xml
+543,F,F,,ITA,C,25.01.2014,FFC-in,Cadet Circuit,Individual,862.xml
+542,F,M,,ITA,C,25.01.2014,FMC-in,Cadet Circuit,Individual,866.xml
+510,E,F,,ITA,,25.01.2014,U23 European Circuit EF,U23 European Circuit EF,Individual,867.xml
+509,E,M,,ITA,,26.01.2014,U23 European Circuit EM,U23 European Circuit EM,Individual,868.xml
+7,,F,I,,,,WST,Women's Cadet Team Sabre,Team,869.xml
+2,S,M,I,,,,MST,Men's Cadet Team Sabre,Team,874.xml
+90,S,F,I,GBR,C,25.01.2014,WS,Women's Cadet Sabre,Individual,875.xml
+91,S,M,I,GBR,C,25.01.2014,MS,Men's Cadet Sabre,Individual,876.xml
+457,S,F,,HUN,,26.01.2014,SFU-in,U23 European Circuit,Individual,877.xml
+456,S,M,,HUN,,26.01.2014,SMU-in,U23 European Circuit,Individual,878.xml
+70,E,F,,SWE,C,01.02.2014,EFC-in,Cadet Circuit,Individual,879.xml
+34,E,M,Z,GER,C,13.11.2010,European Cadet Circuit,European Cadet Circuit,Individual,88.xml
+71,E,M,,SWE,C,01.02.2014,EMC-in,Cadet Circuit,Individual,880.xml
+544,S,M,,GEO,C,08.02.2014,Cadet Circuit SMC,Cadet Circuit SMC Tbilisi,Individual,881.xml
+5,S,F,I,GFF,C,08.02.2014,Cadets Circuit SFC Teams,Cadets Circuit SFC Teams,Team,882.xml
+524,E,F,I,POL,C,09.02.2014,2014-02-09 www.mask-sport.eu,"European Cadet Circuit, Wawel Dragon Trophy - Womens Epee ",Individual,895.xml
+545,S,F,,GEO,C,08.02.2014,Cadet Circuit SFC,Cadet Circuit SFC,Individual,896.xml
+549,S,M,,GEO,C,08.02.2014,Cadet Circuit SMC Teams,Cadet Circuit SMC Teams,Team,897.xml
+101,F,M,I,POL,C,09.02.2014,2014-02-09 www.mask-sport.eu,"European Cadet Circuit, V Golden Team Cup Tournament - Men's foil team",Team,898.xml
+740,F,F,I,GER,S,16.07.2010,,Championnats d'Europe,Individual,9.xml
+457,S,F,,HUN,,27.11.2010,European U23 Circuit,European U23 Circuit,Individual,90.xml
+461,E,M,Z,GER,U,08.02.2014,U23 European Circuit - Weisser Baer,U23 European Circuit - Weisser Baer,Individual,900.xml
+523,E,M,I,POL,C,08.02.2014,2014-02-08 www.mask-sport.eu,"European Cadet Circuit, Wawel Dragon Trophy - Boy's Epee",Individual,902.xml
+100,F,M,I,POL,C,08.02.2014,2014-02-08 www.mask-sport.eu,"European Cadet Circuit, VII Witold Woyda`s Foil Tournament - Mens foil",Individual,904.xml
+98,F,F,,ROU,C,08.02.2014,FFC-in,Cadet Circuit,Individual,905.xml
+99,F,F,,ROU,C,08.02.2014,FFC-eq,Cadet Circuit,Team,906.xml
+136,S,F,I,ISR,B,23.02.2014,2014-02-23-CWS,European Cadet Championships,Individual,908.xml
+135,F,M,I,ISR,B,23.02.2014,2014-02-23-CMF,European Cadet Championships,Individual,909.xml
+133,E,M,I,ISR,B,24.02.2014,2014-02-24-CME,European Cadet Championships,Individual,911.xml
+134,F,F,I,ISR,B,24.02.2014,2014-02-24-CWF,European Cadet Championships,Individual,912.xml
+132,E,F,I,ISR,B,25.02.2014,2014-02-25-CWE,European Cadet Championships,Individual,913.xml
+137,S,M,I,ISR,B,25.02.2014,2014-02-25-CMS,European Cadet Championships,Individual,916.xml
+141,F,M,I,ISR,B,26.02.2014,2014-02-26-CMFT,European Cadet Championships,Team,917.xml
+142,S,F,I,ISR,B,26.02.2014,2014-02-26-CWST,European Cadet Championships,Team,918.xml
+139,E,M,I,ISR,B,26.02.2014,2014-02-26-CMET,European Cadet Championships,Team,919.xml
+456,S,M,,HUN,,27.11.2010,2010BSE_SMU-in,European U23 Circuit,Individual,92.xml
+140,F,F,I,ISR,B,27.02.2014,2014-02-27-CWFT,European Cadet Championships,Team,920.xml
+143,S,M,I,ISR,B,27.02.2014,2014-02-27-CMST,European Cadet Championships,Team,921.xml
+138,E,F,I,ISR,B,27.02.2014,2014-02-27-CWET,European Cadet Championships,Team,922.xml
+350,E,M,I,ISR,J,01.03.2014,2014-03-01-JME,European Junior Championships,Individual,923.xml
+351,F,F,I,ISR,J,01.03.2014,2014-03-01-JWF,European Junior Championships,Individual,925.xml
+352,F,M,I,ISR,J,28.02.2014,2014-02-28-JMF,European Junior Championships,Individual,926.xml
+353,S,F,I,ISR,J,28.02.2014,2014-02-28-JWS,European Junior Championships,Individual,927.xml
+54,E,F,,FRA,C,27.11.2010,EFC-in,European Cadet Circuit,Individual,93.xml
+349,E,F,I,ISR,J,02.03.2014,2014-03-02-JWE,European Junior Championships,Individual,930.xml
+354,S,M,I,ISR,J,02.03.2014,2014-03-02-JMS,European Junior Championships,Individual,932.xml
+130,S,F,I,ISR,J,03.03.2014,2014-03-03-JWST,European Junior Championships Teams,Team,934.xml
+129,F,M,I,ISR,J,03.03.2014,2014-03-03-JMFT,European Junior Championships Teams,Team,935.xml
+127,E,M,I,ISR,J,03.03.2014,2014-03-03-JMET,European Junior Championships Teams,Team,939.xml
+46,F,F,,GER,C,27.11.2010,spc2010,Sparkassen-Cup 2010,Individual,94.xml
+126,E,F,I,ISR,J,04.03.2014,2014-03-04-JWET,European Junior Championships Teams,Team,940.xml
+131,S,M,I,ISR,J,04.03.2014,2014-03-04-JMST,European Junior Championships Teams,Team,941.xml
+128,F,F,I,ISR,J,04.03.2014,2014-03-04-JWFT,European Junior Championships Teams,Team,942.xml
+519,S,F,,ITA,,08.03.2014,U23 European Circuit,U23 European Circuit,Individual,943.xml
+438,F,M,,ITA,,08.03.2014,U23 European Circuit,U23 European Circuit,Individual,944.xml
+439,F,F,,ITA,,08.03.2014,U23 European Circuit,U23 European Circuit,Individual,945.xml
+518,S,M,,ITA,,08.03.2014,U23 European Circuit,U23 European Circuit,Individual,946.xml
+551,F,M,,HUN,,19.04.2014,140419 - U23FT,U23 European Circuit - Men's Foil,Individual,947.xml
+450,F,F,Z,GER,U,26.04.2014,U23 European Circuit,U23 European Circuit,Individual,948.xml
+513,E,F,N,POL,U-23,10.05.2014,2014-05-10,U23 European Circuit - Puchar Polski IV - szpada kobiet,Individual,949.xml
+170,E,M,I,FFE,C,28.11.2010,101128_CE_EHC,4eme Coupe Europeenne Epee Masculine Cadet,Individual,95.xml
+451,F,M,,CZE,B,10.05.2014,U23 European Circuit,U23 European Circuit,Individual,950.xml
+452,F,F,,CZE,B,10.05.2014,U23 European Circuit,U23 European Circuit,Individual,951.xml
+535,S,F,,AUT,E,03.05.2014,IM Wien 2014 DS,U23 European Circuit IM Wien 2014,Individual,952.xml
+534,S,M,,AUT,,03.05.2014,IM Wien 2014 HS,U23 European Circuit IM Wien 2014 HS,Individual,953.xml
+499,E,M,,POL,J,17.05.2014,U23 European Circuit,U23 European Circuit,Individual,954.xml
+738,E,F,I,FRA,S,08.06.2014,2014-06-08-WE,Championnats d`Europe,Individual,955.xml
+739,E,M,I,FRA,S,07.06.2014,2014-06-07-ME,Championnats d`Europe,Individual,956.xml
+741,F,M,I,FRA,S,09.06.2014,2014-06-09-MF,Championnats d`Europe,Individual,957.xml
+742,S,F,I,FRA,S,09.06.2014,2014-06-09-WS,Championnats d`Europe,Individual,958.xml
+743,S,M,I,FRA,S,10.06.2014,2014-06-10-MS,Championnats d`Europe,Individual,960.xml
+745,E,M,I,FRA,S,11.06.2014,2014-06-11-MET,Championnats d`Europe,Team,961.xml
+744,E,F,I,FRA,S,12.06.2014,2014-06-12-WET,Championnats d`Europe,Team,962.xml
+740,F,F,I,FRA,S,10.06.2014,2014-06-10-WF,Championnats d`Europe,Individual,963.xml
+748,S,F,I,FRA,S,13.06.2014,2014-06-13-WST,Championnats d`Europe,Team,964.xml
+747,F,M,I,FRA,S,13.06.2014,2014-06-13-MFT,Championnats d`Europe,Team,965.xml
+746,F,F,I,FRA,S,14.06.2014,2014-06-14-WFT,Championnats d`Europe,Team,966.xml
+749,S,M,I,FRA,S,14.06.2014,2014-06-14-MST,Championnats d`Europe,Team,967.xml
+114,E,F,I,GEO,U-23,24.06.2014,2014-06-24-WE,U23 European Championships,Individual,968.xml
+119,S,M,I,GEO,U-23,24.06.2014,2014-06-24-MS,U23 European Championships,Individual,969.xml
+66,S,F,,RUS,C,27.11.2010,SFC-in,European Cadet Circuit,Individual,97.xml
+115,E,M,I,GEO,U-23,25.06.2014,2014-06-25-ME,U23 European Championships,Individual,970.xml
+116,F,F,I,GEO,U-23,25.06.2014,2014-06-25-WF,U23 European Championships,Individual,971.xml
+117,F,M,I,GEO,U-23,26.06.2014,2014-06-26-MF,U23 European Championships,Individual,972.xml
+118,S,F,I,GEO,U-23,26.06.2014,2014-06-26-WS,U23 European Championships,Individual,973.xml
+488,E,F,I,GEO,U-23,27.06.2014,2014-06-27-WET,TEAM U23 European Championships,Team,974.xml
+486,S,M,I,GEO,U-23,27.06.2014,2014-06-27-MST,TEAM U23 European Championships,Team,975.xml
+489,F,F,I,GEO,U-23,27.06.2014,2014-06-27-WFT,TEAM U23 European Championships,Team,976.xml
+490,S,F,I,GEO,U-23,28.06.2014,2014-06-28-WST,TEAM U23 European Championships,Team,977.xml
+484,E,M,I,GEO,U-23,28.06.2014,2014-06-28-MET,TEAM U23 European Championships,Team,978.xml
+485,F,M,I,GEO,U-23,28.06.2014,2014-06-28-MFT,TEAM U23 European Championships,Team,979.xml
+67,S,M,,RUS,C,27.11.2010,SMC-in,European Cadet Circuit,Individual,98.xml
+530,F,F,I,HUN,C,13.09.2014,FFC-in,Cadet Circuit,Individual,983.xml
+528,F,M,I,HUN,C,13.09.2014,FMC-in,"Cadet Circuit Gyor Cup, International Cadet Circuit, Men Foil",Individual,984.xml
+527,E,M,I,HUN,C,13.09.2014,EMC-in,"Cadet Circuit Gyor Cup, International Cadet Circuit, Men Epee",Individual,988.xml
+17,S,F,,POL,C,19.09.2014,Cadet Circuit,Cadet Circuit,Individual,989.xml
+20,S,F,I,Belgique,S,24.10.2010,FO-2010-SD,13th FLEMISH OPEN FENCING CHAMPIONSHIPS,Individual,99.xml
+18,S,M,,POL,C,19.09.2014,Cadet Circuit,Cadet Circuit,Individual,990.xml
+19,S,F,I,,J,21.09.2014,,,Team,991.xml
+20,S,M,I,,J,21.09.2014,,,Team,992.xml
+25,E,M,,TUR,C,27.09.2014,EMC-in,European Cadet Circuit Men's Epee Individual,Individual,993.xml
+21,E,F,,SRB,C,27.09.2014,EFC-in,Cadet Circuit,Individual,995.xml
+13,F,F,I,,C,04.10.2014,,Manchester Cadet,Individual,998.xml
+41,S,M,I,HUN,C,04.10.2014,SMC-in,Cadet Circuit,Individual,999.xml
